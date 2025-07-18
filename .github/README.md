@@ -10,12 +10,7 @@ check ransomwatch-history - https://github.com/joshhighet/ransomwatch-history
 </h1>
 </div>
 <p align="center">
-  <a href="https://github.com/joshhighet/ransomwatch/actions/workflows/ransomwatch.yml">
-    <img src="https://github.com/joshhighet/ransomwatch/actions/workflows/ransomwatch.yml/badge.svg" alt="ransomwatch engine" />
-  </a>
-  <a href="https://github.com/joshhighet/ransomwatch/actions/workflows/codeql-analysis.yml">
-    <img src="https://github.com/joshhighet/ransomwatch/actions/workflows/codeql-analysis.yml/badge.svg" alt="ransomwatch codeql analysis" />
-  </a>
+  Original code based on https://github.com/joshhighet/ransomwatch, which was archived on Jun 17, 2025
 </p>
 
 ransomwatch trails the extortion sites used by ransomware groups and surfaces an aggregated feed of claims
