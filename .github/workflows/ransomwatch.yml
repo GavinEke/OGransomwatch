@@ -14,7 +14,7 @@ jobs:
     timeout-minutes: 90
     services:
       torproxy:
-        image: ghcr.io/joshhighet/torsocc:latest
+        image: ghcr.io/joshhighet/torsocc@sha256:6b29e34bfe7e93ccad870f232537910f5e181e3cbb656575daf59ea74d5d96fd # TODO: Fork repo, review code, run under my account
         ports:
         - 9050:9050
     steps:
@@ -27,14 +27,6 @@ jobs:
         run: |
           python3 ransomwatch.py scrape
       - name: run parser
-        env: 
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          DISCORD_WEBHOOK_2: ${{ secrets.DISCORD_WEBHOOK_2 }}
-          MS_TEAMS_WEBHOOK: ${{ secrets.MS_TEAMS_WEBHOOK }}
-          X_CONSUMER_KEY: ${{ secrets.X_CONSUMER_KEY }}
-          X_CONSUMER_SECRET: ${{ secrets.X_CONSUMER_SECRET }}
-          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
-          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
         run: |
           python3 ransomwatch.py parse
       - name: generate markdown & graphs for docsify
@@ -44,13 +36,8 @@ jobs:
         run: |
           python3 assets/groups-kv.py
       - name: save changes
-        # git config --global user.email "joshhighet@users.noreply.github.com"
-        # git config --global user.name "josh"
         run: |  
-          git config user.name github-actions
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
           git commit --all --message "𝚌𝚛𝚘𝚗𝚋𝚘𝚝" || echo "no changes to commit"
           git push
-      - name: ping c2 beep bop
-        run: |
-          curl -sSf "https://betteruptime.com/api/v1/heartbeat/${{ secrets.HEARTBEAT_SECRET }}" || true
