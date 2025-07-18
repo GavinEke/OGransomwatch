@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-18 | [`Yinon Magal Hacked`](https://google.com/search?q=Yinon+Magal+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
+| 2025-07-18 | [`Niflaot Hatzuna Ltd Hacked`](https://google.com/search?q=Niflaot+Hatzuna+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
+| 2025-07-18 | [`Freedom Wood Doors Ltd Hacked`](https://google.com/search?q=Freedom+Wood+Doors+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-07-18 | [`Evans Pharmacy`](https://google.com/search?q=Evans+Pharmacy) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-07-18 | [`Scherzinger`](https://google.com/search?q=Scherzinger) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-07-18 | [`McParlane & Associates`](https://google.com/search?q=McParlane+%26+Associates) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-05-12 | [`EIZO Rugged Solutions`](https://google.com/search?q=EIZO+Rugged+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-12 | [`www.philsmithauto.com`](https://google.com/search?q=www.philsmithauto.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-12 | [`atlplasticsurgeon.com`](https://google.com/search?q=atlplasticsurgeon.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2025-05-12 | [`jtalleycorp.com`](https://google.com/search?q=jtalleycorp.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2025-05-12 | [`southernavionics.com`](https://google.com/search?q=southernavionics.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2025-05-12 | [`industrialdynamics.com`](https://google.com/search?q=industrialdynamics.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
