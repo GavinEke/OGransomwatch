@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-21 | [`We will soon be in your hollow regime`](https://google.com/search?q=We+will+soon+be+in+your+hollow+regime) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-07-19 | [`Idgcayman.com`](https://google.com/search?q=Idgcayman.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-07-19 | [`G*********************y.org`](https://google.com/search?q=G%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2Ay.org) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-07-18 | [`erniesinceresco.com`](https://google.com/search?q=erniesinceresco.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-13 | [`architekturbuero-heller.de`](https://google.com/search?q=architekturbuero-heller.de) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-13 | [`thaonlesvosges.fr`](https://google.com/search?q=thaonlesvosges.fr) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-13 | [`Overhead Door of Nova Scotia`](https://google.com/search?q=Overhead+Door+of+Nova+Scotia) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-13 | [`Operative`](https://google.com/search?q=Operative) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
