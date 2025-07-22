@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-22 | [`Protech Medical`](https://google.com/search?q=Protech+Medical) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2025-07-22 | [`SubsCorp`](https://google.com/search?q=SubsCorp) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2025-07-22 | [`brennytransportation.com`](https://google.com/search?q=brennytransportation.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-07-22 | [`bayviewci.org`](https://google.com/search?q=bayviewci.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-21 | [`scaffoldsolutions.com`](https://google.com/search?q=scaffoldsolutions.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-21 | [`We will soon be in your hollow regime`](https://google.com/search?q=We+will+soon+be+in+your+hollow+regime) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-07-19 | [`Idgcayman.com`](https://google.com/search?q=Idgcayman.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2025-05-13 | [`Dishaka`](https://google.com/search?q=Dishaka) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-13 | [`Looper Goodwine`](https://google.com/search?q=Looper+Goodwine) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-05-13 | [`Nedved Architekti`](https://google.com/search?q=Nedved+Architekti) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-05-13 | [`First Choice Courier &amp; Messenger`](https://google.com/search?q=First+Choice+Courier+%26amp%3B+Messenger) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-05-13 | [`www.colemanmaterials.com`](https://google.com/search?q=www.colemanmaterials.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2025-05-13 | [`architekturbuero-heller.de`](https://google.com/search?q=architekturbuero-heller.de) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2025-05-13 | [`thaonlesvosges.fr`](https://google.com/search?q=thaonlesvosges.fr) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
