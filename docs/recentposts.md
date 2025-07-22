@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-22 | [`reizenlaw.com`](https://google.com/search?q=reizenlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-07-22 | [`neues-leben.de`](https://google.com/search?q=neues-leben.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-07-22 | [`asi-group.com`](https://google.com/search?q=asi-group.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-22 | [`tiergesundheitszentrum-koenigslutter.de`](https://google.com/search?q=tiergesundheitszentrum-koenigslutter.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-22 | [`nboat.com`](https://google.com/search?q=nboat.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-22 | [`hitachi-tds.com`](https://google.com/search?q=hitachi-tds.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-05-16 | [`south african airways (flysaa.com)`](https://google.com/search?q=south+african+airways+%28flysaa.com%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-15 | [`[DISCLOSED]OeTTINGER Brauerei`](https://google.com/search?q=%5BDISCLOSED%5DOeTTINGER+Brauerei) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-05-15 | [`http://www.gloucesterva.gov`](https://google.com/search?q=http%3A%2F%2Fwww.gloucesterva.gov) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2025-05-15 | [`GARDNER ORTHOPEDICS`](https://google.com/search?q=GARDNER+ORTHOPEDICS) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-05-14 | [`Royal Chemical`](https://google.com/search?q=Royal+Chemical) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-05-14 | [`Regal Ideas`](https://google.com/search?q=Regal+Ideas) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
