@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-23 | [` C3 Group `](https://google.com/search?q=+C3+Group+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
+| 2025-07-23 | [`Palm Bay International `](https://google.com/search?q=Palm+Bay+International+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-07-23 | [`Ka Logistics`](https://google.com/search?q=Ka+Logistics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-23 | [`DA Whitacre Construction`](https://google.com/search?q=DA+Whitacre+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-23 | [`Biofloral`](https://google.com/search?q=Biofloral) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-05-17 | [`npfy.org`](https://google.com/search?q=npfy.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-17 | [`nissi-beach.com`](https://google.com/search?q=nissi-beach.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-16 | [`Carney Badley Spellman`](https://google.com/search?q=Carney+Badley+Spellman) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-16 | [`finanzconsult-immobilien.de`](https://google.com/search?q=finanzconsult-immobilien.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-05-16 | [`alpha-steuer.de`](https://google.com/search?q=alpha-steuer.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
