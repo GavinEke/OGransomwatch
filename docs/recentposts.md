@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-24 | [`teampostop.net`](https://google.com/search?q=teampostop.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-07-24 | [`seasonsfour.com`](https://google.com/search?q=seasonsfour.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-24 | [`Universal Software Solutions`](https://google.com/search?q=Universal+Software+Solutions) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-07-23 | [`Sementes Jotabasso`](https://google.com/search?q=Sementes+Jotabasso) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-23 | [` C3 Group `](https://google.com/search?q=+C3+Group+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-05-17 | [`Gearhiser Peters Elliott & Cannon`](https://google.com/search?q=Gearhiser+Peters+Elliott+%26+Cannon) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-05-17 | [`diyar.com`](https://google.com/search?q=diyar.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-05-17 | [`www.davisdavisco.com`](https://google.com/search?q=www.davisdavisco.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-05-17 | [`ros.eu`](https://google.com/search?q=ros.eu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-05-17 | [`npfy.org`](https://google.com/search?q=npfy.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
