@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-25 | [`jorgefernandez.es`](https://google.com/search?q=jorgefernandez.es) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-07-24 | [`teampostop.net`](https://google.com/search?q=teampostop.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-24 | [`seasonsfour.com`](https://google.com/search?q=seasonsfour.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-24 | [`Universal Software Solutions`](https://google.com/search?q=Universal+Software+Solutions) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-17 | [`Maruichi Leavitt Pipe & Tube`](https://google.com/search?q=Maruichi+Leavitt+Pipe+%26+Tube) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-05-17 | [`Gearhiser Peters Elliott & Cannon`](https://google.com/search?q=Gearhiser+Peters+Elliott+%26+Cannon) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-05-17 | [`diyar.com`](https://google.com/search?q=diyar.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-05-17 | [`www.davisdavisco.com`](https://google.com/search?q=www.davisdavisco.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
