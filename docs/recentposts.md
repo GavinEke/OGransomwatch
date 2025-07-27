@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-27 | [`CCI Torrevieja`](https://google.com/search?q=CCI+Torrevieja) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2025-07-27 | [`College stjb`](https://google.com/search?q=College+stjb) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-07-26 | [`hptc.org`](https://google.com/search?q=hptc.org) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-07-25 | [`I.P. One LTD`](https://google.com/search?q=I.P.+One+LTD) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-07-25 | [`Bouey & Black LLP`](https://google.com/search?q=Bouey+%26+Black+LLP) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-05-18 | [`Termolar`](https://google.com/search?q=Termolar) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-18 | [`Fong Shann Printing Philippines`](https://google.com/search?q=Fong+Shann+Printing+Philippines) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-05-18 | [`Road Development Corporation`](https://google.com/search?q=Road+Development+Corporation) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-05-18 | [`RECI SYSTEMS`](https://google.com/search?q=RECI+SYSTEMS) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-05-18 | [`Grupo Boulevard`](https://google.com/search?q=Grupo+Boulevard) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
