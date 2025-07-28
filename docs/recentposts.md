@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-28 | [`Mortensen Law Offices`](https://google.com/search?q=Mortensen+Law+Offices) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
+| 2025-07-28 | [`VIRTUALWEB.US`](https://google.com/search?q=VIRTUALWEB.US) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-07-27 | [`CCI Torrevieja`](https://google.com/search?q=CCI+Torrevieja) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-07-27 | [`College stjb`](https://google.com/search?q=College+stjb) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-07-26 | [`hptc.org`](https://google.com/search?q=hptc.org) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-05-18 | [`null`](https://google.com/search?q=null) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-18 | [`Colegio de la Compania de Maria Vigo`](https://google.com/search?q=Colegio+de+la+Compania+de+Maria+Vigo) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-05-18 | [`Termolar`](https://google.com/search?q=Termolar) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-05-18 | [`Fong Shann Printing Philippines`](https://google.com/search?q=Fong+Shann+Printing+Philippines) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-05-18 | [`Road Development Corporation`](https://google.com/search?q=Road+Development+Corporation) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
