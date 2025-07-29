@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-29 | [`www.v4ulogistic.com/ Leaked by www.etornetworks.com`](https://google.com/search?q=www.v4ulogistic.com%2F+Leaked+by+www.etornetworks.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-07-29 | [`lstlaw.ca/ Leaked by www.etornetworks.com`](https://google.com/search?q=lstlaw.ca%2F+Leaked+by+www.etornetworks.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-07-29 | [`dwllp.ca/ Leaked by www.etornetworks.com`](https://google.com/search?q=dwllp.ca%2F+Leaked+by+www.etornetworks.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-07-29 | [`Trilinklogistics Inc / Leacked by www.etornetworks.com/`](https://google.com/search?q=Trilinklogistics+Inc+%2F+Leacked+by+www.etornetworks.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-29 | [`First Baptist Church of Hammond`](https://google.com/search?q=First+Baptist+Church+of+Hammond) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-07-28 | [`Sandhill View County School_UK`](https://google.com/search?q=Sandhill+View+County+School_UK) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-28 | [`Mortensen Law Offices`](https://google.com/search?q=Mortensen+Law+Offices) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2025-05-20 | [`Durham Arts Council`](https://google.com/search?q=Durham+Arts+Council) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-05-20 | [`Florida Lung`](https://google.com/search?q=Florida+Lung) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-20 | [`Runtec`](https://google.com/search?q=Runtec) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-05-20 | [`The Vascular Experts`](https://google.com/search?q=The+Vascular+Experts) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-05-20 | [`Tri State Electric`](https://google.com/search?q=Tri+State+Electric) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-05-19 | [`K & K Fence`](https://google.com/search?q=K+%26+K+Fence) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-18 | [`null`](https://google.com/search?q=null) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
