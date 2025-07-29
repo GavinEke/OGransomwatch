@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-29 | [`First Baptist Church of Hammond`](https://google.com/search?q=First+Baptist+Church+of+Hammond) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-07-28 | [`Sandhill View County School_UK`](https://google.com/search?q=Sandhill+View+County+School_UK) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-28 | [`Mortensen Law Offices`](https://google.com/search?q=Mortensen+Law+Offices) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-07-28 | [`VIRTUALWEB.US`](https://google.com/search?q=VIRTUALWEB.US) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-20 | [`Tri State Electric`](https://google.com/search?q=Tri+State+Electric) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-05-19 | [`K & K Fence`](https://google.com/search?q=K+%26+K+Fence) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-18 | [`null`](https://google.com/search?q=null) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2025-05-18 | [`Colegio de la Compania de Maria Vigo`](https://google.com/search?q=Colegio+de+la+Compania+de+Maria+Vigo) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
