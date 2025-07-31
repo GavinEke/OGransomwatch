@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-31 | [`lynkspot.com`](https://google.com/search?q=lynkspot.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-07-31 | [`Thern`](https://google.com/search?q=Thern) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-07-31 | [`Quartus Engineering`](https://google.com/search?q=Quartus+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-31 | [`G*****n.com`](https://google.com/search?q=G%2A%2A%2A%2A%2An.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-07-31 | [`H**u.i*v.tw`](https://google.com/search?q=H%2A%2Au.i%2Av.tw) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-07-31 | [`T***********p.com`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2Ap.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-05-23 | [`AKJ Energiteknik`](https://google.com/search?q=AKJ+Energiteknik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-22 | [`piercecountylibrary.org`](https://google.com/search?q=piercecountylibrary.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-22 | [`4Motive`](https://google.com/search?q=4Motive) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-05-22 | [`Curewell Pharmacy &amp; Surgicals`](https://google.com/search?q=Curewell+Pharmacy+%26amp%3B+Surgicals) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-05-22 | [`Greater Seattle Concrete`](https://google.com/search?q=Greater+Seattle+Concrete) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-22 | [`CNHI LLC`](https://google.com/search?q=CNHI+LLC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
