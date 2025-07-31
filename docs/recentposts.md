@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-31 | [`whiteconlee.com`](https://google.com/search?q=whiteconlee.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-07-31 | [`firstpresatl.org`](https://google.com/search?q=firstpresatl.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-07-31 | [`deliastamales.com`](https://google.com/search?q=deliastamales.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-31 | [`lynkspot.com`](https://google.com/search?q=lynkspot.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-31 | [`Thern`](https://google.com/search?q=Thern) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-31 | [`Quartus Engineering`](https://google.com/search?q=Quartus+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-05-24 | [`T******p.ae`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2Ap.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-05-24 | [`Vernon Milling`](https://google.com/search?q=Vernon+Milling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-23 | [`South Atlantic Federal Credit Union`](https://google.com/search?q=South+Atlantic+Federal+Credit+Union) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-23 | [`AKJ Energiteknik`](https://google.com/search?q=AKJ+Energiteknik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-22 | [`piercecountylibrary.org`](https://google.com/search?q=piercecountylibrary.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-05-22 | [`4Motive`](https://google.com/search?q=4Motive) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
