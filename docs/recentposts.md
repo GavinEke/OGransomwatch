@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-06 | [`Afpa`](https://google.com/search?q=Afpa) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-06 | [` Palm Bay International `](https://google.com/search?q=+Palm+Bay+International+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-08-06 | [`F&amp;P Georgia Mfg Inc `](https://google.com/search?q=F%26amp%3BP+Georgia+Mfg+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-08-06 | [`Consumer Electronics & Computers Retail Retail`](https://google.com/search?q=Consumer+Electronics+%26+Computers+Retail+Retail) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-28 | [`Eliel Cycling`](https://google.com/search?q=Eliel+Cycling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-28 | [`Cator Ruma & Associates`](https://google.com/search?q=Cator+Ruma+%26+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-28 | [`l*s.com.vn`](https://google.com/search?q=l%2As.com.vn) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-05-28 | [`Fujipoly  Ltd`](https://google.com/search?q=Fujipoly++Ltd) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
