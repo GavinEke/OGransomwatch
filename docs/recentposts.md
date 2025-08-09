@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-09 | [`RHI Supply`](https://google.com/search?q=RHI+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-08-09 | [`NEAS`](https://google.com/search?q=NEAS) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-08-09 | [`CFI Tire Service`](https://google.com/search?q=CFI+Tire+Service) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-08 | [`multichem.net`](https://google.com/search?q=multichem.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-07 | [`Triveneta Vetro`](https://google.com/search?q=Triveneta+Vetro) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-08-06 | [`Looking for pentesters`](https://google.com/search?q=Looking+for+pentesters) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-05-30 | [`STANDBYTE`](https://google.com/search?q=STANDBYTE) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-05-30 | [`Acorn Sales`](https://google.com/search?q=Acorn+Sales) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-05-30 | [`geruestba`](https://google.com/search?q=geruestba) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-05-30 | [`UnigazJordan`](https://google.com/search?q=UnigazJordan) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2025-05-30 | [`M&amp;H Electric Fabricators`](https://google.com/search?q=M%26amp%3BH+Electric+Fabricators) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
-| 2025-05-30 | [`Jordan Drug`](https://google.com/search?q=Jordan+Drug) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
