@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-10 | [`Howard Financial & Associates`](https://google.com/search?q=Howard+Financial+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-09 | [`RHI Supply`](https://google.com/search?q=RHI+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-09 | [`NEAS`](https://google.com/search?q=NEAS) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-09 | [`CFI Tire Service`](https://google.com/search?q=CFI+Tire+Service) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-30 | [`Anchor Industries`](https://google.com/search?q=Anchor+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-30 | [`STANDBYTE`](https://google.com/search?q=STANDBYTE) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-05-30 | [`Acorn Sales`](https://google.com/search?q=Acorn+Sales) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-05-30 | [`geruestba`](https://google.com/search?q=geruestba) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
