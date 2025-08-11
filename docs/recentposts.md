@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-11 | [`Travancore Analytics`](https://google.com/search?q=Travancore+Analytics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-08-11 | [`The Scharine Group`](https://google.com/search?q=The+Scharine+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-08-11 | [`Rite Track`](https://google.com/search?q=Rite+Track) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-08-11 | [`Bluewater Yacht Sales`](https://google.com/search?q=Bluewater+Yacht+Sales) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-11 | [`Louis Tieu DDS MD`](https://google.com/search?q=Louis+Tieu+DDS+MD) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-10 | [`Alascom`](https://google.com/search?q=Alascom) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-10 | [`Howard Financial & Associates`](https://google.com/search?q=Howard+Financial+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2025-06-01 | [`Dcsdev.org`](https://google.com/search?q=Dcsdev.org) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-05-31 | [`Trustgrp.ae`](https://google.com/search?q=Trustgrp.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-05-31 | [`sitro.com.au`](https://google.com/search?q=sitro.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-05-30 | [`mysfa.org`](https://google.com/search?q=mysfa.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-05-30 | [`W.E. Bowers`](https://google.com/search?q=W.E.+Bowers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-30 | [`Tri-Point Solutions`](https://google.com/search?q=Tri-Point+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-30 | [`Anchor Industries`](https://google.com/search?q=Anchor+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
