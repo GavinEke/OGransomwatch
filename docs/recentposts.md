@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-12 | [`Trans-Tex`](https://google.com/search?q=Trans-Tex) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-11 | [`Travancore Analytics`](https://google.com/search?q=Travancore+Analytics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-11 | [`The Scharine Group`](https://google.com/search?q=The+Scharine+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-11 | [`Rite Track`](https://google.com/search?q=Rite+Track) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-02 | [`Universidad Técnica del Norte Ecuador`](https://google.com/search?q=Universidad+T%C3%A9cnica+del+Norte+Ecuador) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-01 | [`Dcsdev.org`](https://google.com/search?q=Dcsdev.org) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-05-31 | [`Trustgrp.ae`](https://google.com/search?q=Trustgrp.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-05-31 | [`sitro.com.au`](https://google.com/search?q=sitro.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
