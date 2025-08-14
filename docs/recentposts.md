@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-14 | [`eShipGlobal`](https://google.com/search?q=eShipGlobal) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-08-14 | [`NextLabs`](https://google.com/search?q=NextLabs) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-08-14 | [`Greenscape Pump Services`](https://google.com/search?q=Greenscape+Pump+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-08-14 | [`ABcom`](https://google.com/search?q=ABcom) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-12 | [`EB Farmacutica`](https://google.com/search?q=EB+Farmacutica) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-08-12 | [`Trans-Tex`](https://google.com/search?q=Trans-Tex) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-11 | [`Travancore Analytics`](https://google.com/search?q=Travancore+Analytics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2025-06-03 | [`FLOE Internationa`](https://google.com/search?q=FLOE+Internationa) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-02 | [`Capital Trade`](https://google.com/search?q=Capital+Trade) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-02 | [`Vinda Group`](https://google.com/search?q=Vinda+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-06-02 | [`http://www.kcac.com`](https://google.com/search?q=http%3A%2F%2Fwww.kcac.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2025-06-02 | [`valuestoreit`](https://google.com/search?q=valuestoreit) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-06-02 | [`Universidad Técnica del Norte Ecuador`](https://google.com/search?q=Universidad+T%C3%A9cnica+del+Norte+Ecuador) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-06-01 | [`Dcsdev.org`](https://google.com/search?q=Dcsdev.org) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
