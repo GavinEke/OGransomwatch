@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-15 | [`We are the shadow you thought was a mirage`](https://google.com/search?q=We+are+the+shadow+you+thought+was+a+mirage) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-08-14 | [`eShipGlobal`](https://google.com/search?q=eShipGlobal) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-14 | [`NextLabs`](https://google.com/search?q=NextLabs) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-14 | [`Greenscape Pump Services`](https://google.com/search?q=Greenscape+Pump+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-03 | [`Jericho Fire Department`](https://google.com/search?q=Jericho+Fire+Department) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-06-03 | [`FLOE Internationa`](https://google.com/search?q=FLOE+Internationa) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-02 | [`Capital Trade`](https://google.com/search?q=Capital+Trade) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-06-02 | [`Vinda Group`](https://google.com/search?q=Vinda+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
