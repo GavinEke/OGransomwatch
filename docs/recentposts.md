@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-15 | [`Töller`](https://google.com/search?q=T%C3%B6ller) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-08-15 | [`MJets`](https://google.com/search?q=MJets) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-15 | [`SFA Engineering`](https://google.com/search?q=SFA+Engineering) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2025-08-15 | [`www.sfa.co.kr`](https://google.com/search?q=www.sfa.co.kr) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2025-08-15 | [`We are the shadow you thought was a mirage`](https://google.com/search?q=We+are+the+shadow+you+thought+was+a+mirage) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-06-04 | [`Funktel GmbH`](https://google.com/search?q=Funktel+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-03 | [`Sorter Construction`](https://google.com/search?q=Sorter+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-03 | [`Rochon`](https://google.com/search?q=Rochon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-06-03 | [`Sandhills Medical Foundation`](https://google.com/search?q=Sandhills+Medical+Foundation) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-06-03 | [`Jericho Fire Department`](https://google.com/search?q=Jericho+Fire+Department) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
