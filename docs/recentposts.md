@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-16 | [`fairfieldmemorial.`](https://google.com/search?q=fairfieldmemorial.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-08-15 | [`Töller`](https://google.com/search?q=T%C3%B6ller) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-15 | [`MJets`](https://google.com/search?q=MJets) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-15 | [`SFA Engineering`](https://google.com/search?q=SFA+Engineering) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-04 | [`cemeteries.local`](https://google.com/search?q=cemeteries.local) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-04 | [`Funktel GmbH`](https://google.com/search?q=Funktel+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-03 | [`Sorter Construction`](https://google.com/search?q=Sorter+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-06-03 | [`Rochon`](https://google.com/search?q=Rochon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
