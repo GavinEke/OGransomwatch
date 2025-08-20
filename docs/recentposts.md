@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-20 | [`aero`](https://google.com/search?q=aero) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-08-19 | [`Maxell Asia`](https://google.com/search?q=Maxell+Asia) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-08-17 | [`Panorama`](https://google.com/search?q=Panorama) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-08-17 | [`mycpaconnection.com`](https://google.com/search?q=mycpaconnection.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-05 | [`A*****e.gov.ae`](https://google.com/search?q=A%2A%2A%2A%2A%2Ae.gov.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-06-05 | [`iscamen`](https://google.com/search?q=iscamen) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-05 | [`Lts.com.vn`](https://google.com/search?q=Lts.com.vn) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-06-04 | [`https://devimco.com/`](https://google.com/search?q=https%3A%2F%2Fdevimco.com%2F) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
