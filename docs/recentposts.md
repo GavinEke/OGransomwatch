@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-20 | [`EUROFILM ΜΑΝΤΖΑΡΗΣ Α.Ε`](https://google.com/search?q=EUROFILM+%CE%9C%CE%91%CE%9D%CE%A4%CE%96%CE%91%CE%A1%CE%97%CE%A3+%CE%91.%CE%95) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-20 | [`Elkhart Independent School District`](https://google.com/search?q=Elkhart+Independent+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-20 | [`Netstar_South_Africa`](https://google.com/search?q=Netstar_South_Africa) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-20 | [`aero`](https://google.com/search?q=aero) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-06 | [`Kittery Police Department`](https://google.com/search?q=Kittery+Police+Department) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-05 | [`Triumph Construction`](https://google.com/search?q=Triumph+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-05 | [`Ebac`](https://google.com/search?q=Ebac) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-06-05 | [`A*****e.gov.ae`](https://google.com/search?q=A%2A%2A%2A%2A%2Ae.gov.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
