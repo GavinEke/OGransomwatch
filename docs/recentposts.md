@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-21 | [`All Truck Transportation Co`](https://google.com/search?q=All+Truck+Transportation+Co) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2025-08-21 | [`Ambitek`](https://google.com/search?q=Ambitek) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-08-20 | [` F&amp;P Georgia Mfg Inc `](https://google.com/search?q=+F%26amp%3BP+Georgia+Mfg+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-08-20 | [`Ocean Edge Resort &amp; Golf Club `](https://google.com/search?q=Ocean+Edge+Resort+%26amp%3B+Golf+Club+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-08-20 | [`Omega Global Technologies`](https://google.com/search?q=Omega+Global+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-06-09 | [`Homestead Gardens`](https://google.com/search?q=Homestead+Gardens) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-09 | [`Community Choice Credit Union`](https://google.com/search?q=Community+Choice+Credit+Union) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-09 | [`EUC Sjlland`](https://google.com/search?q=EUC+Sjlland) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-06-07 | [`Hudson River Housing`](https://google.com/search?q=Hudson+River+Housing) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-06-07 | [`waiwhetu-medical-centre`](https://google.com/search?q=waiwhetu-medical-centre) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
