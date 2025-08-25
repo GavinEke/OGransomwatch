@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-25 | [`https://www.woodlore.ca`](https://google.com/search?q=https%3A%2F%2Fwww.woodlore.ca) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2025-08-25 | [`Trico`](https://google.com/search?q=Trico) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-08-25 | [`DLCOSMETICS O.E.`](https://google.com/search?q=DLCOSMETICS+O.E.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-08-22 | [`Quadrangle Imaging Center`](https://google.com/search?q=Quadrangle+Imaging+Center) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-14 | [`Aerodreams Hacked`](https://google.com/search?q=Aerodreams+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-12 | [`Ajmanre.gov.ae`](https://google.com/search?q=Ajmanre.gov.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-06-12 | [`alleray-labrouste`](https://google.com/search?q=alleray-labrouste) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-06-11 | [`AP Lettering`](https://google.com/search?q=AP+Lettering) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
