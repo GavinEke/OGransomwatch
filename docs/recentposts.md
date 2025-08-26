@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-26 | [`Premier Realty Group`](https://google.com/search?q=Premier+Realty+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-08-26 | [`Logan & Mencuccini`](https://google.com/search?q=Logan+%26+Mencuccini) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-08-26 | [`Galaxy Freightline`](https://google.com/search?q=Galaxy+Freightline) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-08-26 | [`Edward J McKarski`](https://google.com/search?q=Edward+J+McKarski) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-08-26 | [`Banville Wine Merchants`](https://google.com/search?q=Banville+Wine+Merchants) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-26 | [`sirva`](https://google.com/search?q=sirva) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-08-26 | [`marlboroughpartners.com`](https://google.com/search?q=marlboroughpartners.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-25 | [`Security First Credit Union`](https://google.com/search?q=Security+First+Credit+Union) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2025-06-15 | [`S&H Express`](https://google.com/search?q=S%26H+Express) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-14 | [`Rollex`](https://google.com/search?q=Rollex) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-14 | [`Project Partners`](https://google.com/search?q=Project+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-06-14 | [`NPD Products`](https://google.com/search?q=NPD+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-06-14 | [`099 ISP Hacked`](https://google.com/search?q=099+ISP+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-06-14 | [`Y.G. New Idan Hacked`](https://google.com/search?q=Y.G.+New+Idan+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-06-14 | [`Israel’s fuel supply system Hacked`](https://google.com/search?q=Israel%E2%80%99s+fuel+supply+system+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-06-14 | [`Israel&#8217;s fuel supply system Hacked`](https://google.com/search?q=Israel%26%238217%3Bs+fuel+supply+system+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
