@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-28 | [`Kafka Conveyors & Equipment Inc`](https://google.com/search?q=Kafka+Conveyors+%26+Equipment+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-08-28 | [`CPK Interior Products Inc`](https://google.com/search?q=CPK+Interior+Products+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-28 | [`Firelands Scientific`](https://google.com/search?q=Firelands+Scientific) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-28 | [`Summit College`](https://google.com/search?q=Summit+College) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-08-27 | [`climaxportable.com`](https://google.com/search?q=climaxportable.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-07-18 | [`Advance Ready Mix`](https://google.com/search?q=Advance+Ready+Mix) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-18 | [`Insurance Office of America (US)`](https://google.com/search?q=Insurance+Office+of+America+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2025-06-16 | [`NF Stroth & Associates`](https://google.com/search?q=NF+Stroth+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-06-16 | [`Jasper Products`](https://google.com/search?q=Jasper+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-06-16 | [`CNPC USA`](https://google.com/search?q=CNPC+USA) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
