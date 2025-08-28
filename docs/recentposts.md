@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-08-28 | [`Firelands Scientific`](https://google.com/search?q=Firelands+Scientific) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-28 | [`Summit College`](https://google.com/search?q=Summit+College) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-08-27 | [`climaxportable.com`](https://google.com/search?q=climaxportable.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-27 | [`allmaxnutrition.com`](https://google.com/search?q=allmaxnutrition.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-16 | [`NF Stroth & Associates`](https://google.com/search?q=NF+Stroth+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-16 | [`Jasper Products`](https://google.com/search?q=Jasper+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-16 | [`CNPC USA`](https://google.com/search?q=CNPC+USA) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-06-16 | [`TBN Israel Hacked`](https://google.com/search?q=TBN+Israel+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
