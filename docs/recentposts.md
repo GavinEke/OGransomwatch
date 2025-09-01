@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-01 | [`Vanderpool Construction`](https://google.com/search?q=Vanderpool+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-01 | [`Juggernaut`](https://google.com/search?q=Juggernaut) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-01 | [`Arboris`](https://google.com/search?q=Arboris) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-01 | [`All States Materials Group`](https://google.com/search?q=All+States+Materials+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-30 | [`OB GYN Associates`](https://google.com/search?q=OB+GYN+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-29 | [`www.sbdl.net`](https://google.com/search?q=www.sbdl.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-29 | [`Manesa`](https://google.com/search?q=Manesa) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2025-07-18 | [`Morrison Companies`](https://google.com/search?q=Morrison+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-18 | [`Lee Publications`](https://google.com/search?q=Lee+Publications) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-18 | [`IMSSA Manufacturing`](https://google.com/search?q=IMSSA+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-07-18 | [`Hulberg & Associates`](https://google.com/search?q=Hulberg+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-07-18 | [`FormWood Industries`](https://google.com/search?q=FormWood+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-07-18 | [`EIA Global`](https://google.com/search?q=EIA+Global) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-07-18 | [`CyberlinkASP`](https://google.com/search?q=CyberlinkASP) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
