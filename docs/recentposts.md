@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-03 | [`CESCONSULT`](https://google.com/search?q=CESCONSULT) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-02 | [`Bartek Ingredients`](https://google.com/search?q=Bartek+Ingredients) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-01 | [`TAK Communications, Inc`](https://google.com/search?q=TAK+Communications%2C+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-01 | [`Vanderpool Construction`](https://google.com/search?q=Vanderpool+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-07-18 | [`Whim Hospitality`](https://google.com/search?q=Whim+Hospitality) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-18 | [`Tyree Oil`](https://google.com/search?q=Tyree+Oil) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-18 | [`Rockrose Development`](https://google.com/search?q=Rockrose+Development) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-07-18 | [`Morrison Companies`](https://google.com/search?q=Morrison+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
