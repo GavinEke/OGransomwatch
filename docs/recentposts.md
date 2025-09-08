@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-08 | [`nubox.com & sumasaas.com`](https://google.com/search?q=nubox.com+%26+sumasaas.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-09-08 | [` Ocean Edge Resort &amp; Golf Club `](https://google.com/search?q=+Ocean+Edge+Resort+%26amp%3B+Golf+Club+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-09-08 | [`https://gazomet.pl & https://cgas.pl`](https://google.com/search?q=https%3A%2F%2Fgazomet.pl+%26+https%3A%2F%2Fcgas.pl) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-09-06 | [`schuler-service-group.de`](https://google.com/search?q=schuler-service-group.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-07-18 | [`Otjiwarongo Municipality`](https://google.com/search?q=Otjiwarongo+Municipality) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-18 | [`New Jersey Association on Correction`](https://google.com/search?q=New+Jersey+Association+on+Correction) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-18 | [`National Institute of Water Resources`](https://google.com/search?q=National+Institute+of+Water+Resources) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-18 | [`Lamberts Business Systems`](https://google.com/search?q=Lamberts+Business+Systems) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
