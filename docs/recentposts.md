@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-08 | [`https://gazomet.pl & https://cgas.pl`](https://google.com/search?q=https%3A%2F%2Fgazomet.pl+%26+https%3A%2F%2Fcgas.pl) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-09-06 | [`schuler-service-group.de`](https://google.com/search?q=schuler-service-group.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-05 | [`Elite Trailers`](https://google.com/search?q=Elite+Trailers) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-09-04 | [`Monterey Mushrooms, LLC`](https://google.com/search?q=Monterey+Mushrooms%2C+LLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-07-18 | [`National Institute of Water Resources`](https://google.com/search?q=National+Institute+of+Water+Resources) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-18 | [`Lamberts Business Systems`](https://google.com/search?q=Lamberts+Business+Systems) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-18 | [`Huize Sint-Augustinus_BE`](https://google.com/search?q=Huize+Sint-Augustinus_BE) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-18 | [`HTC_Högtryckscenter_Sweden`](https://google.com/search?q=HTC_H%C3%B6gtryckscenter_Sweden) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
