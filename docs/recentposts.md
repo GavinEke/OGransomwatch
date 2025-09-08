@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-08 | [`Promark Partners`](https://google.com/search?q=Promark+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-08 | [`Energy Fishing`](https://google.com/search?q=Energy+Fishing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-08 | [`BDE Computer Services`](https://google.com/search?q=BDE+Computer+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-08 | [`nubox.com & sumasaas.com`](https://google.com/search?q=nubox.com+%26+sumasaas.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-09-08 | [` Ocean Edge Resort &amp; Golf Club `](https://google.com/search?q=+Ocean+Edge+Resort+%26amp%3B+Golf+Club+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-09-08 | [`https://gazomet.pl & https://cgas.pl`](https://google.com/search?q=https%3A%2F%2Fgazomet.pl+%26+https%3A%2F%2Fcgas.pl) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-07-18 | [`Vitec`](https://google.com/search?q=Vitec) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-18 | [`TERENCE C RINGLAND & CO PTY LTD`](https://google.com/search?q=TERENCE+C+RINGLAND+%26+CO+PTY+LTD) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-18 | [`Secountryvets_AU`](https://google.com/search?q=Secountryvets_AU) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-18 | [`Otjiwarongo Municipality`](https://google.com/search?q=Otjiwarongo+Municipality) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-18 | [`New Jersey Association on Correction`](https://google.com/search?q=New+Jersey+Association+on+Correction) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-18 | [`National Institute of Water Resources`](https://google.com/search?q=National+Institute+of+Water+Resources) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
