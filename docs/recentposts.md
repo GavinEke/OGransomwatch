@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-09 | [`Royal Machine & Tool`](https://google.com/search?q=Royal+Machine+%26+Tool) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-09 | [`Rising Star Hydraulics`](https://google.com/search?q=Rising+Star+Hydraulics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-09 | [`Reliable Roofing`](https://google.com/search?q=Reliable+Roofing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-09 | [`Mayors Machine Works`](https://google.com/search?q=Mayors+Machine+Works) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-09 | [`JIT Energy Services`](https://google.com/search?q=JIT+Energy+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-09 | [`GL Veneer`](https://google.com/search?q=GL+Veneer) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-09 | [`GDZ Computer Services`](https://google.com/search?q=GDZ+Computer+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-09 | [`Edwards Interiors`](https://google.com/search?q=Edwards+Interiors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-09 | [`Cool Wind Ventilation`](https://google.com/search?q=Cool+Wind+Ventilation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-09 | [`Celtic Engineering`](https://google.com/search?q=Celtic+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-09 | [`Anderson Aluminum`](https://google.com/search?q=Anderson+Aluminum) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-09 | [`Republica De Panama`](https://google.com/search?q=Republica+De+Panama) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-09 | [`Miesa`](https://google.com/search?q=Miesa) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-08 | [`Promark Partners`](https://google.com/search?q=Promark+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2025-07-18 | [`GlobaLinks Hacked`](https://google.com/search?q=GlobaLinks+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-07-18 | [`Evidence of cooperation between the Mossad and Mojtaba Pourmohsen`](https://google.com/search?q=Evidence+of+cooperation+between+the+Mossad+and+Mojtaba+Pourmohsen) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-07-18 | [`Assetlabs`](https://google.com/search?q=Assetlabs) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-07-18 | [`BD Group`](https://google.com/search?q=BD+Group) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-07-18 | [`RG Mexico`](https://google.com/search?q=RG+Mexico) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-07-18 | [`Collision &amp; Classics`](https://google.com/search?q=Collision+%26amp%3B+Classics) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-07-18 | [`GMORS Co., Ltd`](https://google.com/search?q=GMORS+Co.%2C+Ltd) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
-| 2025-07-18 | [`www.miatech.net`](https://google.com/search?q=www.miatech.net) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
-| 2025-07-18 | [`track.html`](https://google.com/search?q=track.html) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
-| 2025-07-18 | [`bot2.html`](https://google.com/search?q=bot2.html) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
-| 2025-07-18 | [`Сomet-strip-enterprises-ltd`](https://google.com/search?q=%D0%A1omet-strip-enterprises-ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-18 | [`www.marvimundo.com`](https://google.com/search?q=www.marvimundo.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-18 | [`Wingpoh_SG`](https://google.com/search?q=Wingpoh_SG) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-18 | [`Vitec`](https://google.com/search?q=Vitec) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
