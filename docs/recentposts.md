@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-10 | [`Gagosian(US, UK)`](https://google.com/search?q=Gagosian%28US%2C+UK%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2025-09-10 | [`M8 Group`](https://google.com/search?q=M8+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-09-10 | [`Northland Auto Solutions`](https://google.com/search?q=Northland+Auto+Solutions) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-09-10 | [`www.melenco.com`](https://google.com/search?q=www.melenco.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-07-18 | [`Official Statement from Handala`](https://google.com/search?q=Official+Statement+from+Handala) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-07-18 | [`New Telegram Channel`](https://google.com/search?q=New+Telegram+Channel) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-07-18 | [`Leaked Documents Reveal Identities of Iran International Staff`](https://google.com/search?q=Leaked+Documents+Reveal+Identities+of+Iran+International+Staff) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-07-18 | [`JobPlace Ltd Hacked`](https://google.com/search?q=JobPlace+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
