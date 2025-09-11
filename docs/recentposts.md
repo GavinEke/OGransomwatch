@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-11 | [`moinian.com`](https://google.com/search?q=moinian.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-09-11 | [`deerfield.com / singulargenomics.com`](https://google.com/search?q=deerfield.com+%2F+singulargenomics.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-10 | [`transnova-ruf.de`](https://google.com/search?q=transnova-ruf.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-10 | [`Gagosian(US, UK)`](https://google.com/search?q=Gagosian%28US%2C+UK%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-07-18 | [` Progressive Auto Group `](https://google.com/search?q=+Progressive+Auto+Group+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-07-18 | [`C3 Group `](https://google.com/search?q=C3+Group+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-07-18 | [`QHR Ltd Hacked`](https://google.com/search?q=QHR+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-07-18 | [`Official Statement from Handala`](https://google.com/search?q=Official+Statement+from+Handala) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
