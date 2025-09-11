@@ -4619,7 +4619,7 @@ document.addEventListener("DOMContentLoaded", function() {
                                       </cont>
                                     </in>
                                   </card>                                    </brief>
-              <discls><disc id="d-ZOk6hZZdX7NqiACKSAuJHDk0" stat="1"><indicator><icn></icn></indicator><cont><top><l><span>All Data</span></l><r><span>Awaiting&nbsp;<span id="d1757944500">--:--:--</span></span><script>docount(document.getElementById("d1757944500"), 1757944500, "-ZOk6hZZdX7NqiACKSAuJHDk0", 0, false);</script></r></top><cat></cat><p>If you are an authorized representative to negotiate on behalf of this company, submit your application via the session messenger.</p><gallery id="gallery-xorJo4Co3BUnW0u8Q477tmsO"><img src="
+              <discls><disc id="d-MeRTz1NfEPwy6pIuGSh26g4K" stat="1"><indicator><icn></icn></indicator><cont><top><l><span>All Data</span></l><r><span>Awaiting&nbsp;<span id="d1757944500">--:--:--</span></span><script>docount(document.getElementById("d1757944500"), 1757944500, "-MeRTz1NfEPwy6pIuGSh26g4K", 0, false);</script></r></top><cat></cat><p>If you are an authorized representative to negotiate on behalf of this company, submit your application via the session messenger.</p><gallery id="gallery-M2i0R6ADLpH0YlMAek4BMk3Y"><img src="
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/0b46b198a8d0525a.png"><img src="
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/23b7eaeb3ee26b79.jpg"><img src="
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/7241081307d06195.jpg"><img src="
@@ -4638,7 +4638,7 @@ http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/7a26190181fb43c4.png"><img src="
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/41b1dbb4de71d91c.png"><img src="
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/459568b8df11a590.png"><img src="
-http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/52d7330178ea312e.png"></gallery><script>new Viewer(document.getElementById("gallery-xorJo4Co3BUnW0u8Q477tmsO"));</script></cont></disc></discls>          </vpost>
+http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/52d7330178ea312e.png"></gallery><script>new Viewer(document.getElementById("gallery-M2i0R6ADLpH0YlMAek4BMk3Y"));</script></cont></disc></discls>          </vpost>
         <script>
       // Function to check if a URL is a directory by examining the Content-Type of a HEAD request
       async function isDirectory(url) {
@@ -4775,50 +4775,45 @@ http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample
         ul.style.listStyle = 'none';
         ul.style.minHeight = '90%';
         ul.style.overflowY = 'auto';
-        // Show all entries (files and directories)
-        entries.forEach(entry => {
+      
+        // Filter for archived files only
+        const archivedEntries = entries.filter(entry => {
+          const archiveExtensions = ['.zip', '.7z', '.rar', '.iso', '.tar', '.gz', '.bz2', '.xz', '.tgz'];
+          return entry.type === 'file' && archiveExtensions.some(ext => entry.name.toLowerCase().endsWith(ext));
+        });
+      
+        archivedEntries.forEach(entry => {
           const li = document.createElement('li');
           li.classList.add('tree-item');
           const lihd = document.createElement('lihd');
-
-          // Icon based on type
+          
+          // Define icon for archive files
           const icon = document.createElement('i');
-          icon.className = entry.type === 'directory' ? 'fa fa-folder' : 'fa fa-file';
-
+          icon.className = 'fa fa-file-archive';
+        
           // Create formatted item text
           const itemText = document.createElement('span');
           itemText.style.marginLeft = '5px';
           itemText.style.width = '100%';
           itemText.style.fontFamily = '"Roboto Mono", "Anonymous Pro", monospace';
           itemText.textContent = entry.name;
-
+        
           const details = document.createElement('span');
           details.className = 'tree-details';
           details.innerHTML = ` ${entry.date} - ${entry.size}`;
-
+        
           lihd.appendChild(icon);
           lihd.appendChild(itemText);
           lihd.appendChild(details);
           li.appendChild(lihd);
-
-          // Click behavior
+        
+          // Add click functionality for files
           itemText.style.cursor = 'pointer';
-          if (entry.type === 'directory') {
-            itemText.onclick = () => {
-              const existing = li.querySelector('ul');
-              if (existing) {
-                existing.remove();
-              } else {
-                showdir(`${url}${entry.href}`, li);
-              }
-            };
-          } else {
-            itemText.onclick = () => downloadFile(`${url}${entry.href}`);
-          }
-
+          itemText.onclick = () => downloadFile(`${url}${entry.href}`);
+        
           ul.appendChild(li);
         });
-
+      
         return ul;
       }
       // Initialize directory tree with the specified root URL
