@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-13 | [`BRIGHT SYSTEM JAPAN CO., LTD`](https://google.com/search?q=BRIGHT+SYSTEM+JAPAN+CO.%2C+LTD) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-13 | [`remagroup.`](https://google.com/search?q=remagroup.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-09-12 | [`Heffner Toyota &amp; Lexus `](https://google.com/search?q=Heffner+Toyota+%26amp%3B+Lexus+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-09-11 | [`moinian.com`](https://google.com/search?q=moinian.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-07-18 | [`www.inspiredbeauty.com`](https://google.com/search?q=www.inspiredbeauty.com) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-07-18 | [` Coweta County School System `](https://google.com/search?q=+Coweta+County+School+System+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-07-18 | [` Kirkor Architects and Planners `](https://google.com/search?q=+Kirkor+Architects+and+Planners+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2025-07-18 | [` Progressive Auto Group `](https://google.com/search?q=+Progressive+Auto+Group+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
