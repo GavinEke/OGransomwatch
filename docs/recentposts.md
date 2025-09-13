@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-13 | [`remagroup.`](https://google.com/search?q=remagroup.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-09-12 | [`Heffner Toyota &amp; Lexus `](https://google.com/search?q=Heffner+Toyota+%26amp%3B+Lexus+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-09-11 | [`moinian.com`](https://google.com/search?q=moinian.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-09-11 | [`deerfield.com / singulargenomics.com`](https://google.com/search?q=deerfield.com+%2F+singulargenomics.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-07-18 | [` Coweta County School System `](https://google.com/search?q=+Coweta+County+School+System+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-07-18 | [` Kirkor Architects and Planners `](https://google.com/search?q=+Kirkor+Architects+and+Planners+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-07-18 | [` Progressive Auto Group `](https://google.com/search?q=+Progressive+Auto+Group+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2025-07-18 | [`C3 Group `](https://google.com/search?q=C3+Group+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
