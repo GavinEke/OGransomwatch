@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-15 | [`RGR Sportswear`](https://google.com/search?q=RGR+Sportswear) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-15 | [`RFI`](https://google.com/search?q=RFI) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-15 | [`Pathfinder`](https://google.com/search?q=Pathfinder) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-15 | [`McCarter Electrical`](https://google.com/search?q=McCarter+Electrical) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-15 | [`Lake Book Manufacturing`](https://google.com/search?q=Lake+Book+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-15 | [`General Control Systems`](https://google.com/search?q=General+Control+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-15 | [`Garrison Architects`](https://google.com/search?q=Garrison+Architects) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-15 | [`Energenecs`](https://google.com/search?q=Energenecs) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-15 | [`Eau Palm Beach Resort & Spa`](https://google.com/search?q=Eau+Palm+Beach+Resort+%26+Spa) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-15 | [`Crestone Group`](https://google.com/search?q=Crestone+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-15 | [`https://www.trailertransit.com`](https://google.com/search?q=https%3A%2F%2Fwww.trailertransit.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2025-09-15 | [`TerranearPMC`](https://google.com/search?q=TerranearPMC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-15 | [`Rochester Optical`](https://google.com/search?q=Rochester+Optical) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2025-07-22 | [`hitachi-tds.com`](https://google.com/search?q=hitachi-tds.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-22 | [`heartlineoklahoma.org`](https://google.com/search?q=heartlineoklahoma.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-22 | [`dtxstudio.com`](https://google.com/search?q=dtxstudio.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-22 | [`csaas.com`](https://google.com/search?q=csaas.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-22 | [`communitycareresources.com`](https://google.com/search?q=communitycareresources.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-22 | [`Protech Medical`](https://google.com/search?q=Protech+Medical) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-07-22 | [`SubsCorp`](https://google.com/search?q=SubsCorp) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-07-22 | [`brennytransportation.com`](https://google.com/search?q=brennytransportation.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-22 | [`bayviewci.org`](https://google.com/search?q=bayviewci.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-21 | [`scaffoldsolutions.com`](https://google.com/search?q=scaffoldsolutions.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-21 | [`We will soon be in your hollow regime`](https://google.com/search?q=We+will+soon+be+in+your+hollow+regime) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-07-19 | [`Idgcayman.com`](https://google.com/search?q=Idgcayman.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-07-19 | [`G*********************y.org`](https://google.com/search?q=G%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2Ay.org) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
