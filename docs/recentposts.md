@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-15 | [`www.roscovision.com`](https://google.com/search?q=www.roscovision.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-09-15 | [`https://heritagegrowth.com/`](https://google.com/search?q=https%3A%2F%2Fheritagegrowth.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-09-15 | [`http://www.hiec.com/`](https://google.com/search?q=http%3A%2F%2Fwww.hiec.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-09-15 | [`Baum Precision Machining`](https://google.com/search?q=Baum+Precision+Machining) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-14 | [`usenergy`](https://google.com/search?q=usenergy) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2025-09-13 | [`BRIGHT SYSTEM JAPAN CO., LTD`](https://google.com/search?q=BRIGHT+SYSTEM+JAPAN+CO.%2C+LTD) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-13 | [`remagroup.`](https://google.com/search?q=remagroup.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2025-07-18 | [`Freedom Wood Doors Ltd Hacked`](https://google.com/search?q=Freedom+Wood+Doors+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-07-18 | [`Evans Pharmacy`](https://google.com/search?q=Evans+Pharmacy) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-07-18 | [`Scherzinger`](https://google.com/search?q=Scherzinger) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-07-18 | [`McParlane & Associates`](https://google.com/search?q=McParlane+%26+Associates) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-07-18 | [`O&G Adelaide`](https://google.com/search?q=O%26G+Adelaide) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-07-18 | [`www.inspiredbeauty.com`](https://google.com/search?q=www.inspiredbeauty.com) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-07-18 | [` Coweta County School System `](https://google.com/search?q=+Coweta+County+School+System+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
