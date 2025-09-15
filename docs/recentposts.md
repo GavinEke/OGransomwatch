@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-15 | [`https://www.trailertransit.com`](https://google.com/search?q=https%3A%2F%2Fwww.trailertransit.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
+| 2025-09-15 | [`TerranearPMC`](https://google.com/search?q=TerranearPMC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-15 | [`Rochester Optical`](https://google.com/search?q=Rochester+Optical) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-15 | [`jsgroup`](https://google.com/search?q=jsgroup) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-15 | [`Venlogistics`](https://google.com/search?q=Venlogistics) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-15 | [`Technology Assurance Group`](https://google.com/search?q=Technology+Assurance+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-07-21 | [`We will soon be in your hollow regime`](https://google.com/search?q=We+will+soon+be+in+your+hollow+regime) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-07-19 | [`Idgcayman.com`](https://google.com/search?q=Idgcayman.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-07-19 | [`G*********************y.org`](https://google.com/search?q=G%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2Ay.org) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-07-18 | [`erniesinceresco.com`](https://google.com/search?q=erniesinceresco.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-18 | [`Taos County`](https://google.com/search?q=Taos+County) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-07-18 | [`Yinon Magal Hacked`](https://google.com/search?q=Yinon+Magal+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
