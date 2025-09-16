@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-16 | [`thepropertybusiness.com`](https://google.com/search?q=thepropertybusiness.com) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
+| 2025-09-16 | [`ekonomipoolen.se`](https://google.com/search?q=ekonomipoolen.se) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-09-16 | [`bmsi.org`](https://google.com/search?q=bmsi.org) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-09-16 | [`News-Press &amp; Gazette Co.`](https://google.com/search?q=News-Press+%26amp%3B+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-09-15 | [`RGR Sportswear`](https://google.com/search?q=RGR+Sportswear) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-07-22 | [`neues-leben.de`](https://google.com/search?q=neues-leben.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-22 | [`asi-group.com`](https://google.com/search?q=asi-group.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-22 | [`tiergesundheitszentrum-koenigslutter.de`](https://google.com/search?q=tiergesundheitszentrum-koenigslutter.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-22 | [`nboat.com`](https://google.com/search?q=nboat.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-22 | [`hitachi-tds.com`](https://google.com/search?q=hitachi-tds.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
