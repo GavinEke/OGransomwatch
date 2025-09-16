@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-16 | [`Announcement 16-09-2025`](https://google.com/search?q=Announcement+16-09-2025) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-09-16 | [`grupozeta.com & www.grupozetajalisco.com`](https://google.com/search?q=grupozeta.com+%26+www.grupozetajalisco.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-09-16 | [`thepropertybusiness.com`](https://google.com/search?q=thepropertybusiness.com) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-09-16 | [`ekonomipoolen.se`](https://google.com/search?q=ekonomipoolen.se) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-07-22 | [`TOMEI GROUP Inc. `](https://google.com/search?q=TOMEI+GROUP+Inc.+) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-22 | [`reizenlaw.com`](https://google.com/search?q=reizenlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-22 | [`neues-leben.de`](https://google.com/search?q=neues-leben.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-22 | [`asi-group.com`](https://google.com/search?q=asi-group.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
