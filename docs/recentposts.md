@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-16 | [`News-Press &amp; Gazette Co.`](https://google.com/search?q=News-Press+%26amp%3B+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-09-15 | [`RGR Sportswear`](https://google.com/search?q=RGR+Sportswear) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-15 | [`RFI`](https://google.com/search?q=RFI) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-15 | [`Pathfinder`](https://google.com/search?q=Pathfinder) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-07-22 | [`nboat.com`](https://google.com/search?q=nboat.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-22 | [`hitachi-tds.com`](https://google.com/search?q=hitachi-tds.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-22 | [`heartlineoklahoma.org`](https://google.com/search?q=heartlineoklahoma.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-22 | [`dtxstudio.com`](https://google.com/search?q=dtxstudio.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
