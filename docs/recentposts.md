@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-17 | [`Tunad`](https://google.com/search?q=Tunad) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2025-09-17 | [`Accflex ERP`](https://google.com/search?q=Accflex+ERP) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2025-09-17 | [`Humax Holdings`](https://google.com/search?q=Humax+Holdings) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-16 | [`Grup Gestio`](https://google.com/search?q=Grup+Gestio) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-09-16 | [`Announcement 16-09-2025`](https://google.com/search?q=Announcement+16-09-2025) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-09-16 | [`grupozeta.com & www.grupozetajalisco.com`](https://google.com/search?q=grupozeta.com+%26+www.grupozetajalisco.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-07-23 | [`Ka Logistics`](https://google.com/search?q=Ka+Logistics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-23 | [`DA Whitacre Construction`](https://google.com/search?q=DA+Whitacre+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-23 | [`Biofloral`](https://google.com/search?q=Biofloral) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-07-22 | [`www.reliablecontrols.com`](https://google.com/search?q=www.reliablecontrols.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-22 | [`TOMEI GROUP Inc. `](https://google.com/search?q=TOMEI+GROUP+Inc.+) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-22 | [`reizenlaw.com`](https://google.com/search?q=reizenlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
