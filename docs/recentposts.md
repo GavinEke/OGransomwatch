@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-18 | [`cardinal-services.com`](https://google.com/search?q=cardinal-services.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-17 | [`grupogid.com`](https://google.com/search?q=grupogid.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-17 | [`lindenlaw.com`](https://google.com/search?q=lindenlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-17 | [`Thomas Safran & Associates`](https://google.com/search?q=Thomas+Safran+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-07-24 | [`teampostop.net`](https://google.com/search?q=teampostop.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-24 | [`seasonsfour.com`](https://google.com/search?q=seasonsfour.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-24 | [`Universal Software Solutions`](https://google.com/search?q=Universal+Software+Solutions) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-07-23 | [`Sementes Jotabasso`](https://google.com/search?q=Sementes+Jotabasso) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
