@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-22 | [`Ronco Safety`](https://google.com/search?q=Ronco+Safety) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-22 | [`Hilldun`](https://google.com/search?q=Hilldun) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-22 | [`Agility CIS`](https://google.com/search?q=Agility+CIS) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-22 | [`CPK Interior`](https://google.com/search?q=CPK+Interior) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-22 | [`optimumdesign.com`](https://google.com/search?q=optimumdesign.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-09-22 | [`Batesky Law Office (BLO)`](https://google.com/search?q=Batesky+Law+Office+%28BLO%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-07-29 | [`First Baptist Church of Hammond`](https://google.com/search?q=First+Baptist+Church+of+Hammond) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-07-28 | [`Sandhill View County School_UK`](https://google.com/search?q=Sandhill+View+County+School_UK) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-28 | [`Mortensen Law Offices`](https://google.com/search?q=Mortensen+Law+Offices) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-07-28 | [`VIRTUALWEB.US`](https://google.com/search?q=VIRTUALWEB.US) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2025-07-27 | [`CCI Torrevieja`](https://google.com/search?q=CCI+Torrevieja) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-07-27 | [`College stjb`](https://google.com/search?q=College+stjb) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
