@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-22 | [`Vcinity`](https://google.com/search?q=Vcinity) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-22 | [`Takeuchi US`](https://google.com/search?q=Takeuchi+US) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-22 | [`Roth & Scholl`](https://google.com/search?q=Roth+%26+Scholl) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-22 | [`PTR`](https://google.com/search?q=PTR) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-22 | [`New England Waterproofing`](https://google.com/search?q=New+England+Waterproofing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-22 | [`GrammaTech`](https://google.com/search?q=GrammaTech) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-22 | [`DHM Properties`](https://google.com/search?q=DHM+Properties) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-22 | [`Combined Services HVAC`](https://google.com/search?q=Combined+Services+HVAC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-22 | [`APG`](https://google.com/search?q=APG) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-22 | [`Ronco Safety`](https://google.com/search?q=Ronco+Safety) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-22 | [`Hilldun`](https://google.com/search?q=Hilldun) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-22 | [`Agility CIS`](https://google.com/search?q=Agility+CIS) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2025-07-31 | [`H**u.i*v.tw`](https://google.com/search?q=H%2A%2Au.i%2Av.tw) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-07-31 | [`T***********p.com`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2Ap.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-07-31 | [`Devon`](https://google.com/search?q=Devon) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-30 | [`fsl.org`](https://google.com/search?q=fsl.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-30 | [`Dollar Tree`](https://google.com/search?q=Dollar+Tree) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-29 | [`www.v4ulogistic.com/ Leaked by www.etornetworks.com`](https://google.com/search?q=www.v4ulogistic.com%2F+Leaked+by+www.etornetworks.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-29 | [`lstlaw.ca/ Leaked by www.etornetworks.com`](https://google.com/search?q=lstlaw.ca%2F+Leaked+by+www.etornetworks.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-29 | [`dwllp.ca/ Leaked by www.etornetworks.com`](https://google.com/search?q=dwllp.ca%2F+Leaked+by+www.etornetworks.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-29 | [`Trilinklogistics Inc / Leacked by www.etornetworks.com/`](https://google.com/search?q=Trilinklogistics+Inc+%2F+Leacked+by+www.etornetworks.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-29 | [`First Baptist Church of Hammond`](https://google.com/search?q=First+Baptist+Church+of+Hammond) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-07-28 | [`Sandhill View County School_UK`](https://google.com/search?q=Sandhill+View+County+School_UK) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-28 | [`Mortensen Law Offices`](https://google.com/search?q=Mortensen+Law+Offices) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
