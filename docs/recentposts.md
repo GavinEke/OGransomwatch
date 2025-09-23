@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-23 | [`Milk Agro`](https://google.com/search?q=Milk+Agro) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-09-23 | [`Speed Art Museum`](https://google.com/search?q=Speed+Art+Museum) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-23 | [`P&P Industries`](https://google.com/search?q=P%26P+Industries) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-23 | [`Edro Real Estate`](https://google.com/search?q=Edro+Real+Estate) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-07-31 | [`lynkspot.com`](https://google.com/search?q=lynkspot.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-31 | [`Thern`](https://google.com/search?q=Thern) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-31 | [`Quartus Engineering`](https://google.com/search?q=Quartus+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-07-31 | [`G*****n.com`](https://google.com/search?q=G%2A%2A%2A%2A%2An.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
