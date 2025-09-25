@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-25 | [`Fattore Cosméticos Ltda`](https://google.com/search?q=Fattore+Cosm%C3%A9ticos+Ltda) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-09-24 | [`awo-ka-land.de`](https://google.com/search?q=awo-ka-land.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-24 | [`TLD Law.com`](https://google.com/search?q=TLD+Law.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-24 | [`The Maryland Department of Transportation`](https://google.com/search?q=The+Maryland+Department+of+Transportation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-07-31 | [`carolynmyoung.com`](https://google.com/search?q=carolynmyoung.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-31 | [`whiteconlee.com`](https://google.com/search?q=whiteconlee.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-31 | [`firstpresatl.org`](https://google.com/search?q=firstpresatl.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-31 | [`deliastamales.com`](https://google.com/search?q=deliastamales.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
