@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-26 | [`News-Press &amp;amp;amp;amp; Gazette Co.`](https://google.com/search?q=News-Press+%26amp%3Bamp%3Bamp%3Bamp%3B+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-09-26 | [`News-Press &amp;amp;amp; Gazette Co.`](https://google.com/search?q=News-Press+%26amp%3Bamp%3Bamp%3B+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-09-26 | [`News-Press &amp;amp; Gazette Co.`](https://google.com/search?q=News-Press+%26amp%3Bamp%3B+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-09-26 | [`SOP. Sistema Odontológico Privado`](https://google.com/search?q=SOP.+Sistema+Odontol%C3%B3gico+Privado) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-02 | [`Cookeville Regional Medical Center`](https://google.com/search?q=Cookeville+Regional+Medical+Center) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-01 | [`Radford City Schools`](https://google.com/search?q=Radford+City+Schools) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-07-31 | [`wvpca.org`](https://google.com/search?q=wvpca.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-07-31 | [`erichschleichgmbh.de`](https://google.com/search?q=erichschleichgmbh.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
