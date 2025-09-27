@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-27 | [`Steve Basso Plumbing Heating`](https://google.com/search?q=Steve+Basso+Plumbing+Heating) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-27 | [`Pangborn`](https://google.com/search?q=Pangborn) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-27 | [`Earthadelic`](https://google.com/search?q=Earthadelic) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-27 | [`ComTec Systems`](https://google.com/search?q=ComTec+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-09-27 | [`Amelia Overhead Doors`](https://google.com/search?q=Amelia+Overhead+Doors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-27 | [`Atlas Pressed Metals`](https://google.com/search?q=Atlas+Pressed+Metals) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-27 | [`Amos Spacecom Hacked`](https://google.com/search?q=Amos+Spacecom+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-09-27 | [`A space surprise soon!`](https://google.com/search?q=A+space+surprise+soon%21) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2025-08-05 | [`Melland High School`](https://google.com/search?q=Melland+High+School) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-08-04 | [`Bucks County Opportunity Council, INC.`](https://google.com/search?q=Bucks+County+Opportunity+Council%2C+INC.) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2025-08-04 | [`White Horse Packaging`](https://google.com/search?q=White+Horse+Packaging) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-04 | [`Terillium`](https://google.com/search?q=Terillium) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-04 | [`Phoenix Lighting`](https://google.com/search?q=Phoenix+Lighting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-04 | [`Backstage Library Works`](https://google.com/search?q=Backstage+Library+Works) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-04 | [`bw-lv.de`](https://google.com/search?q=bw-lv.de) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2025-08-04 | [`Ieee-apscon.org`](https://google.com/search?q=Ieee-apscon.org) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
