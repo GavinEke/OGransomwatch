@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-29 | [`Manjarrez Impresores`](https://google.com/search?q=Manjarrez+Impresores) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-29 | [`www.sonoshowmoveis.com.br`](https://google.com/search?q=www.sonoshowmoveis.com.br) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-09-29 | [`phi.ca`](https://google.com/search?q=phi.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-28 | [`List of Spacecom employees`](https://google.com/search?q=List+of+Spacecom+employees) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-06 | [` Palm Bay International `](https://google.com/search?q=+Palm+Bay+International+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-08-06 | [`F&amp;P Georgia Mfg Inc `](https://google.com/search?q=F%26amp%3BP+Georgia+Mfg+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-08-06 | [`Consumer Electronics & Computers Retail Retail`](https://google.com/search?q=Consumer+Electronics+%26+Computers+Retail+Retail) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-08-05 | [`Carrollton Ear Nose and Throat`](https://google.com/search?q=Carrollton+Ear+Nose+and+Throat) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
