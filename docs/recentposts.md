@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-30 | [`Komar Industries`](https://google.com/search?q=Komar+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-29 | [`News-Press and Gazette Co.`](https://google.com/search?q=News-Press+and+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-09-29 | [`san`](https://google.com/search?q=san) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-09-29 | [`Peavey Electronics Corporation`](https://google.com/search?q=Peavey+Electronics+Corporation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-06 | [`Jamco Aerospace`](https://google.com/search?q=Jamco+Aerospace) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-06 | [`Emprise`](https://google.com/search?q=Emprise) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-06 | [`Brad's Bedding Plants`](https://google.com/search?q=Brad%27s+Bedding+Plants) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-06 | [`Afpa`](https://google.com/search?q=Afpa) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
