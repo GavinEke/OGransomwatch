@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-01 | [`https://www.adhunikpower.com`](https://google.com/search?q=https%3A%2F%2Fwww.adhunikpower.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
+| 2025-10-01 | [`icc-nw.net`](https://google.com/search?q=icc-nw.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-10-01 | [`callhci.com`](https://google.com/search?q=callhci.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-01 | [`Cholakyan Chiropractic`](https://google.com/search?q=Cholakyan+Chiropractic) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-01 | [`LAMMCO.NET`](https://google.com/search?q=LAMMCO.NET) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-01 | [`Smiles By Steedman`](https://google.com/search?q=Smiles+By+Steedman) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-08-10 | [`Howard Financial & Associates`](https://google.com/search?q=Howard+Financial+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-09 | [`RHI Supply`](https://google.com/search?q=RHI+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-09 | [`NEAS`](https://google.com/search?q=NEAS) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-09 | [`CFI Tire Service`](https://google.com/search?q=CFI+Tire+Service) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-08 | [`multichem.net`](https://google.com/search?q=multichem.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-08-07 | [`Triveneta Vetro`](https://google.com/search?q=Triveneta+Vetro) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
