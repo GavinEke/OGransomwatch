@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-01 | [`idealbathrooms.ie`](https://google.com/search?q=idealbathrooms.ie) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-01 | [`Nacsworld.com`](https://google.com/search?q=Nacsworld.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-30 | [`Komar Industries`](https://google.com/search?q=Komar+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-29 | [`News-Press and Gazette Co.`](https://google.com/search?q=News-Press+and+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-06 | [`Looking for pentesters`](https://google.com/search?q=Looking+for+pentesters) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2025-08-06 | [`The Magni Group`](https://google.com/search?q=The+Magni+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-06 | [`Jamco Aerospace`](https://google.com/search?q=Jamco+Aerospace) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-06 | [`Emprise`](https://google.com/search?q=Emprise) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
