@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-02 | [`GWP Engineering`](https://google.com/search?q=GWP+Engineering) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-02 | [`Wilsenergy`](https://google.com/search?q=Wilsenergy) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-10-02 | [`Weber Flavors`](https://google.com/search?q=Weber+Flavors) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-02 | [`Gesimde Asociados / Ausil Systems / Esnova`](https://google.com/search?q=Gesimde+Asociados+%2F+Ausil+Systems+%2F+Esnova) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-12 | [`Trans-Tex`](https://google.com/search?q=Trans-Tex) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-11 | [`Travancore Analytics`](https://google.com/search?q=Travancore+Analytics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-11 | [`The Scharine Group`](https://google.com/search?q=The+Scharine+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-11 | [`Rite Track`](https://google.com/search?q=Rite+Track) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
