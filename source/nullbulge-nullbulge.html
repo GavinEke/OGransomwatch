@@ -89,7 +89,43 @@
             <link rel="stylesheet" href="/assets/css/custom.css?2025012001" />
 
                         
-                                    </head>
+                        
+            <script>
+                // Stub/Stash für Funktionsaufrufe aufsetzen
+                (function (g) {
+                    const qmap = g.__fnq__ = g.__fnq__ || Object.create(null);
+
+                    g.installStubs = function(names) {
+                        names.forEach(function(name) {
+                            if (typeof g[name] === 'function') return;
+                            if (!qmap[name]) qmap[name] = [];
+                            g[name] = function() {
+                                var args = Array.prototype.slice.call(arguments);
+                                qmap[name].push({args: args});
+                                console.log('Function call stashed:', name);
+                            };
+                        });
+                    };
+
+                    g.flushQueued = function(name, impl) {
+                        var q = (g.__fnq__ && g.__fnq__[name]) || [];
+                        g[name] = impl;
+                        for (var i = 0; i < q.length; i++) {
+                            try {
+                                impl.apply(g, q[i].args);
+                                console.log('Stashed function call executed:', name);
+                            }
+                            catch (e) {
+                                console.error(name + ' (queued) error:', e);
+                            }
+                        }
+                        g.__fnq__[name] = [];
+                    };
+                })(window);
+
+                installStubs(['showInfobox']);
+            </script>
+            </head>
     <body>
                     <div class="wrapper">
                                     <div class="header hidden-print">
@@ -393,7 +429,7 @@
                     <div class="col-xs-3 text-right">
                                                     <span>
         
-        €765
+        €835
     
             </span>
                                             </div>
@@ -592,6 +628,25 @@
                     <div class="col-xs-12 col-sm-6 col-lg-4" style="display: flex; align-items: stretch; padding: 0px;">
                 <div class="row funny-boxes" style="width: 100%; margin: 0px 3px; padding: 5px; overflow: visible;">
                     <div class="col-xs-6">
+                        <a class="break-word" href="/en/domain/apps4deutschland.de" style="color: #688c4b;">
+                            <b>apps4deutschland.de</b>
+                        </a>
+                    </div>
+                    <div class="col-xs-3 text-right" style="white-space: nowrap;">
+                        <span class="tooltips liveauctiontimer" title="End of auction: Oct 2, 2025 8:00 PM o'clock" data-toggle="tooltip" data-html="true" data-original-title="End of auction: Oct 2, 2025 8:00 PM o'clock" data-auctionend-timestamp="1759428000" data-auctionend-display="8:00 PM">< 9 h</span><br class="hidden-xs"><span class="time-offset-at-auctionend time-offset-at-auctionend-1759428000"></span>
+                    </div>
+                    <div class="col-xs-3 text-right">
+                                                    <span>
+        
+        €390
+    
+            </span>
+                                            </div>
+                </div>
+            </div>
+                    <div class="col-xs-12 col-sm-6 col-lg-4" style="display: flex; align-items: stretch; padding: 0px;">
+                <div class="row funny-boxes" style="width: 100%; margin: 0px 3px; padding: 5px; overflow: visible;">
+                    <div class="col-xs-6">
                         <a class="break-word" href="/en/domain/poppen.nl" style="color: #688c4b;">
                             <b>poppen.nl</b>
                         </a>
@@ -635,7 +690,7 @@
                         </a>
                     </div>
                     <div class="col-xs-3 text-right" style="white-space: nowrap;">
-                        <span class="tooltips liveauctiontimer" title="End of auction: Oct 2, 2025 8:00 PM o'clock" data-toggle="tooltip" data-html="true" data-original-title="End of auction: Oct 2, 2025 8:00 PM o'clock" data-auctionend-timestamp="1759428000" data-auctionend-display="8:00 PM">< 11 h</span><br class="hidden-xs"><span class="time-offset-at-auctionend time-offset-at-auctionend-1759428000"></span>
+                        <span class="tooltips liveauctiontimer" title="End of auction: Oct 2, 2025 8:00 PM o'clock" data-toggle="tooltip" data-html="true" data-original-title="End of auction: Oct 2, 2025 8:00 PM o'clock" data-auctionend-timestamp="1759428000" data-auctionend-display="8:00 PM">< 9 h</span><br class="hidden-xs"><span class="time-offset-at-auctionend time-offset-at-auctionend-1759428000"></span>
                     </div>
                     <div class="col-xs-3 text-right">
                                                     <span>
@@ -673,7 +728,7 @@
                         </a>
                     </div>
                     <div class="col-xs-3 text-right" style="white-space: nowrap;">
-                        <span class="tooltips liveauctiontimer" title="End of auction: Oct 2, 2025 8:00 PM o'clock" data-toggle="tooltip" data-html="true" data-original-title="End of auction: Oct 2, 2025 8:00 PM o'clock" data-auctionend-timestamp="1759428000" data-auctionend-display="8:00 PM">< 11 h</span><br class="hidden-xs"><span class="time-offset-at-auctionend time-offset-at-auctionend-1759428000"></span>
+                        <span class="tooltips liveauctiontimer" title="End of auction: Oct 2, 2025 8:00 PM o'clock" data-toggle="tooltip" data-html="true" data-original-title="End of auction: Oct 2, 2025 8:00 PM o'clock" data-auctionend-timestamp="1759428000" data-auctionend-display="8:00 PM">< 9 h</span><br class="hidden-xs"><span class="time-offset-at-auctionend time-offset-at-auctionend-1759428000"></span>
                     </div>
                     <div class="col-xs-3 text-right">
                                                     <span>
@@ -692,12 +747,31 @@
                         </a>
                     </div>
                     <div class="col-xs-3 text-right" style="white-space: nowrap;">
-                        <span class="tooltips liveauctiontimer" title="End of auction: Oct 2, 2025 8:00 PM o'clock" data-toggle="tooltip" data-html="true" data-original-title="End of auction: Oct 2, 2025 8:00 PM o'clock" data-auctionend-timestamp="1759428000" data-auctionend-display="8:00 PM">< 11 h</span><br class="hidden-xs"><span class="time-offset-at-auctionend time-offset-at-auctionend-1759428000"></span>
+                        <span class="tooltips liveauctiontimer" title="End of auction: Oct 2, 2025 8:00 PM o'clock" data-toggle="tooltip" data-html="true" data-original-title="End of auction: Oct 2, 2025 8:00 PM o'clock" data-auctionend-timestamp="1759428000" data-auctionend-display="8:00 PM">< 9 h</span><br class="hidden-xs"><span class="time-offset-at-auctionend time-offset-at-auctionend-1759428000"></span>
                     </div>
                     <div class="col-xs-3 text-right">
                                                     <span>
         
-        €311
+        €331
+    
+            </span>
+                                            </div>
+                </div>
+            </div>
+                    <div class="col-xs-12 col-sm-6 col-lg-4" style="display: flex; align-items: stretch; padding: 0px;">
+                <div class="row funny-boxes" style="width: 100%; margin: 0px 3px; padding: 5px; overflow: visible;">
+                    <div class="col-xs-6">
+                        <a class="break-word" href="/en/domain/sade.nl" style="color: #688c4b;">
+                            <b>sade.nl</b>
+                        </a>
+                    </div>
+                    <div class="col-xs-3 text-right" style="white-space: nowrap;">
+                        <span class="tooltips liveauctiontimer" title="End of auction: Oct 2, 2025 8:00 PM o'clock" data-toggle="tooltip" data-html="true" data-original-title="End of auction: Oct 2, 2025 8:00 PM o'clock" data-auctionend-timestamp="1759428000" data-auctionend-display="8:00 PM">< 9 h</span><br class="hidden-xs"><span class="time-offset-at-auctionend time-offset-at-auctionend-1759428000"></span>
+                    </div>
+                    <div class="col-xs-3 text-right">
+                                                    <span>
+        
+        €325
     
             </span>
                                             </div>
@@ -820,46 +894,8 @@
                     <div class="col-xs-12 col-sm-6 col-lg-4" style="display: flex; align-items: stretch; padding: 0px;">
                 <div class="row funny-boxes" style="width: 100%; margin: 0px 3px; padding: 5px; overflow: visible;">
                     <div class="col-xs-6">
-                        <a class="break-word" href="/en/domain/kfz-center.de" style="color: #688c4b;">
-                            <b>kfz-center.de</b>
-                        </a>
-                    </div>
-                    <div class="col-xs-3 text-right" style="white-space: nowrap;">
-                        <span class="tooltips liveauctiontimer" title="End of auction: Oct 6, 2025 8:00 PM o'clock" data-toggle="tooltip" data-html="true" data-original-title="End of auction: Oct 6, 2025 8:00 PM o'clock" data-auctionend-timestamp="1759773600" data-auctionend-display="8:00 PM">4 Days</span><br class="hidden-xs"><span class="time-offset-at-auctionend time-offset-at-auctionend-1759773600"></span>
-                    </div>
-                    <div class="col-xs-3 text-right">
-                                                    <span>
-        
-        €252
-    
-            </span>
-                                            </div>
-                </div>
-            </div>
-                    <div class="col-xs-12 col-sm-6 col-lg-4" style="display: flex; align-items: stretch; padding: 0px;">
-                <div class="row funny-boxes" style="width: 100%; margin: 0px 3px; padding: 5px; overflow: visible;">
-                    <div class="col-xs-6">
-                        <a class="break-word" href="/en/domain/crystal.de" style="color: #688c4b;">
-                            <b>crystal.de</b>
-                        </a>
-                    </div>
-                    <div class="col-xs-3 text-right" style="white-space: nowrap;">
-                        <span class="tooltips liveauctiontimer" title="End of auction: Oct 23, 2025 8:00 PM o'clock" data-toggle="tooltip" data-html="true" data-original-title="End of auction: Oct 23, 2025 8:00 PM o'clock" data-auctionend-timestamp="1761242400" data-auctionend-display="8:00 PM">21 Days</span><br class="hidden-xs"><span class="time-offset-at-auctionend time-offset-at-auctionend-1761242400"></span>
-                    </div>
-                    <div class="col-xs-3 text-right">
-                                                    <span>
-        
-        €250
-    
-            </span>
-                                            </div>
-                </div>
-            </div>
-                    <div class="col-xs-12 col-sm-6 col-lg-4" style="display: flex; align-items: stretch; padding: 0px;">
-                <div class="row funny-boxes" style="width: 100%; margin: 0px 3px; padding: 5px; overflow: visible;">
-                    <div class="col-xs-6">
-                        <a class="break-word" href="/en/domain/full-service-agentur.de" style="color: #688c4b;">
-                            <b>full-service-agentur.de</b>
+                        <a class="break-word" href="/en/domain/pensioenverzekering.nl" style="color: #688c4b;">
+                            <b>pensioenverzekering.nl</b>
                         </a>
                     </div>
                     <div class="col-xs-3 text-right" style="white-space: nowrap;">
@@ -868,7 +904,7 @@
                     <div class="col-xs-3 text-right">
                                                     <span>
         
-        €250
+        €256
     
             </span>
                                             </div>
@@ -922,7 +958,7 @@
                             </a>
                             <p class="copyright-space">
                                                                 &copy;2014-2025 nicsell.com - All rights reserved.<br>
-                                <span class="hidden-print">Servertime: Thursday, October 2, 2025 9:39:38 AM Central European Summer Time</span><br>
+                                <span class="hidden-print">Servertime: Thursday, October 2, 2025 11:40:26 AM Central European Summer Time</span><br>
                                 <span class="visible-print">https://nicsell.com/en/domain/nullbulge.se</span>
                             </p>
                         </div>
@@ -941,7 +977,7 @@
                         });
                     </script>
                     <script type="text/javascript" src="/assets/js/custom_domainlist.js?2025041701"></script>
-                    <script type="text/javascript" src="/assets/js/custom.js?2025041701"></script>
+                    <script type="text/javascript" src="/assets/js/custom.js?2025100101"></script>
                     
                     	<script src="/assets/js/shariff.complete.js"></script>
 	<script src="/assets/js/detectmobilebrowser.js"></script>
