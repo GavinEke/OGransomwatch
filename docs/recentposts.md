@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-02 | [`Wilsenergy`](https://google.com/search?q=Wilsenergy) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
+| 2025-10-02 | [`Weber Flavors`](https://google.com/search?q=Weber+Flavors) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-02 | [`Gesimde Asociados / Ausil Systems / Esnova`](https://google.com/search?q=Gesimde+Asociados+%2F+Ausil+Systems+%2F+Esnova) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-10-01 | [`suntreeinternalmedicine.com`](https://google.com/search?q=suntreeinternalmedicine.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-01 | [`The Plainview Volunteer FD`](https://google.com/search?q=The+Plainview+Volunteer+FD) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-08-11 | [`Travancore Analytics`](https://google.com/search?q=Travancore+Analytics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-11 | [`The Scharine Group`](https://google.com/search?q=The+Scharine+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-11 | [`Rite Track`](https://google.com/search?q=Rite+Track) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-11 | [`Bluewater Yacht Sales`](https://google.com/search?q=Bluewater+Yacht+Sales) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-11 | [`Louis Tieu DDS MD`](https://google.com/search?q=Louis+Tieu+DDS+MD) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
