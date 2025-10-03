@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-03 | [`Supercash (Alimentos Y Bebidas Premium)`](https://google.com/search?q=Supercash+%28Alimentos+Y+Bebidas+Premium%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-10-03 | [`stockmeier-urethanes.com`](https://google.com/search?q=stockmeier-urethanes.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-02 | [`GWP Engineering`](https://google.com/search?q=GWP+Engineering) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-02 | [`Wilsenergy`](https://google.com/search?q=Wilsenergy) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-14 | [`ABcom`](https://google.com/search?q=ABcom) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-12 | [`EB Farmacutica`](https://google.com/search?q=EB+Farmacutica) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-08-12 | [`Trans-Tex`](https://google.com/search?q=Trans-Tex) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-08-11 | [`Travancore Analytics`](https://google.com/search?q=Travancore+Analytics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
