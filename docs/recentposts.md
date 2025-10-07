@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-07 | [`Statement of Establishment  Of the Grassroots Resistance Front  Of Right-Seekers – Handala`](https://google.com/search?q=Statement+of+Establishment++Of+the+Grassroots+Resistance+Front++Of+Right-Seekers+%E2%80%93+Handala) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-06 | [`NurtureCare`](https://google.com/search?q=NurtureCare) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-10-06 | [`Dataforth`](https://google.com/search?q=Dataforth) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-06 | [`AES Clean Technology`](https://google.com/search?q=AES+Clean+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-20 | [`aero`](https://google.com/search?q=aero) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-08-19 | [`Maxell Asia`](https://google.com/search?q=Maxell+Asia) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-08-17 | [`Panorama`](https://google.com/search?q=Panorama) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-08-17 | [`mycpaconnection.com`](https://google.com/search?q=mycpaconnection.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
