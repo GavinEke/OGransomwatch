@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-08 | [`Acuna Fombona (AFOM)`](https://google.com/search?q=Acuna+Fombona+%28AFOM%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-10-07 | [`JASCO Applied Sciences`](https://google.com/search?q=JASCO+Applied+Sciences) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-10-07 | [`Handala RedWanted`](https://google.com/search?q=Handala+RedWanted) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-07 | [`Statement of Establishment  Of the Grassroots Resistance Front  Of Right-Seekers – Handala`](https://google.com/search?q=Statement+of+Establishment++Of+the+Grassroots+Resistance+Front++Of+Right-Seekers+%E2%80%93+Handala) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-20 | [`EUROFILM ΜΑΝΤΖΑΡΗΣ Α.Ε`](https://google.com/search?q=EUROFILM+%CE%9C%CE%91%CE%9D%CE%A4%CE%96%CE%91%CE%A1%CE%97%CE%A3+%CE%91.%CE%95) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-20 | [`Elkhart Independent School District`](https://google.com/search?q=Elkhart+Independent+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-20 | [`Netstar_South_Africa`](https://google.com/search?q=Netstar_South_Africa) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-08-20 | [`aero`](https://google.com/search?q=aero) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
