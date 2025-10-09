@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-09 | [`https://www.tongapower.to/`](https://google.com/search?q=https%3A%2F%2Fwww.tongapower.to%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-10-09 | [`georgetown-brewing-co`](https://google.com/search?q=georgetown-brewing-co) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-10-09 | [`NextGen Mold Technologies`](https://google.com/search?q=NextGen+Mold+Technologies) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-10-09 | [`Benedict Industries`](https://google.com/search?q=Benedict+Industries) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-09 | [`Elmer W. Davis`](https://google.com/search?q=Elmer+W.+Davis) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-09 | [`Accelerated`](https://google.com/search?q=Accelerated) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-09 | [`Sdii Global`](https://google.com/search?q=Sdii+Global) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2025-08-25 | [`DLCOSMETICS O.E.`](https://google.com/search?q=DLCOSMETICS+O.E.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-08-22 | [`Quadrangle Imaging Center`](https://google.com/search?q=Quadrangle+Imaging+Center) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-21 | [`Universal Group For Engineering and Consulting`](https://google.com/search?q=Universal+Group+For+Engineering+and+Consulting) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-08-21 | [`All Truck Transportation Co`](https://google.com/search?q=All+Truck+Transportation+Co) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-08-21 | [`Ambitek`](https://google.com/search?q=Ambitek) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-08-20 | [` F&amp;P Georgia Mfg Inc `](https://google.com/search?q=+F%26amp%3BP+Georgia+Mfg+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2025-08-20 | [`Ocean Edge Resort &amp; Golf Club `](https://google.com/search?q=Ocean+Edge+Resort+%26amp%3B+Golf+Club+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
