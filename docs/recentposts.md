@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-09 | [`Sdii Global`](https://google.com/search?q=Sdii+Global) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-10-09 | [`THE FIRST SHAMING`](https://google.com/search?q=THE+FIRST+SHAMING) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
 | 2025-10-09 | [`ROXU`](https://google.com/search?q=ROXU) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-10-08 | [`Chapter 13 Texas`](https://google.com/search?q=Chapter+13+Texas) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-20 | [`Ocean Edge Resort &amp; Golf Club `](https://google.com/search?q=Ocean+Edge+Resort+%26amp%3B+Golf+Club+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-08-20 | [`Omega Global Technologies`](https://google.com/search?q=Omega+Global+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-20 | [`CBG Surveying Texas`](https://google.com/search?q=CBG+Surveying+Texas) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-20 | [`Greater Pittsburgh Orthopaedic Associates`](https://google.com/search?q=Greater+Pittsburgh+Orthopaedic+Associates) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
