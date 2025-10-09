@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-09 | [`THE FIRST SHAMING`](https://google.com/search?q=THE+FIRST+SHAMING) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
 | 2025-10-09 | [`ROXU`](https://google.com/search?q=ROXU) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-10-08 | [`Chapter 13 Texas`](https://google.com/search?q=Chapter+13+Texas) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-08 | [`Acuna Fombona (AFOM)`](https://google.com/search?q=Acuna+Fombona+%28AFOM%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-20 | [`Omega Global Technologies`](https://google.com/search?q=Omega+Global+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-20 | [`CBG Surveying Texas`](https://google.com/search?q=CBG+Surveying+Texas) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-20 | [`Greater Pittsburgh Orthopaedic Associates`](https://google.com/search?q=Greater+Pittsburgh+Orthopaedic+Associates) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-08-20 | [`EUROFILM ΜΑΝΤΖΑΡΗΣ Α.Ε`](https://google.com/search?q=EUROFILM+%CE%9C%CE%91%CE%9D%CE%A4%CE%96%CE%91%CE%A1%CE%97%CE%A3+%CE%91.%CE%95) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
