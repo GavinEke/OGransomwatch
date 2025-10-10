@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-10 | [`Israel Fuel System Hacked`](https://google.com/search?q=Israel+Fuel+System+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-09 | [`https://www.tongapower.to/`](https://google.com/search?q=https%3A%2F%2Fwww.tongapower.to%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-09 | [`georgetown-brewing-co`](https://google.com/search?q=georgetown-brewing-co) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-09 | [`NextGen Mold Technologies`](https://google.com/search?q=NextGen+Mold+Technologies) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-25 | [`Trico`](https://google.com/search?q=Trico) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-08-25 | [`DLCOSMETICS O.E.`](https://google.com/search?q=DLCOSMETICS+O.E.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-08-22 | [`Quadrangle Imaging Center`](https://google.com/search?q=Quadrangle+Imaging+Center) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-08-21 | [`Universal Group For Engineering and Consulting`](https://google.com/search?q=Universal+Group+For+Engineering+and+Consulting) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
