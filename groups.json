@@ -1,5 +1,27 @@
 [
     {
+        "name": "scatteredlapsushunters",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": "Scattered LAPSUS$ Hunters",
+        "locations": [
+            {
+                "fqdn": "shinypogk4jjniry5qi7247tznop6mxdrdte2k6pdu5cyo43vdzmrwid.onion",
+                "title": "Scattered LAPSUS$ Hunters",
+                "version": 3,
+                "slug": "http://shinypogk4jjniry5qi7247tznop6mxdrdte2k6pdu5cyo43vdzmrwid.onion",
+                "available": true,
+                "updated": "2025-10-12 23:15:54.917650",
+                "lastscrape": "2025-10-12 23:15:54.9176501",
+                "enabled": true
+            }
+        ],
+        "profile": [
+            "https://www.watchguard.com/wgrd-security-hub/ransomware-tracker/scattered-lapsus-hunters"
+        ]
+    },
+    {
         "name": "marketo",
         "captcha": false,
         "parser": false,
