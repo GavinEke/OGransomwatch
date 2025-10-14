@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-14 | [`baronespecialtysteel.com`](https://google.com/search?q=baronespecialtysteel.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-13 | [`www.mercantetubos.com.br`](https://google.com/search?q=www.mercantetubos.com.br) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-10-13 | [`Furuno Electric`](https://google.com/search?q=Furuno+Electric) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-10-11 | [`RedWanted Alert`](https://google.com/search?q=RedWanted+Alert) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-26 | [`Banville Wine Merchants`](https://google.com/search?q=Banville+Wine+Merchants) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-08-26 | [`sirva`](https://google.com/search?q=sirva) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-08-26 | [`marlboroughpartners.com`](https://google.com/search?q=marlboroughpartners.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-08-25 | [`Security First Credit Union`](https://google.com/search?q=Security+First+Credit+Union) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
