@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-15 | [`Tex-Tube`](https://google.com/search?q=Tex-Tube) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2025-10-15 | [`Royal Thai`](https://google.com/search?q=Royal+Thai) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-10-15 | [`Legacy Manufacturing`](https://google.com/search?q=Legacy+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-10-15 | [`Koch & White Heating & Cooling`](https://google.com/search?q=Koch+%26+White+Heating+%26+Cooling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-10-15 | [`Global Shop Solutions`](https://google.com/search?q=Global+Shop+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-10-15 | [`Cellucap Manufacturing`](https://google.com/search?q=Cellucap+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-14 | [`baronespecialtysteel.com`](https://google.com/search?q=baronespecialtysteel.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-13 | [`www.mercantetubos.com.br`](https://google.com/search?q=www.mercantetubos.com.br) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-10-13 | [`Furuno Electric`](https://google.com/search?q=Furuno+Electric) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2025-08-27 | [`allmaxnutrition.com`](https://google.com/search?q=allmaxnutrition.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-27 | [`ZCORP`](https://google.com/search?q=ZCORP) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-08-26 | [`Premier Realty Group`](https://google.com/search?q=Premier+Realty+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-26 | [`Logan & Mencuccini`](https://google.com/search?q=Logan+%26+Mencuccini) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-26 | [`Galaxy Freightline`](https://google.com/search?q=Galaxy+Freightline) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-26 | [`Edward J McKarski`](https://google.com/search?q=Edward+J+McKarski) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-26 | [`Banville Wine Merchants`](https://google.com/search?q=Banville+Wine+Merchants) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-08-26 | [`sirva`](https://google.com/search?q=sirva) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-08-26 | [`marlboroughpartners.com`](https://google.com/search?q=marlboroughpartners.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
