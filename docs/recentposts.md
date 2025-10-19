@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-19 | [`summitgolfbrands.com`](https://google.com/search?q=summitgolfbrands.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-18 | [`Saturday Reckoning`](https://google.com/search?q=Saturday+Reckoning) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-17 | [`Cottage`](https://google.com/search?q=Cottage) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-17 | [`Shadrix & Parmer, P.C.`](https://google.com/search?q=Shadrix+%26+Parmer%2C+P.C.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-08-30 | [`OB GYN Associates`](https://google.com/search?q=OB+GYN+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-29 | [`www.sbdl.net`](https://google.com/search?q=www.sbdl.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-08-29 | [`Manesa`](https://google.com/search?q=Manesa) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-08-29 | [`BDO Perú`](https://google.com/search?q=BDO+Per%C3%BA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
