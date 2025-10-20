@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-20 | [`Orange County Bar Association`](https://google.com/search?q=Orange+County+Bar+Association) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
+| 2025-10-20 | [`oxfordcounty.ca`](https://google.com/search?q=oxfordcounty.ca) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
+| 2025-10-20 | [`cdom.org`](https://google.com/search?q=cdom.org) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-10-20 | [`Supercash (Reuploaded)`](https://google.com/search?q=Supercash+%28Reuploaded%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-10-19 | [`Accord Carton`](https://google.com/search?q=Accord+Carton) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-19 | [`Commemoration of Commander Martyr Reza Awada`](https://google.com/search?q=Commemoration+of+Commander+Martyr+Reza+Awada) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-09-02 | [`Bartek Ingredients`](https://google.com/search?q=Bartek+Ingredients) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-01 | [`TAK Communications, Inc`](https://google.com/search?q=TAK+Communications%2C+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-01 | [`Vanderpool Construction`](https://google.com/search?q=Vanderpool+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-01 | [`Juggernaut`](https://google.com/search?q=Juggernaut) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-01 | [`Arboris`](https://google.com/search?q=Arboris) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-01 | [`All States Materials Group`](https://google.com/search?q=All+States+Materials+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
