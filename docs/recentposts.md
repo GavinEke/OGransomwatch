@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-23 | [`Kurogane Kasei Co.`](https://google.com/search?q=Kurogane+Kasei+Co.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-23 | [`S Food Co., Ltd.`](https://google.com/search?q=S+Food+Co.%2C+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-22 | [`United Lube Oil`](https://google.com/search?q=United+Lube+Oil) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-22 | [`Kumwell`](https://google.com/search?q=Kumwell) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-04 | [`https://ipathpr.com`](https://google.com/search?q=https%3A%2F%2Fipathpr.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-09-04 | [`sandg.local`](https://google.com/search?q=sandg.local) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-04 | [`omegabiotek.com`](https://google.com/search?q=omegabiotek.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-04 | [`CANDhenterprises.com`](https://google.com/search?q=CANDhenterprises.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
