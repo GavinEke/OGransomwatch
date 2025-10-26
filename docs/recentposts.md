@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-26 | [`Metal Pros`](https://google.com/search?q=Metal+Pros) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-10-26 | [`LaBonne`](https://google.com/search?q=LaBonne) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-26 | [`auge.com`](https://google.com/search?q=auge.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-25 | [`Saturday Unveilings – Shadows Have Names`](https://google.com/search?q=Saturday+Unveilings+%E2%80%93+Shadows+Have+Names) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-24 | [`Forrest Ci`](https://google.com/search?q=Forrest+Ci) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-09-08 | [`nubox.com & sumasaas.com`](https://google.com/search?q=nubox.com+%26+sumasaas.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-09-08 | [` Ocean Edge Resort &amp; Golf Club `](https://google.com/search?q=+Ocean+Edge+Resort+%26amp%3B+Golf+Club+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-09-08 | [`https://gazomet.pl & https://cgas.pl`](https://google.com/search?q=https%3A%2F%2Fgazomet.pl+%26+https%3A%2F%2Fcgas.pl) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2025-09-06 | [`schuler-service-group.de`](https://google.com/search?q=schuler-service-group.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-05 | [`Elite Trailers`](https://google.com/search?q=Elite+Trailers) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
