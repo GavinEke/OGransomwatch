@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-27 | [`dwgra.com`](https://google.com/search?q=dwgra.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-10-27 | [` partitio.com`](https://google.com/search?q=+partitio.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-26 | [`Metal Pros`](https://google.com/search?q=Metal+Pros) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-26 | [`LaBonne`](https://google.com/search?q=LaBonne) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-26 | [`auge.com`](https://google.com/search?q=auge.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-09-08 | [`Energy Fishing`](https://google.com/search?q=Energy+Fishing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-08 | [`BDE Computer Services`](https://google.com/search?q=BDE+Computer+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-08 | [`nubox.com & sumasaas.com`](https://google.com/search?q=nubox.com+%26+sumasaas.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2025-09-08 | [` Ocean Edge Resort &amp; Golf Club `](https://google.com/search?q=+Ocean+Edge+Resort+%26amp%3B+Golf+Club+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2025-09-08 | [`https://gazomet.pl & https://cgas.pl`](https://google.com/search?q=https%3A%2F%2Fgazomet.pl+%26+https%3A%2F%2Fcgas.pl) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
