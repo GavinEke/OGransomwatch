@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-28 | [`Gemini Group`](https://google.com/search?q=Gemini+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-10-28 | [`Sylvester Roofing`](https://google.com/search?q=Sylvester+Roofing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-28 | [`Super Quik`](https://google.com/search?q=Super+Quik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-28 | [`Ouranos`](https://google.com/search?q=Ouranos) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-09 | [`Reliable Roofing`](https://google.com/search?q=Reliable+Roofing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-09 | [`Mayors Machine Works`](https://google.com/search?q=Mayors+Machine+Works) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-09 | [`JIT Energy Services`](https://google.com/search?q=JIT+Energy+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-09 | [`GL Veneer`](https://google.com/search?q=GL+Veneer) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
