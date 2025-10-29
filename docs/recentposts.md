@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-29 | [` Heffner Toyota &amp; Lexus `](https://google.com/search?q=+Heffner+Toyota+%26amp%3B+Lexus+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
+| 2025-10-29 | [`Phillips Printing Company `](https://google.com/search?q=Phillips+Printing+Company+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-10-28 | [`Alios Finance Group`](https://google.com/search?q=Alios+Finance+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-28 | [`Gemini Group`](https://google.com/search?q=Gemini+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-10-28 | [`Sylvester Roofing`](https://google.com/search?q=Sylvester+Roofing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-09-09 | [`HD Media Systems`](https://google.com/search?q=HD+Media+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-09 | [`Royal Machine & Tool`](https://google.com/search?q=Royal+Machine+%26+Tool) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-09 | [`Rising Star Hydraulics`](https://google.com/search?q=Rising+Star+Hydraulics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-09 | [`Reliable Roofing`](https://google.com/search?q=Reliable+Roofing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-09 | [`Mayors Machine Works`](https://google.com/search?q=Mayors+Machine+Works) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
