@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-29 | [`semag.fr`](https://google.com/search?q=semag.fr) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
+| 2025-10-29 | [`fsbgroup.ca`](https://google.com/search?q=fsbgroup.ca) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
+| 2025-10-29 | [`axxia.fr`](https://google.com/search?q=axxia.fr) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
+| 2025-10-29 | [`merrymanhouse.`](https://google.com/search?q=merrymanhouse.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-10-29 | [` Heffner Toyota &amp; Lexus `](https://google.com/search?q=+Heffner+Toyota+%26amp%3B+Lexus+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-10-29 | [`Phillips Printing Company `](https://google.com/search?q=Phillips+Printing+Company+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-10-28 | [`Alios Finance Group`](https://google.com/search?q=Alios+Finance+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2025-09-10 | [`M8 Group`](https://google.com/search?q=M8+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-09-10 | [`Northland Auto Solutions`](https://google.com/search?q=Northland+Auto+Solutions) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-09-10 | [`www.melenco.com`](https://google.com/search?q=www.melenco.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-10 | [`Coastal Pacific Xpress`](https://google.com/search?q=Coastal+Pacific+Xpress) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-09-09 | [`HD Media Systems`](https://google.com/search?q=HD+Media+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-09 | [`Royal Machine & Tool`](https://google.com/search?q=Royal+Machine+%26+Tool) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-09 | [`Rising Star Hydraulics`](https://google.com/search?q=Rising+Star+Hydraulics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
