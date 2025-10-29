@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-29 | [` DILOSA FOOD COMPANIES`](https://google.com/search?q=+DILOSA+FOOD+COMPANIES) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-29 | [`semag.fr`](https://google.com/search?q=semag.fr) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-10-29 | [`fsbgroup.ca`](https://google.com/search?q=fsbgroup.ca) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-10-29 | [`axxia.fr`](https://google.com/search?q=axxia.fr) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-10 | [`Gagosian(US, UK)`](https://google.com/search?q=Gagosian%28US%2C+UK%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2025-09-10 | [`M8 Group`](https://google.com/search?q=M8+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-09-10 | [`Northland Auto Solutions`](https://google.com/search?q=Northland+Auto+Solutions) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-09-10 | [`www.melenco.com`](https://google.com/search?q=www.melenco.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
