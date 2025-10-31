@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-31 | [`TMF Logistics`](https://google.com/search?q=TMF+Logistics) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-10-31 | [`DILOSA FOOD COMPANIES`](https://google.com/search?q=DILOSA+FOOD+COMPANIES) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-31 | [`aa-llp.com (aa.law)`](https://google.com/search?q=aa-llp.com+%28aa.law%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-31 | [`a-llp.com aa.law`](https://google.com/search?q=a-llp.com+aa.law) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-31 | [`VZW Avalon`](https://google.com/search?q=VZW+Avalon) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-09-15 | [`https://heritagegrowth.com/`](https://google.com/search?q=https%3A%2F%2Fheritagegrowth.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-15 | [`http://www.hiec.com/`](https://google.com/search?q=http%3A%2F%2Fwww.hiec.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-15 | [`Baum Precision Machining`](https://google.com/search?q=Baum+Precision+Machining) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-14 | [`usenergy`](https://google.com/search?q=usenergy) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2025-09-13 | [`BRIGHT SYSTEM JAPAN CO., LTD`](https://google.com/search?q=BRIGHT+SYSTEM+JAPAN+CO.%2C+LTD) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
