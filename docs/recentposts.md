@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-31 | [`www.verdugohillsdental.com`](https://google.com/search?q=www.verdugohillsdental.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-10-30 | [`https://www.weberwaterresources.com`](https://google.com/search?q=https%3A%2F%2Fwww.weberwaterresources.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2025-10-30 | [`ASKUL`](https://google.com/search?q=ASKUL) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-30 | [`Spindletop Center`](https://google.com/search?q=Spindletop+Center) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-13 | [`remagroup.`](https://google.com/search?q=remagroup.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-09-12 | [`Heffner Toyota &amp; Lexus `](https://google.com/search?q=Heffner+Toyota+%26amp%3B+Lexus+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-09-11 | [`moinian.com`](https://google.com/search?q=moinian.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2025-09-11 | [`deerfield.com / singulargenomics.com`](https://google.com/search?q=deerfield.com+%2F+singulargenomics.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
