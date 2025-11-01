@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-01 | [`Wright Tool`](https://google.com/search?q=Wright+Tool) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-11-01 | [`Tavo Packaging Inc`](https://google.com/search?q=Tavo+Packaging+Inc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-11-01 | [`Professional's Choice Sports`](https://google.com/search?q=Professional%27s+Choice+Sports) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-11-01 | [`Encore Repair Services`](https://google.com/search?q=Encore+Repair+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-01 | [`The Saturday Files`](https://google.com/search?q=The+Saturday+Files) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-31 | [`TMF Logistics`](https://google.com/search?q=TMF+Logistics) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-31 | [`DILOSA FOOD COMPANIES`](https://google.com/search?q=DILOSA+FOOD+COMPANIES) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2025-09-15 | [`jsgroup`](https://google.com/search?q=jsgroup) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-15 | [`Venlogistics`](https://google.com/search?q=Venlogistics) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-15 | [`Technology Assurance Group`](https://google.com/search?q=Technology+Assurance+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-15 | [`CBL-SRL`](https://google.com/search?q=CBL-SRL) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-15 | [`www.roscovision.com`](https://google.com/search?q=www.roscovision.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-15 | [`https://heritagegrowth.com/`](https://google.com/search?q=https%3A%2F%2Fheritagegrowth.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-15 | [`http://www.hiec.com/`](https://google.com/search?q=http%3A%2F%2Fwww.hiec.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
