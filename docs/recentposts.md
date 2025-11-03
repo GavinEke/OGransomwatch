@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-03 | [`afton.loc`](https://google.com/search?q=afton.loc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-11-03 | [`Vitalmex`](https://google.com/search?q=Vitalmex) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-11-03 | [`UnitedLayer`](https://google.com/search?q=UnitedLayer) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-03 | [`REPECHAGE`](https://google.com/search?q=REPECHAGE) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-03 | [`Victorian Chemical`](https://google.com/search?q=Victorian+Chemical) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-03 | [`https://www.unterkofler.info`](https://google.com/search?q=https%3A%2F%2Fwww.unterkofler.info) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-09-15 | [`Garrison Architects`](https://google.com/search?q=Garrison+Architects) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-15 | [`Energenecs`](https://google.com/search?q=Energenecs) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-15 | [`Eau Palm Beach Resort & Spa`](https://google.com/search?q=Eau+Palm+Beach+Resort+%26+Spa) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-15 | [`Crestone Group`](https://google.com/search?q=Crestone+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-15 | [`https://www.trailertransit.com`](https://google.com/search?q=https%3A%2F%2Fwww.trailertransit.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
-| 2025-09-15 | [`TerranearPMC`](https://google.com/search?q=TerranearPMC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
