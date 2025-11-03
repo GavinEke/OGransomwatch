@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-03 | [`https://www.unterkofler.info`](https://google.com/search?q=https%3A%2F%2Fwww.unterkofler.info) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
+| 2025-11-03 | [`www.automotiveml.com`](https://google.com/search?q=www.automotiveml.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-11-01 | [`Wright Tool`](https://google.com/search?q=Wright+Tool) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-01 | [`Tavo Packaging Inc`](https://google.com/search?q=Tavo+Packaging+Inc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-01 | [`Professional's Choice Sports`](https://google.com/search?q=Professional%27s+Choice+Sports) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-09-15 | [`TerranearPMC`](https://google.com/search?q=TerranearPMC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-15 | [`Rochester Optical`](https://google.com/search?q=Rochester+Optical) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-15 | [`jsgroup`](https://google.com/search?q=jsgroup) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-15 | [`Venlogistics`](https://google.com/search?q=Venlogistics) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-15 | [`Technology Assurance Group`](https://google.com/search?q=Technology+Assurance+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
