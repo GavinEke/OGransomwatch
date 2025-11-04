@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-04 | [`Sellars Absorbent Materials`](https://google.com/search?q=Sellars+Absorbent+Materials) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-11-04 | [`ConvExx`](https://google.com/search?q=ConvExx) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-04 | [`thevisapro.com (Yibirin Law Group)`](https://google.com/search?q=thevisapro.com+%28Yibirin+Law+Group%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-04 | [`American PowerNet`](https://google.com/search?q=American+PowerNet) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-04 | [`Invacare`](https://google.com/search?q=Invacare) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-09-16 | [`thepropertybusiness.com`](https://google.com/search?q=thepropertybusiness.com) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-09-16 | [`ekonomipoolen.se`](https://google.com/search?q=ekonomipoolen.se) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-09-16 | [`bmsi.org`](https://google.com/search?q=bmsi.org) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2025-09-16 | [`News-Press &amp; Gazette Co.`](https://google.com/search?q=News-Press+%26amp%3B+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2025-09-15 | [`RGR Sportswear`](https://google.com/search?q=RGR+Sportswear) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
