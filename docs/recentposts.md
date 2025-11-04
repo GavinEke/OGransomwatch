@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-04 | [`Invacare`](https://google.com/search?q=Invacare) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2025-11-04 | [`Automated Logistics Systems`](https://google.com/search?q=Automated+Logistics+Systems) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-11-04 | [`DOVERN Import`](https://google.com/search?q=DOVERN+Import) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-11-04 | [`Rios Espinosa`](https://google.com/search?q=Rios+Espinosa) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-11-03 | [`www.myriversidedentaloffice.com`](https://google.com/search?q=www.myriversidedentaloffice.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-09-15 | [`RGR Sportswear`](https://google.com/search?q=RGR+Sportswear) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-15 | [`RFI`](https://google.com/search?q=RFI) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-15 | [`Pathfinder`](https://google.com/search?q=Pathfinder) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-15 | [`McCarter Electrical`](https://google.com/search?q=McCarter+Electrical) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-15 | [`Lake Book Manufacturing`](https://google.com/search?q=Lake+Book+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
