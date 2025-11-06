@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-06 | [`The Union League of Philadelphia`](https://google.com/search?q=The+Union+League+of+Philadelphia) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-05 | [`sensationalteeth.com`](https://google.com/search?q=sensationalteeth.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-05 | [`KISS FM`](https://google.com/search?q=KISS+FM) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-11-04 | [`Sellars Absorbent Materials`](https://google.com/search?q=Sellars+Absorbent+Materials) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-16 | [`Grup Gestio`](https://google.com/search?q=Grup+Gestio) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-09-16 | [`Announcement 16-09-2025`](https://google.com/search?q=Announcement+16-09-2025) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-09-16 | [`grupozeta.com & www.grupozetajalisco.com`](https://google.com/search?q=grupozeta.com+%26+www.grupozetajalisco.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2025-09-16 | [`thepropertybusiness.com`](https://google.com/search?q=thepropertybusiness.com) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
