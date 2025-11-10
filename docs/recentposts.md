@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-10 | [`Easterseals Arc of Northeast Indiana`](https://google.com/search?q=Easterseals+Arc+of+Northeast+Indiana) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-11-10 | [`Community Unit School District 201`](https://google.com/search?q=Community+Unit+School+District+201) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-10 | [`Heart South Cardiovascular Group`](https://google.com/search?q=Heart+South+Cardiovascular+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-11-10 | [`Land Title Guaranty`](https://google.com/search?q=Land+Title+Guaranty) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-10 | [`Kwik Mix Materials`](https://google.com/search?q=Kwik+Mix+Materials) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-09-22 | [`PTR`](https://google.com/search?q=PTR) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-22 | [`New England Waterproofing`](https://google.com/search?q=New+England+Waterproofing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-22 | [`GrammaTech`](https://google.com/search?q=GrammaTech) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-22 | [`DHM Properties`](https://google.com/search?q=DHM+Properties) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-22 | [`Combined Services HVAC`](https://google.com/search?q=Combined+Services+HVAC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
