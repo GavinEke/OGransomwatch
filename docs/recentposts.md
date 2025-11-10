@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-10 | [`Land Title Guaranty`](https://google.com/search?q=Land+Title+Guaranty) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-11-10 | [`Kwik Mix Materials`](https://google.com/search?q=Kwik+Mix+Materials) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-11-10 | [`Jean-Georges`](https://google.com/search?q=Jean-Georges) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-11-10 | [`Ioxo & Stream Computers`](https://google.com/search?q=Ioxo+%26+Stream+Computers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-11-10 | [`Garvin Promotion Group`](https://google.com/search?q=Garvin+Promotion+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-11-10 | [`Darvin Furniture`](https://google.com/search?q=Darvin+Furniture) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-10 | [`[DISCLOSED]Kurogane Kasei Co.`](https://google.com/search?q=%5BDISCLOSED%5DKurogane+Kasei+Co.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-10 | [`MARCK Industries`](https://google.com/search?q=MARCK+Industries) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-10 | [`Weintraub Traub Tracy & Virk Cra's LLP`](https://google.com/search?q=Weintraub+Traub+Tracy+%26+Virk+Cra%27s+LLP) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2025-09-22 | [`DHM Properties`](https://google.com/search?q=DHM+Properties) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-22 | [`Combined Services HVAC`](https://google.com/search?q=Combined+Services+HVAC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-22 | [`APG`](https://google.com/search?q=APG) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-22 | [`Ronco Safety`](https://google.com/search?q=Ronco+Safety) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-22 | [`Hilldun`](https://google.com/search?q=Hilldun) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-22 | [`Agility CIS`](https://google.com/search?q=Agility+CIS) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-22 | [`CPK Interior`](https://google.com/search?q=CPK+Interior) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-22 | [`optimumdesign.com`](https://google.com/search?q=optimumdesign.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2025-09-22 | [`Batesky Law Office (BLO)`](https://google.com/search?q=Batesky+Law+Office+%28BLO%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
