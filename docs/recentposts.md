@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-10 | [`Weintraub Traub Tracy & Virk Cra's LLP`](https://google.com/search?q=Weintraub+Traub+Tracy+%26+Virk+Cra%27s+LLP) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-10 | [`[DISCLOSED]S Food Co., Ltd.`](https://google.com/search?q=%5BDISCLOSED%5DS+Food+Co.%2C+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-10 | [`[EVIDENCE PACK 2]ASKUL`](https://google.com/search?q=%5BEVIDENCE+PACK+2%5DASKUL) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-10 | [`LMHT Associates`](https://google.com/search?q=LMHT+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-22 | [`Batesky Law Office (BLO)`](https://google.com/search?q=Batesky+Law+Office+%28BLO%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-09-21 | [`Pennsylvania Office of Attorney General`](https://google.com/search?q=Pennsylvania+Office+of+Attorney+General) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-19 | [`United Machine`](https://google.com/search?q=United+Machine) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-18 | [`cardiofocus.com`](https://google.com/search?q=cardiofocus.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
