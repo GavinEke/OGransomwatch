@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-10 | [`LMHT Associates`](https://google.com/search?q=LMHT+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-11-08 | [`Saturday Spotlight`](https://google.com/search?q=Saturday+Spotlight) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-11-06 | [`prutsch-ra.at`](https://google.com/search?q=prutsch-ra.at) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-06 | [`MusikComputer GmbH`](https://google.com/search?q=MusikComputer+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-18 | [`cardiofocus.com`](https://google.com/search?q=cardiofocus.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-18 | [`Heidelberg Golf Club`](https://google.com/search?q=Heidelberg+Golf+Club) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-09-18 | [`cardinal-services.com`](https://google.com/search?q=cardinal-services.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-17 | [`grupogid.com`](https://google.com/search?q=grupogid.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
