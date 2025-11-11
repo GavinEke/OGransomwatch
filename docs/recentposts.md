@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-11 | [`Octomeca Oy`](https://google.com/search?q=Octomeca+Oy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-11 | [`Polidano Group`](https://google.com/search?q=Polidano+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-11 | [`Public Safety Mutual Benefit Fund`](https://google.com/search?q=Public+Safety+Mutual+Benefit+Fund) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-11 | [`www.modcomedia.com`](https://google.com/search?q=www.modcomedia.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-23 | [`P&P Industries`](https://google.com/search?q=P%26P+Industries) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-09-23 | [`Edro Real Estate`](https://google.com/search?q=Edro+Real+Estate) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-09-22 | [`Vcinity`](https://google.com/search?q=Vcinity) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-22 | [`Takeuchi US`](https://google.com/search?q=Takeuchi+US) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
