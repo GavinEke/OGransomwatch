@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-12 | [`partitio.com`](https://google.com/search?q=partitio.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-12 | [`Znojma Czechia`](https://google.com/search?q=Znojma+Czechia) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-12 | [`latamlex (gyg.local)`](https://google.com/search?q=latamlex+%28gyg.local%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-12 | [`galileo.it`](https://google.com/search?q=galileo.it) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-27 | [`Amos Spacecom Hacked`](https://google.com/search?q=Amos+Spacecom+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-09-27 | [`A space surprise soon!`](https://google.com/search?q=A+space+surprise+soon%21) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-09-26 | [`News-Press &amp;amp;amp;amp; Gazette Co.`](https://google.com/search?q=News-Press+%26amp%3Bamp%3Bamp%3Bamp%3B+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2025-09-26 | [`News-Press &amp;amp;amp; Gazette Co.`](https://google.com/search?q=News-Press+%26amp%3Bamp%3Bamp%3B+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
