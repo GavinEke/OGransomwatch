@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-12 | [`latamlex (gyg.local)`](https://google.com/search?q=latamlex+%28gyg.local%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-11-12 | [`galileo.it`](https://google.com/search?q=galileo.it) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-11-12 | [`forensicmed.com`](https://google.com/search?q=forensicmed.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-11-12 | [`bridge-housing-corp`](https://google.com/search?q=bridge-housing-corp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-11-12 | [`KohaFoods Hawaii`](https://google.com/search?q=KohaFoods+Hawaii) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-11-12 | [`Grupo Via Argentina`](https://google.com/search?q=Grupo+Via+Argentina) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-11-12 | [`Soleol`](https://google.com/search?q=Soleol) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2025-11-12 | [`Vennerhus Weine AG`](https://google.com/search?q=Vennerhus+Weine+AG) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-12 | [`Wiraswasta Gemilang`](https://google.com/search?q=Wiraswasta+Gemilang) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-12 | [`Fulgar S.p.A.`](https://google.com/search?q=Fulgar+S.p.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-11 | [`Octomeca Oy`](https://google.com/search?q=Octomeca+Oy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2025-09-26 | [`News-Press &amp;amp;amp;amp; Gazette Co.`](https://google.com/search?q=News-Press+%26amp%3Bamp%3Bamp%3Bamp%3B+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-09-26 | [`News-Press &amp;amp;amp; Gazette Co.`](https://google.com/search?q=News-Press+%26amp%3Bamp%3Bamp%3B+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-09-26 | [`News-Press &amp;amp; Gazette Co.`](https://google.com/search?q=News-Press+%26amp%3Bamp%3B+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2025-09-26 | [`SOP. Sistema Odontológico Privado`](https://google.com/search?q=SOP.+Sistema+Odontol%C3%B3gico+Privado) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-09-25 | [`Fattore Cosméticos Ltda`](https://google.com/search?q=Fattore+Cosm%C3%A9ticos+Ltda) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-09-24 | [`awo-ka-land.de`](https://google.com/search?q=awo-ka-land.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-24 | [`TLD Law.com`](https://google.com/search?q=TLD+Law.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-24 | [`The Maryland Department of Transportation`](https://google.com/search?q=The+Maryland+Department+of+Transportation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-09-23 | [`Milk Agro`](https://google.com/search?q=Milk+Agro) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-09-23 | [`Speed Art Museum`](https://google.com/search?q=Speed+Art+Museum) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-23 | [`P&P Industries`](https://google.com/search?q=P%26P+Industries) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
