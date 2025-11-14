@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-14 | [`eakas.com`](https://google.com/search?q=eakas.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-14 | [`Valley Plains Equipment`](https://google.com/search?q=Valley+Plains+Equipment) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-14 | [`Sellers Publishing`](https://google.com/search?q=Sellers+Publishing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-14 | [`BK Precision`](https://google.com/search?q=BK+Precision) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-29 | [`News-Press and Gazette Co.`](https://google.com/search?q=News-Press+and+Gazette+Co.) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-09-29 | [`san`](https://google.com/search?q=san) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-09-29 | [`Peavey Electronics Corporation`](https://google.com/search?q=Peavey+Electronics+Corporation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-09-29 | [`Manjarrez Impresores`](https://google.com/search?q=Manjarrez+Impresores) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
