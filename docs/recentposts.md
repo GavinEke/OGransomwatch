@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-14 | [`Valley Plains Equipment`](https://google.com/search?q=Valley+Plains+Equipment) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-11-14 | [`Sellers Publishing`](https://google.com/search?q=Sellers+Publishing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-11-14 | [`BK Precision`](https://google.com/search?q=BK+Precision) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-14 | [`Kaan Cronenberg & Partners Law `](https://google.com/search?q=Kaan+Cronenberg+%26+Partners+Law+) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-14 | [`The Foot Doctor&#039;s`](https://google.com/search?q=The+Foot+Doctor%26%23039%3Bs) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-11-14 | [`www.northcroftme.com`](https://google.com/search?q=www.northcroftme.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-09-29 | [`san`](https://google.com/search?q=san) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-09-29 | [`Peavey Electronics Corporation`](https://google.com/search?q=Peavey+Electronics+Corporation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-09-29 | [`Manjarrez Impresores`](https://google.com/search?q=Manjarrez+Impresores) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-29 | [`www.sonoshowmoveis.com.br`](https://google.com/search?q=www.sonoshowmoveis.com.br) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2025-09-29 | [`phi.ca`](https://google.com/search?q=phi.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-09-28 | [`List of Spacecom employees`](https://google.com/search?q=List+of+Spacecom+employees) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
