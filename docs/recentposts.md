@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-14 | [`www.northcroftme.com`](https://google.com/search?q=www.northcroftme.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-11-14 | [`facadeinnovations.com.au`](https://google.com/search?q=facadeinnovations.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-13 | [`wafergrind.com`](https://google.com/search?q=wafergrind.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-13 | [`rosemontexpo.com`](https://google.com/search?q=rosemontexpo.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-13 | [`kellylegal.com.au`](https://google.com/search?q=kellylegal.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-09-28 | [`List of Spacecom employees`](https://google.com/search?q=List+of+Spacecom+employees) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-09-27 | [`Steve Basso Plumbing Heating`](https://google.com/search?q=Steve+Basso+Plumbing+Heating) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-27 | [`Pangborn`](https://google.com/search?q=Pangborn) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-27 | [`Earthadelic`](https://google.com/search?q=Earthadelic) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-27 | [`ComTec Systems`](https://google.com/search?q=ComTec+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
