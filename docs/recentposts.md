@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-17 | [`[DISCLOSED]Victorian Chemical`](https://google.com/search?q=%5BDISCLOSED%5DVictorian+Chemical) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-17 | [`[DISCLOSED] Fulgar S.p.A.`](https://google.com/search?q=%5BDISCLOSED%5D+Fulgar+S.p.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-17 | [`www.entecheng.com`](https://google.com/search?q=www.entecheng.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-15 | [`https://www.bew.co.th`](https://google.com/search?q=https%3A%2F%2Fwww.bew.co.th) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-01 | [`LAMMCO.NET`](https://google.com/search?q=LAMMCO.NET) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-01 | [`Smiles By Steedman`](https://google.com/search?q=Smiles+By+Steedman) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-10-01 | [`idealbathrooms.ie`](https://google.com/search?q=idealbathrooms.ie) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-10-01 | [`Nacsworld.com`](https://google.com/search?q=Nacsworld.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
