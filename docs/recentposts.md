@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-18 | [`baisyaakov.ca`](https://google.com/search?q=baisyaakov.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-18 | [`continuumindia.com`](https://google.com/search?q=continuumindia.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-18 | [`zadroinc.com`](https://google.com/search?q=zadroinc.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-18 | [`ripleyacademy.org`](https://google.com/search?q=ripleyacademy.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-02 | [`Gesimde Asociados / Ausil Systems / Esnova`](https://google.com/search?q=Gesimde+Asociados+%2F+Ausil+Systems+%2F+Esnova) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-10-01 | [`suntreeinternalmedicine.com`](https://google.com/search?q=suntreeinternalmedicine.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-01 | [`The Plainview Volunteer FD`](https://google.com/search?q=The+Plainview+Volunteer+FD) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-10-01 | [`Climatron`](https://google.com/search?q=Climatron) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
