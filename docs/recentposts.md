@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-18 | [`zadroinc.com`](https://google.com/search?q=zadroinc.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-11-18 | [`ripleyacademy.org`](https://google.com/search?q=ripleyacademy.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-11-18 | [`grandeprairie.org`](https://google.com/search?q=grandeprairie.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-11-18 | [`datenlotsen.de`](https://google.com/search?q=datenlotsen.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-18 | [`Smoll & Banning, CPAs`](https://google.com/search?q=Smoll+%26+Banning%2C+CPAs) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-11-17 | [`dulay.ca`](https://google.com/search?q=dulay.ca) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2025-11-17 | [`[DISCLOSED]Victorian Chemical`](https://google.com/search?q=%5BDISCLOSED%5DVictorian+Chemical) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2025-10-01 | [`The Plainview Volunteer FD`](https://google.com/search?q=The+Plainview+Volunteer+FD) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-01 | [`Climatron`](https://google.com/search?q=Climatron) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-01 | [`https://www.adhunikpower.com`](https://google.com/search?q=https%3A%2F%2Fwww.adhunikpower.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2025-10-01 | [`icc-nw.net`](https://google.com/search?q=icc-nw.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-10-01 | [`callhci.com`](https://google.com/search?q=callhci.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-10-01 | [`Cholakyan Chiropractic`](https://google.com/search?q=Cholakyan+Chiropractic) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-10-01 | [`LAMMCO.NET`](https://google.com/search?q=LAMMCO.NET) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
