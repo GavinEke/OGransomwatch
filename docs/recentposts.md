@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-20 | [`Makro`](https://google.com/search?q=Makro) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-20 | [`naffco.com`](https://google.com/search?q=naffco.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-19 | [`reidhurstnagy.com`](https://google.com/search?q=reidhurstnagy.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-18 | [`baisyaakov.ca`](https://google.com/search?q=baisyaakov.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-02 | [`GWP Engineering`](https://google.com/search?q=GWP+Engineering) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-02 | [`Wilsenergy`](https://google.com/search?q=Wilsenergy) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-10-02 | [`Weber Flavors`](https://google.com/search?q=Weber+Flavors) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-10-02 | [`Gesimde Asociados / Ausil Systems / Esnova`](https://google.com/search?q=Gesimde+Asociados+%2F+Ausil+Systems+%2F+Esnova) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
