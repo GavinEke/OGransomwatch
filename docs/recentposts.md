@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-20 | [`Radio Sound`](https://google.com/search?q=Radio+Sound) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-11-20 | [`One Source Associates`](https://google.com/search?q=One+Source+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-11-20 | [`N C Machinery`](https://google.com/search?q=N+C+Machinery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-11-20 | [`Highmark Companies`](https://google.com/search?q=Highmark+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-11-20 | [`Artesian Insurance`](https://google.com/search?q=Artesian+Insurance) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-11-20 | [`Applied Energy Systems`](https://google.com/search?q=Applied+Energy+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-20 | [`Makro`](https://google.com/search?q=Makro) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-20 | [`naffco.com`](https://google.com/search?q=naffco.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-19 | [`reidhurstnagy.com`](https://google.com/search?q=reidhurstnagy.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2025-10-05 | [`ocmaine.com`](https://google.com/search?q=ocmaine.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-04 | [`itss.com.`](https://google.com/search?q=itss.com.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-10-04 | [`Medstar Health`](https://google.com/search?q=Medstar+Health) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-10-03 | [`Waterborne Environmental`](https://google.com/search?q=Waterborne+Environmental) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-10-03 | [`Supercash (Alimentos Y Bebidas Premium)`](https://google.com/search?q=Supercash+%28Alimentos+Y+Bebidas+Premium%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-10-03 | [`stockmeier-urethanes.com`](https://google.com/search?q=stockmeier-urethanes.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-10-02 | [`GWP Engineering`](https://google.com/search?q=GWP+Engineering) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-10-02 | [`Wilsenergy`](https://google.com/search?q=Wilsenergy) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-10-02 | [`Weber Flavors`](https://google.com/search?q=Weber+Flavors) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
