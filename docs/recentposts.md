@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-22 | [`Woom GmbH`](https://google.com/search?q=Woom+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-11-22 | [`TBTEAM`](https://google.com/search?q=TBTEAM) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-21 | [`Wachusett School District MA`](https://google.com/search?q=Wachusett+School+District+MA) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-11-21 | [`Fucerep`](https://google.com/search?q=Fucerep) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-20 | [`Radio Sound`](https://google.com/search?q=Radio+Sound) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-10-06 | [`WELLSLANDSCAPING.COM`](https://google.com/search?q=WELLSLANDSCAPING.COM) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-05 | [`https://www.libertydentaltown.com`](https://google.com/search?q=https%3A%2F%2Fwww.libertydentaltown.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-10-05 | [`hillsidelibrary.org`](https://google.com/search?q=hillsidelibrary.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-10-05 | [`stalkerradar.com`](https://google.com/search?q=stalkerradar.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-10-05 | [`ocmaine.com`](https://google.com/search?q=ocmaine.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
