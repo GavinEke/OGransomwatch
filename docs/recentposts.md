@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-22 | [`onsolve.com`](https://google.com/search?q=onsolve.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-22 | [`10 corpses`](https://google.com/search?q=10+corpses) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-11-22 | [`Woom GmbH`](https://google.com/search?q=Woom+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-22 | [`TBTEAM`](https://google.com/search?q=TBTEAM) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-06 | [`AES Clean Technology`](https://google.com/search?q=AES+Clean+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-06 | [`colef`](https://google.com/search?q=colef) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-10-06 | [`WELLSLANDSCAPING.COM`](https://google.com/search?q=WELLSLANDSCAPING.COM) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-10-05 | [`https://www.libertydentaltown.com`](https://google.com/search?q=https%3A%2F%2Fwww.libertydentaltown.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
