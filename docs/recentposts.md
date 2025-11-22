@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-22 | [`Turkstra Trusses`](https://google.com/search?q=Turkstra+Trusses) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-11-22 | [`Keystone Fabricating`](https://google.com/search?q=Keystone+Fabricating) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-11-22 | [`Katch Kan`](https://google.com/search?q=Katch+Kan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-22 | [`St. Joseph's Healthcare Hamilton`](https://google.com/search?q=St.+Joseph%27s+Healthcare+Hamilton) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-11-22 | [`onsolve.com`](https://google.com/search?q=onsolve.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-22 | [`10 corpses`](https://google.com/search?q=10+corpses) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-10-07 | [`Handala RedWanted`](https://google.com/search?q=Handala+RedWanted) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-07 | [`Statement of Establishment  Of the Grassroots Resistance Front  Of Right-Seekers – Handala`](https://google.com/search?q=Statement+of+Establishment++Of+the+Grassroots+Resistance+Front++Of+Right-Seekers+%E2%80%93+Handala) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-06 | [`NurtureCare`](https://google.com/search?q=NurtureCare) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-10-06 | [`Dataforth`](https://google.com/search?q=Dataforth) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-10-06 | [`AES Clean Technology`](https://google.com/search?q=AES+Clean+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-10-06 | [`colef`](https://google.com/search?q=colef) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
