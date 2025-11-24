@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-24 | [`omegatoolcorp.com`](https://google.com/search?q=omegatoolcorp.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-24 | [`Collge Superieur De Montreal`](https://google.com/search?q=Collge+Superieur+De+Montreal) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-11-22 | [`Turkstra Trusses`](https://google.com/search?q=Turkstra+Trusses) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-22 | [`Keystone Fabricating`](https://google.com/search?q=Keystone+Fabricating) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-08 | [`Acuna Fombona (AFOM)`](https://google.com/search?q=Acuna+Fombona+%28AFOM%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-10-07 | [`JASCO Applied Sciences`](https://google.com/search?q=JASCO+Applied+Sciences) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-10-07 | [`Handala RedWanted`](https://google.com/search?q=Handala+RedWanted) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-10-07 | [`Statement of Establishment  Of the Grassroots Resistance Front  Of Right-Seekers – Handala`](https://google.com/search?q=Statement+of+Establishment++Of+the+Grassroots+Resistance+Front++Of+Right-Seekers+%E2%80%93+Handala) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
