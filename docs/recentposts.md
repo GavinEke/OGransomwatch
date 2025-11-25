@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-25 | [`Marlex Human Capital`](https://google.com/search?q=Marlex+Human+Capital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-11-24 | [`Southern Lion Sdn Bhd`](https://google.com/search?q=Southern+Lion+Sdn+Bhd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-24 | [`Swedish Arts Council`](https://google.com/search?q=Swedish+Arts+Council) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-24 | [`omegatoolcorp.com`](https://google.com/search?q=omegatoolcorp.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-09 | [`THE FIRST SHAMING`](https://google.com/search?q=THE+FIRST+SHAMING) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
 | 2025-10-09 | [`ROXU`](https://google.com/search?q=ROXU) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-10-08 | [`Chapter 13 Texas`](https://google.com/search?q=Chapter+13+Texas) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-10-08 | [`Acuna Fombona (AFOM)`](https://google.com/search?q=Acuna+Fombona+%28AFOM%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
