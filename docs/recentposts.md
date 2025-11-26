@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-26 | [`AGS`](https://google.com/search?q=AGS) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2025-11-26 | [`ADC Aerospace`](https://google.com/search?q=ADC+Aerospace) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-26 | [`ITL Systemhaus`](https://google.com/search?q=ITL+Systemhaus) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-25 | [`cryopur.com`](https://google.com/search?q=cryopur.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-25 | [`Schmidt's`](https://google.com/search?q=Schmidt%27s) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-10-09 | [`NextGen Mold Technologies`](https://google.com/search?q=NextGen+Mold+Technologies) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-09 | [`Benedict Industries`](https://google.com/search?q=Benedict+Industries) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-09 | [`Elmer W. Davis`](https://google.com/search?q=Elmer+W.+Davis) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-10-09 | [`Accelerated`](https://google.com/search?q=Accelerated) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-10-09 | [`Sdii Global`](https://google.com/search?q=Sdii+Global) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
