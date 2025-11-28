@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-28 | [`vviewisd.net`](https://google.com/search?q=vviewisd.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-27 | [`PFMI`](https://google.com/search?q=PFMI) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-26 | [`FIT`](https://google.com/search?q=FIT) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-26 | [`AGS`](https://google.com/search?q=AGS) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-10 | [`Israel Fuel System Hacked`](https://google.com/search?q=Israel+Fuel+System+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-09 | [`https://www.tongapower.to/`](https://google.com/search?q=https%3A%2F%2Fwww.tongapower.to%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-09 | [`georgetown-brewing-co`](https://google.com/search?q=georgetown-brewing-co) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-10-09 | [`NextGen Mold Technologies`](https://google.com/search?q=NextGen+Mold+Technologies) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
