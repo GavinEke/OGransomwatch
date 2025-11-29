@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-11-29 | [`8200 Unit corpses`](https://google.com/search?q=8200+Unit+corpses) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-11-29 | [`Dr. Isaac Gertz – Chief Nuclear Architect of the Zion Regime`](https://google.com/search?q=Dr.+Isaac+Gertz+%E2%80%93+Chief+Nuclear+Architect+of+the+Zion+Regime) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-11-28 | [`vviewisd.net`](https://google.com/search?q=vviewisd.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-27 | [`PFMI`](https://google.com/search?q=PFMI) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-11 | [`RedWanted Alert`](https://google.com/search?q=RedWanted+Alert) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-10 | [`MS Security & Personnel<br />`](https://google.com/search?q=MS+Security+%26+Personnel%3Cbr+%2F%3E) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-10-10 | [`Israel Fuel System Hacked`](https://google.com/search?q=Israel+Fuel+System+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-10-09 | [`https://www.tongapower.to/`](https://google.com/search?q=https%3A%2F%2Fwww.tongapower.to%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
