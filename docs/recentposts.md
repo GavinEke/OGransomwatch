@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-01 | [`University Loft`](https://google.com/search?q=University+Loft) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-12-01 | [`South Island Public Service District`](https://google.com/search?q=South+Island+Public+Service+District) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-12-01 | [`Hall Aluminum Products`](https://google.com/search?q=Hall+Aluminum+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-12-01 | [`Clark & Sullivan Constructors`](https://google.com/search?q=Clark+%26+Sullivan+Constructors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-12-01 | [`Aspen Distribution`](https://google.com/search?q=Aspen+Distribution) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-12-01 | [`PHA Body Systems`](https://google.com/search?q=PHA+Body+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-01 | [`Industrial Steam`](https://google.com/search?q=Industrial+Steam) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-12-01 | [`millerwoodtradepub.com`](https://google.com/search?q=millerwoodtradepub.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-01 | [`www.enea.com`](https://google.com/search?q=www.enea.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2025-10-16 | [`BMP Worldwide`](https://google.com/search?q=BMP+Worldwide) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-16 | [`Sibbalds`](https://google.com/search?q=Sibbalds) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-10-15 | [`Tex-Tube`](https://google.com/search?q=Tex-Tube) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-10-15 | [`Royal Thai`](https://google.com/search?q=Royal+Thai) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-10-15 | [`Legacy Manufacturing`](https://google.com/search?q=Legacy+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-10-15 | [`Koch & White Heating & Cooling`](https://google.com/search?q=Koch+%26+White+Heating+%26+Cooling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-10-15 | [`Global Shop Solutions`](https://google.com/search?q=Global+Shop+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-10-15 | [`Cellucap Manufacturing`](https://google.com/search?q=Cellucap+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-10-14 | [`baronespecialtysteel.com`](https://google.com/search?q=baronespecialtysteel.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
