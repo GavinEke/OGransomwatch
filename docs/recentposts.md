@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-03 | [`bisonfamilymedical.com`](https://google.com/search?q=bisonfamilymedical.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-03 | [`instyle.com.au`](https://google.com/search?q=instyle.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-02 | [`www.precipiodx.com`](https://google.com/search?q=www.precipiodx.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-02 | [`[EVIDENCE PACK 3]ASKUL`](https://google.com/search?q=%5BEVIDENCE+PACK+3%5DASKUL) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-19 | [`summitgolfbrands.com`](https://google.com/search?q=summitgolfbrands.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-18 | [`Saturday Reckoning`](https://google.com/search?q=Saturday+Reckoning) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-17 | [`Cottage`](https://google.com/search?q=Cottage) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-10-17 | [`Shadrix & Parmer, P.C.`](https://google.com/search?q=Shadrix+%26+Parmer%2C+P.C.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
