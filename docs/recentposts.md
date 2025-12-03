@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-03 | [` Black Hills Bentonite `](https://google.com/search?q=+Black+Hills+Bentonite+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
+| 2025-12-03 | [` `](https://google.com/search?q=+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
+| 2025-12-03 | [`Golden Artist Colors `](https://google.com/search?q=Golden+Artist+Colors+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-12-03 | [`Bo Beuckman Ford`](https://google.com/search?q=Bo+Beuckman+Ford) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-12-03 | [`Armis Group`](https://google.com/search?q=Armis+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-12-03 | [`bisonfamilymedical.com`](https://google.com/search?q=bisonfamilymedical.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-10-20 | [`oxfordcounty.ca`](https://google.com/search?q=oxfordcounty.ca) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-10-20 | [`cdom.org`](https://google.com/search?q=cdom.org) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-10-20 | [`Supercash (Reuploaded)`](https://google.com/search?q=Supercash+%28Reuploaded%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-10-19 | [`Accord Carton`](https://google.com/search?q=Accord+Carton) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-10-19 | [`Commemoration of Commander Martyr Reza Awada`](https://google.com/search?q=Commemoration+of+Commander+Martyr+Reza+Awada) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-10-19 | [`summitgolfbrands.com`](https://google.com/search?q=summitgolfbrands.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
