@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-05 | [`new blog domain lockbit 5.0`](https://google.com/search?q=new+blog+domain+lockbit+5.0) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-12-05 | [`Slimsoft`](https://google.com/search?q=Slimsoft) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-12-04 | [`Quasar Inc`](https://google.com/search?q=Quasar+Inc) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-12-03 | [` Black Hills Bentonite `](https://google.com/search?q=+Black+Hills+Bentonite+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-21 | [`Nelligan White Architects`](https://google.com/search?q=Nelligan+White+Architects) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-21 | [`National Coatings`](https://google.com/search?q=National+Coatings) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-20 | [`Orange County Bar Association`](https://google.com/search?q=Orange+County+Bar+Association) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-10-20 | [`oxfordcounty.ca`](https://google.com/search?q=oxfordcounty.ca) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
