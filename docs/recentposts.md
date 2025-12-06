@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-06 | [`www.mylawcompany.com`](https://google.com/search?q=www.mylawcompany.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-06 | [`From Shield to Shame`](https://google.com/search?q=From+Shield+to+Shame) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-12-06 | [`SODISE`](https://google.com/search?q=SODISE) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-12-05 | [` Golden Artist Colors `](https://google.com/search?q=+Golden+Artist+Colors+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-23 | [`Kurogane Kasei Co.`](https://google.com/search?q=Kurogane+Kasei+Co.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-23 | [`S Food Co., Ltd.`](https://google.com/search?q=S+Food+Co.%2C+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-22 | [`United Lube Oil`](https://google.com/search?q=United+Lube+Oil) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-10-22 | [`Kumwell`](https://google.com/search?q=Kumwell) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
