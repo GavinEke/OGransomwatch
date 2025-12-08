@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-08 | [`www.labiennale.org`](https://google.com/search?q=www.labiennale.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-08 | [`sandiegowarroom.com`](https://google.com/search?q=sandiegowarroom.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-08 | [`hohmartin.org`](https://google.com/search?q=hohmartin.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-08 | [`Foxconn Interconnect Technology Limited (FIT)`](https://google.com/search?q=Foxconn+Interconnect+Technology+Limited+%28FIT%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-26 | [`Metal Pros`](https://google.com/search?q=Metal+Pros) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-26 | [`LaBonne`](https://google.com/search?q=LaBonne) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-26 | [`auge.com`](https://google.com/search?q=auge.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-10-25 | [`Saturday Unveilings – Shadows Have Names`](https://google.com/search?q=Saturday+Unveilings+%E2%80%93+Shadows+Have+Names) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
