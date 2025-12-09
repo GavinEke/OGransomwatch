@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-09 | [`www.lincecomercial.com`](https://google.com/search?q=www.lincecomercial.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-09 | [`The Foot Doctor`](https://google.com/search?q=The+Foot+Doctor) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-12-09 | [`EXPERTISE MOBSIGN`](https://google.com/search?q=EXPERTISE+MOBSIGN) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-12-08 | [`www.labiennale.org`](https://google.com/search?q=www.labiennale.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-27 | [`Abilene Family Medical Associates`](https://google.com/search?q=Abilene+Family+Medical+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-10-27 | [`dwgra.com`](https://google.com/search?q=dwgra.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-27 | [` partitio.com`](https://google.com/search?q=+partitio.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-10-26 | [`Metal Pros`](https://google.com/search?q=Metal+Pros) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
