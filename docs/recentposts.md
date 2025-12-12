@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-12 | [`Right Power Technology Sdn Bhd`](https://google.com/search?q=Right+Power+Technology+Sdn+Bhd) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-12-11 | [`Woodard, Emhardt, Henry, Reeves & Wagner, LLP`](https://google.com/search?q=Woodard%2C+Emhardt%2C+Henry%2C+Reeves+%26+Wagner%2C+LLP) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-12-11 | [`Harbour Town Doctors`](https://google.com/search?q=Harbour+Town+Doctors) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-12-11 | [`Plonter Hacked`](https://google.com/search?q=Plonter+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-28 | [`Kitchen Design Concepts`](https://google.com/search?q=Kitchen+Design+Concepts) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-28 | [`Henry Raymond & Thompson`](https://google.com/search?q=Henry+Raymond+%26+Thompson) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-10-28 | [`Furniture Plus`](https://google.com/search?q=Furniture+Plus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-10-28 | [`Fast Freight`](https://google.com/search?q=Fast+Freight) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
