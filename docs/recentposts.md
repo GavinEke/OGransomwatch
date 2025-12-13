@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-13 | [`Eastman Cooke`](https://google.com/search?q=Eastman+Cooke) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-13 | [`beycelik`](https://google.com/search?q=beycelik) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-13 | [`Targets Locked: The Minds Behind Arrow and David’s Sling Are Revealed`](https://google.com/search?q=Targets+Locked%3A+The+Minds+Behind+Arrow+and+David%E2%80%99s+Sling+Are+Revealed) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-12-13 | [`***** ***********`](https://google.com/search?q=%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-29 | [`Phillips Printing Company `](https://google.com/search?q=Phillips+Printing+Company+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-10-28 | [`Alios Finance Group`](https://google.com/search?q=Alios+Finance+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-28 | [`Gemini Group`](https://google.com/search?q=Gemini+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-10-28 | [`Sylvester Roofing`](https://google.com/search?q=Sylvester+Roofing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
