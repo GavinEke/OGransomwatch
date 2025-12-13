@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-13 | [`Viga Eatery`](https://google.com/search?q=Viga+Eatery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-12-13 | [`Jabezco Industrial Group`](https://google.com/search?q=Jabezco+Industrial+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-12-13 | [`Choates HVAC`](https://google.com/search?q=Choates+HVAC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-13 | [`Eastman Cooke`](https://google.com/search?q=Eastman+Cooke) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-13 | [`beycelik`](https://google.com/search?q=beycelik) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-13 | [`Targets Locked: The Minds Behind Arrow and David’s Sling Are Revealed`](https://google.com/search?q=Targets+Locked%3A+The+Minds+Behind+Arrow+and+David%E2%80%99s+Sling+Are+Revealed) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-10-29 | [`axxia.fr`](https://google.com/search?q=axxia.fr) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-10-29 | [`merrymanhouse.`](https://google.com/search?q=merrymanhouse.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-10-29 | [` Heffner Toyota &amp; Lexus `](https://google.com/search?q=+Heffner+Toyota+%26amp%3B+Lexus+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2025-10-29 | [`Phillips Printing Company `](https://google.com/search?q=Phillips+Printing+Company+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2025-10-28 | [`Alios Finance Group`](https://google.com/search?q=Alios+Finance+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-10-28 | [`Gemini Group`](https://google.com/search?q=Gemini+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
