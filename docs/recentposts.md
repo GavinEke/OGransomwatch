@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-15 | [`Diaz Gill Medicina Laboratorial S.A.`](https://google.com/search?q=Diaz+Gill+Medicina+Laboratorial+S.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-12-15 | [`steelworksinc.ca`](https://google.com/search?q=steelworksinc.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-15 | [`cityofsignalhill.org`](https://google.com/search?q=cityofsignalhill.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-13 | [`Viga Eatery`](https://google.com/search?q=Viga+Eatery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-29 | [` DILOSA FOOD COMPANIES`](https://google.com/search?q=+DILOSA+FOOD+COMPANIES) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-29 | [`semag.fr`](https://google.com/search?q=semag.fr) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-10-29 | [`fsbgroup.ca`](https://google.com/search?q=fsbgroup.ca) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2025-10-29 | [`axxia.fr`](https://google.com/search?q=axxia.fr) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
