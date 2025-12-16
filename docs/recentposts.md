@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-16 | [`Comcast    REUP FOR SALE`](https://google.com/search?q=Comcast++++REUP+FOR+SALE) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-12-15 | [`YOKOSUKA GAKUIN`](https://google.com/search?q=YOKOSUKA+GAKUIN) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-12-15 | [`acdcex`](https://google.com/search?q=acdcex) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-12-15 | [` AvtechTyee `](https://google.com/search?q=+AvtechTyee+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-10-30 | [`https://www.weberwaterresources.com`](https://google.com/search?q=https%3A%2F%2Fwww.weberwaterresources.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2025-10-30 | [`ASKUL`](https://google.com/search?q=ASKUL) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-30 | [`Spindletop Center`](https://google.com/search?q=Spindletop+Center) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-10-30 | [`Evolve Mortgage Services`](https://google.com/search?q=Evolve+Mortgage+Services) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
