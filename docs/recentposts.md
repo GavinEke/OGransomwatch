@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-16 | [`Southern Specialty & Supply`](https://google.com/search?q=Southern+Specialty+%26+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-12-16 | [`Maypay Farms Inc`](https://google.com/search?q=Maypay+Farms+Inc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-16 | [`Walters Group Inc `](https://google.com/search?q=Walters+Group+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-12-16 | [`Precise Benefits Group LLC`](https://google.com/search?q=Precise+Benefits+Group+LLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-16 | [`Comcast    REUP FOR SALE`](https://google.com/search?q=Comcast++++REUP+FOR+SALE) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-10-31 | [`aa-llp.com (aa.law)`](https://google.com/search?q=aa-llp.com+%28aa.law%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-31 | [`a-llp.com aa.law`](https://google.com/search?q=a-llp.com+aa.law) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-10-31 | [`VZW Avalon`](https://google.com/search?q=VZW+Avalon) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-10-31 | [`www.verdugohillsdental.com`](https://google.com/search?q=www.verdugohillsdental.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2025-10-30 | [`https://www.weberwaterresources.com`](https://google.com/search?q=https%3A%2F%2Fwww.weberwaterresources.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
