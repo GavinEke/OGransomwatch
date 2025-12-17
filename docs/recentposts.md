@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-17 | [`MedHelp`](https://google.com/search?q=MedHelp) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-12-17 | [`CVK Hotels & Resorts_Turkey`](https://google.com/search?q=CVK+Hotels+%26+Resorts_Turkey) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-17 | [`Naftali Bennett Chats`](https://google.com/search?q=Naftali+Bennett+Chats) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-12-17 | [`Operation Octopus: Naftali Bennett Hacked`](https://google.com/search?q=Operation+Octopus%3A+Naftali+Bennett+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-03 | [`www.automotiveml.com`](https://google.com/search?q=www.automotiveml.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-11-01 | [`Wright Tool`](https://google.com/search?q=Wright+Tool) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-01 | [`Tavo Packaging Inc`](https://google.com/search?q=Tavo+Packaging+Inc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-11-01 | [`Professional's Choice Sports`](https://google.com/search?q=Professional%27s+Choice+Sports) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
