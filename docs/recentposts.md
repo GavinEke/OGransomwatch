@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-17 | [`Caught by the Octopus: Bennett’s Darkest Hour`](https://google.com/search?q=Caught+by+the+Octopus%3A+Bennett%E2%80%99s+Darkest+Hour) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-12-17 | [`https://avenira.com/`](https://google.com/search?q=https%3A%2F%2Favenira.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-16 | [`Fairgrove Oil`](https://google.com/search?q=Fairgrove+Oil) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-16 | [`Allure Home Creation`](https://google.com/search?q=Allure+Home+Creation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-01 | [`Encore Repair Services`](https://google.com/search?q=Encore+Repair+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-01 | [`The Saturday Files`](https://google.com/search?q=The+Saturday+Files) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-10-31 | [`TMF Logistics`](https://google.com/search?q=TMF+Logistics) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-10-31 | [`DILOSA FOOD COMPANIES`](https://google.com/search?q=DILOSA+FOOD+COMPANIES) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
