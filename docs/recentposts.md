@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-17 | [`Naftali Bennett Chats`](https://google.com/search?q=Naftali+Bennett+Chats) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-12-17 | [`Operation Octopus: Naftali Bennett Hacked`](https://google.com/search?q=Operation+Octopus%3A+Naftali+Bennett+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-12-17 | [`Caught by the Octopus: Bennett’s Darkest Hour`](https://google.com/search?q=Caught+by+the+Octopus%3A+Bennett%E2%80%99s+Darkest+Hour) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-12-17 | [`https://avenira.com/`](https://google.com/search?q=https%3A%2F%2Favenira.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-01 | [`Tavo Packaging Inc`](https://google.com/search?q=Tavo+Packaging+Inc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-01 | [`Professional's Choice Sports`](https://google.com/search?q=Professional%27s+Choice+Sports) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-01 | [`Encore Repair Services`](https://google.com/search?q=Encore+Repair+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-11-01 | [`The Saturday Files`](https://google.com/search?q=The+Saturday+Files) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
