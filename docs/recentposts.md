@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-18 | [`The 200,000 Message Bombshell: Bennett’s Game is Over`](https://google.com/search?q=The+200%2C000+Message+Bombshell%3A+Bennett%E2%80%99s+Game+is+Over) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-12-18 | [`deerfield.com (singulargenomics.com)`](https://google.com/search?q=deerfield.com+%28singulargenomics.com%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-17 | [`MedHelp`](https://google.com/search?q=MedHelp) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-12-17 | [`CVK Hotels & Resorts_Turkey`](https://google.com/search?q=CVK+Hotels+%26+Resorts_Turkey) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-03 | [`Victorian Chemical`](https://google.com/search?q=Victorian+Chemical) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-03 | [`https://www.unterkofler.info`](https://google.com/search?q=https%3A%2F%2Fwww.unterkofler.info) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-11-03 | [`www.automotiveml.com`](https://google.com/search?q=www.automotiveml.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2025-11-01 | [`Wright Tool`](https://google.com/search?q=Wright+Tool) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
