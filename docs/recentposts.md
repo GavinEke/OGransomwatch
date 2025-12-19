@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-19 | [`Larry Pitt & Associates`](https://google.com/search?q=Larry+Pitt+%26+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-12-19 | [`Lawsoft`](https://google.com/search?q=Lawsoft) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-12-19 | [`The Day of Reckoning Awaits the Child-Killers`](https://google.com/search?q=The+Day+of+Reckoning+Awaits+the+Child-Killers) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-12-18 | [`Pacific Rim Mechanical`](https://google.com/search?q=Pacific+Rim+Mechanical) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-03 | [`afton.loc`](https://google.com/search?q=afton.loc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-03 | [`Vitalmex`](https://google.com/search?q=Vitalmex) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-03 | [`UnitedLayer`](https://google.com/search?q=UnitedLayer) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-11-03 | [`REPECHAGE`](https://google.com/search?q=REPECHAGE) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
