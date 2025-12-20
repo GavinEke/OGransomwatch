@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-20 | [`No Place to Hide: Unmasking the Masterminds Behind War Drones`](https://google.com/search?q=No+Place+to+Hide%3A+Unmasking+the+Masterminds+Behind+War+Drones) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-12-19 | [`eagrealtyinternational.com`](https://google.com/search?q=eagrealtyinternational.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-19 | [`glasserstv.com`](https://google.com/search?q=glasserstv.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-19 | [`Larry Pitt & Associates`](https://google.com/search?q=Larry+Pitt+%26+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-04 | [`Rios Espinosa`](https://google.com/search?q=Rios+Espinosa) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-11-03 | [`www.myriversidedentaloffice.com`](https://google.com/search?q=www.myriversidedentaloffice.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-11-03 | [`Irwin Car`](https://google.com/search?q=Irwin+Car) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-11-03 | [`afton.loc`](https://google.com/search?q=afton.loc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
