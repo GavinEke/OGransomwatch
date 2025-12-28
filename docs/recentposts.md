@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-28 | [`Bibi Gate: The Gatekeeper’s Fall - Tzachi Braverman Hacked`](https://google.com/search?q=Bibi+Gate%3A+The+Gatekeeper%E2%80%99s+Fall+-+Tzachi+Braverman+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-12-27 | [`Netanyahu’s Cabinet Awaits Handala’s Next Move`](https://google.com/search?q=Netanyahu%E2%80%99s+Cabinet+Awaits+Handala%E2%80%99s+Next+Move) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-12-26 | [`[DISCLOSED]Soderstrom Architects, LTD`](https://google.com/search?q=%5BDISCLOSED%5DSoderstrom+Architects%2C+LTD) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-12-25 | [`Hermes Medical Solutions`](https://google.com/search?q=Hermes+Medical+Solutions) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-06 | [`First Resources`](https://google.com/search?q=First+Resources) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-06 | [` Phillips Printing Company `](https://google.com/search?q=+Phillips+Printing+Company+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-11-06 | [`Black Hills Bentonite `](https://google.com/search?q=Black+Hills+Bentonite+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2025-11-06 | [`The Union League of Philadelphia`](https://google.com/search?q=The+Union+League+of+Philadelphia) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
