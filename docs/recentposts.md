@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-29 | [`omrania`](https://google.com/search?q=omrania) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-28 | [`klingele`](https://google.com/search?q=klingele) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-28 | [`Braverman Files Unleashed: Every Secret Now Exposed`](https://google.com/search?q=Braverman+Files+Unleashed%3A+Every+Secret+Now+Exposed) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-12-28 | [`Bibi Gate: The Gatekeeper’s Fall - Tzachi Braverman Hacked`](https://google.com/search?q=Bibi+Gate%3A+The+Gatekeeper%E2%80%99s+Fall+-+Tzachi+Braverman+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-06 | [`Ketat Grundstücksverwertungs GmbH`](https://google.com/search?q=Ketat+Grundst%C3%BCcksverwertungs+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-06 | [`zebra.or.at`](https://google.com/search?q=zebra.or.at) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-06 | [`pmsp.at`](https://google.com/search?q=pmsp.at) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-06 | [`First Resources`](https://google.com/search?q=First+Resources) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
