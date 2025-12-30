@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-30 | [`OSI Systems, Inc.`](https://google.com/search?q=OSI+Systems%2C+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-30 | [`Falk, Waas, Hernandez, Cortina, Solomon & Bonner Overview Metrics`](https://google.com/search?q=Falk%2C+Waas%2C+Hernandez%2C+Cortina%2C+Solomon+%26+Bonner+Overview+Metrics) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-12-30 | [`Firmengruppe Hoffmann`](https://google.com/search?q=Firmengruppe+Hoffmann) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-12-29 | [`MP Filtri`](https://google.com/search?q=MP+Filtri) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-10 | [`Darvin Furniture`](https://google.com/search?q=Darvin+Furniture) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-10 | [`[DISCLOSED]Kurogane Kasei Co.`](https://google.com/search?q=%5BDISCLOSED%5DKurogane+Kasei+Co.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-10 | [`MARCK Industries`](https://google.com/search?q=MARCK+Industries) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-11-10 | [`Weintraub Traub Tracy & Virk Cra's LLP`](https://google.com/search?q=Weintraub+Traub+Tracy+%26+Virk+Cra%27s+LLP) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
