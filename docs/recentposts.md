@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-31 | [`Infinite Computing Systems`](https://google.com/search?q=Infinite+Computing+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-31 | [`Burnham Brown`](https://google.com/search?q=Burnham+Brown) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-31 | [`3GH Informatica Integral`](https://google.com/search?q=3GH+Informatica+Integral) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-30 | [`OSI Systems, Inc.`](https://google.com/search?q=OSI+Systems%2C+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-10 | [`Jean-Georges`](https://google.com/search?q=Jean-Georges) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-10 | [`Ioxo & Stream Computers`](https://google.com/search?q=Ioxo+%26+Stream+Computers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-10 | [`Garvin Promotion Group`](https://google.com/search?q=Garvin+Promotion+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-11-10 | [`Darvin Furniture`](https://google.com/search?q=Darvin+Furniture) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
