@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-03 | [`Ayelet Shaked Contact List`](https://google.com/search?q=Ayelet+Shaked+Contact+List) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
+| 2026-01-03 | [`proton-system_Serbia`](https://google.com/search?q=proton-system_Serbia) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-01-03 | [`Automation One Business Systems Inc`](https://google.com/search?q=Automation+One+Business+Systems+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-03 | [`Unveiling the Secrets: Inside the WhatsApp Chats of a Minister`](https://google.com/search?q=Unveiling+the+Secrets%3A+Inside+the+WhatsApp+Chats+of+a+Minister) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-01-03 | [`The Queen’s Secrets: Unveiling the Mysteries Behind Ayelet Shaked`](https://google.com/search?q=The+Queen%E2%80%99s+Secrets%3A+Unveiling+the+Mysteries+Behind+Ayelet+Shaked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-01-02 | [`Handala Alert: Amplifying the Voice of Resistance`](https://google.com/search?q=Handala+Alert%3A+Amplifying+the+Voice+of+Resistance) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-11-12 | [`Vennerhus Weine AG`](https://google.com/search?q=Vennerhus+Weine+AG) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-12 | [`Wiraswasta Gemilang`](https://google.com/search?q=Wiraswasta+Gemilang) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-12 | [`Fulgar S.p.A.`](https://google.com/search?q=Fulgar+S.p.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-11-11 | [`Octomeca Oy`](https://google.com/search?q=Octomeca+Oy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-11-11 | [`Polidano Group`](https://google.com/search?q=Polidano+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-11-11 | [`Public Safety Mutual Benefit Fund`](https://google.com/search?q=Public+Safety+Mutual+Benefit+Fund) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
