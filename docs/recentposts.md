@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-03 | [`The Queen’s Secrets: Unveiling the Mysteries Behind Ayelet Shaked`](https://google.com/search?q=The+Queen%E2%80%99s+Secrets%3A+Unveiling+the+Mysteries+Behind+Ayelet+Shaked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-01-02 | [`Handala Alert: Amplifying the Voice of Resistance`](https://google.com/search?q=Handala+Alert%3A+Amplifying+the+Voice+of+Resistance) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-01-02 | [`Wardell Builders`](https://google.com/search?q=Wardell+Builders) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-02 | [`Stoughton Steel`](https://google.com/search?q=Stoughton+Steel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-11 | [`Polidano Group`](https://google.com/search?q=Polidano+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-11 | [`Public Safety Mutual Benefit Fund`](https://google.com/search?q=Public+Safety+Mutual+Benefit+Fund) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-11 | [`www.modcomedia.com`](https://google.com/search?q=www.modcomedia.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-11 | [`Sarulla Operation`](https://google.com/search?q=Sarulla+Operation) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
