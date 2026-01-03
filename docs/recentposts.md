@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-03 | [`15 SIGINT Agents Exposed — $50,000 Reward`](https://google.com/search?q=15+SIGINT+Agents+Exposed+%E2%80%94+%2450%2C000+Reward) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-01-03 | [`Ayelet Shaked Contact List`](https://google.com/search?q=Ayelet+Shaked+Contact+List) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-01-03 | [`proton-system_Serbia`](https://google.com/search?q=proton-system_Serbia) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-03 | [`Automation One Business Systems Inc`](https://google.com/search?q=Automation+One+Business+Systems+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-12 | [`Soleol`](https://google.com/search?q=Soleol) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-12 | [`Vennerhus Weine AG`](https://google.com/search?q=Vennerhus+Weine+AG) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-12 | [`Wiraswasta Gemilang`](https://google.com/search?q=Wiraswasta+Gemilang) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-12 | [`Fulgar S.p.A.`](https://google.com/search?q=Fulgar+S.p.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
