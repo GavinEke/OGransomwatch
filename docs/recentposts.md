@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-06 | [`Charles Leonard Steel Services`](https://google.com/search?q=Charles+Leonard+Steel+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-01-06 | [`Autohaus Pichel GmbH`](https://google.com/search?q=Autohaus+Pichel+GmbH) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-06 | [`Mill Brothers`](https://google.com/search?q=Mill+Brothers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-06 | [`Due Doyle Fanning`](https://google.com/search?q=Due+Doyle+Fanning) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-12 | [`galileo.it`](https://google.com/search?q=galileo.it) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-12 | [`forensicmed.com`](https://google.com/search?q=forensicmed.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-12 | [`bridge-housing-corp`](https://google.com/search?q=bridge-housing-corp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-12 | [`KohaFoods Hawaii`](https://google.com/search?q=KohaFoods+Hawaii) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
