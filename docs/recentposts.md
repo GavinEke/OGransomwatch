@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-06 | [`Mill Brothers`](https://google.com/search?q=Mill+Brothers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-01-06 | [`Due Doyle Fanning`](https://google.com/search?q=Due+Doyle+Fanning) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-03 | [`Borough of Moonachie`](https://google.com/search?q=Borough+of+Moonachie) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-03 | [`15 SIGINT Agents Exposed — $50,000 Reward`](https://google.com/search?q=15+SIGINT+Agents+Exposed+%E2%80%94+%2450%2C000+Reward) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-01-03 | [`Ayelet Shaked Contact List`](https://google.com/search?q=Ayelet+Shaked+Contact+List) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-11-12 | [`bridge-housing-corp`](https://google.com/search?q=bridge-housing-corp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-12 | [`KohaFoods Hawaii`](https://google.com/search?q=KohaFoods+Hawaii) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-12 | [`Grupo Via Argentina`](https://google.com/search?q=Grupo+Via+Argentina) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-12 | [`Soleol`](https://google.com/search?q=Soleol) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-11-12 | [`Vennerhus Weine AG`](https://google.com/search?q=Vennerhus+Weine+AG) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
