@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-08 | [`[DISCLOSED]Assolim`](https://google.com/search?q=%5BDISCLOSED%5DAssolim) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-01-08 | [`Fedcap`](https://google.com/search?q=Fedcap) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-01-08 | [`Luxshare Precision Industry Co. Ltd.`](https://google.com/search?q=Luxshare+Precision+Industry+Co.+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-01-06 | [`Charles Leonard Steel Services`](https://google.com/search?q=Charles+Leonard+Steel+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-12 | [`partitio.com`](https://google.com/search?q=partitio.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-12 | [`Znojma Czechia`](https://google.com/search?q=Znojma+Czechia) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-12 | [`latamlex (gyg.local)`](https://google.com/search?q=latamlex+%28gyg.local%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-12 | [`galileo.it`](https://google.com/search?q=galileo.it) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
