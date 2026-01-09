@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-09 | [`stignatiusijamsville.org`](https://google.com/search?q=stignatiusijamsville.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-08 | [`https://lpollockpr.com/`](https://google.com/search?q=https%3A%2F%2Flpollockpr.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-08 | [`[DISCLOSED]Assolim`](https://google.com/search?q=%5BDISCLOSED%5DAssolim) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-01-08 | [`Fedcap`](https://google.com/search?q=Fedcap) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-13 | [`duboiswood.com`](https://google.com/search?q=duboiswood.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-13 | [`avrind.com`](https://google.com/search?q=avrind.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-12 | [`partitio.com`](https://google.com/search?q=partitio.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-12 | [`Znojma Czechia`](https://google.com/search?q=Znojma+Czechia) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
