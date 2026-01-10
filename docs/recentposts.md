@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-10 | [`Foshee Architecture`](https://google.com/search?q=Foshee+Architecture) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-10 | [`CompactInd`](https://google.com/search?q=CompactInd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-09 | [`The Carlson Law Firm`](https://google.com/search?q=The+Carlson+Law+Firm) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-09 | [`stignatiusijamsville.org`](https://google.com/search?q=stignatiusijamsville.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-13 | [`wafergrind.com`](https://google.com/search?q=wafergrind.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-13 | [`rosemontexpo.com`](https://google.com/search?q=rosemontexpo.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-13 | [`kellylegal.com.au`](https://google.com/search?q=kellylegal.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-13 | [`duboiswood.com`](https://google.com/search?q=duboiswood.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
