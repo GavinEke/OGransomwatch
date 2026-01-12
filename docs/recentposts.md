@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-12 | [`Rod Danielson`](https://google.com/search?q=Rod+Danielson) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-10 | [`WiZiX Technology Group`](https://google.com/search?q=WiZiX+Technology+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-10 | [`Launie & Marino`](https://google.com/search?q=Launie+%26+Marino) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-10 | [`Denny's 5th Avenue Bakery`](https://google.com/search?q=Denny%27s+5th+Avenue+Bakery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-14 | [`Kaan Cronenberg & Partners Law `](https://google.com/search?q=Kaan+Cronenberg+%26+Partners+Law+) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-14 | [`The Foot Doctor&#039;s`](https://google.com/search?q=The+Foot+Doctor%26%23039%3Bs) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-11-14 | [`www.northcroftme.com`](https://google.com/search?q=www.northcroftme.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-14 | [`facadeinnovations.com.au`](https://google.com/search?q=facadeinnovations.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
