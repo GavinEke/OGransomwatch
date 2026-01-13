@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-13 | [`https://bellowsmfg.com/company/`](https://google.com/search?q=https%3A%2F%2Fbellowsmfg.com%2Fcompany%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-01-13 | [`Ju Teng International Holdings Ltd`](https://google.com/search?q=Ju+Teng+International+Holdings+Ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-13 | [`gbmme.com`](https://google.com/search?q=gbmme.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-13 | [`stimgroup`](https://google.com/search?q=stimgroup) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-13 | [`Rodney's Sign Company`](https://google.com/search?q=Rodney%27s+Sign+Company) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-11-17 | [`[DISCLOSED] Fulgar S.p.A.`](https://google.com/search?q=%5BDISCLOSED%5D+Fulgar+S.p.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-17 | [`www.entecheng.com`](https://google.com/search?q=www.entecheng.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-15 | [`https://www.bew.co.th`](https://google.com/search?q=https%3A%2F%2Fwww.bew.co.th) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2025-11-15 | [`Smile for the Camera &#8211; Handala Is Watching`](https://google.com/search?q=Smile+for+the+Camera+%26%238211%3B+Handala+Is+Watching) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-11-14 | [`eakas.com`](https://google.com/search?q=eakas.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
