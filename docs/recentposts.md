@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-15 | [`https://trustarholdingsllc.com/ https://vistlabs.com/`](https://google.com/search?q=https%3A%2F%2Ftrustarholdingsllc.com%2F+https%3A%2F%2Fvistlabs.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-14 | [`https://acswinc.com/`](https://google.com/search?q=https%3A%2F%2Facswinc.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-13 | [`https://bellowsmfg.com/company/`](https://google.com/search?q=https%3A%2F%2Fbellowsmfg.com%2Fcompany%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-13 | [`Ju Teng International Holdings Ltd`](https://google.com/search?q=Ju+Teng+International+Holdings+Ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-17 | [`dulay.ca`](https://google.com/search?q=dulay.ca) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2025-11-17 | [`[DISCLOSED]Victorian Chemical`](https://google.com/search?q=%5BDISCLOSED%5DVictorian+Chemical) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-17 | [`[DISCLOSED] Fulgar S.p.A.`](https://google.com/search?q=%5BDISCLOSED%5D+Fulgar+S.p.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-11-17 | [`www.entecheng.com`](https://google.com/search?q=www.entecheng.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
