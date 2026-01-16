@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-16 | [`ecsc.org`](https://google.com/search?q=ecsc.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-16 | [`cirrusaviation`](https://google.com/search?q=cirrusaviation) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-15 | [`https://trustarholdingsllc.com/ https://vistlabs.com/`](https://google.com/search?q=https%3A%2F%2Ftrustarholdingsllc.com%2F+https%3A%2F%2Fvistlabs.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-14 | [`https://acswinc.com/`](https://google.com/search?q=https%3A%2F%2Facswinc.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-18 | [`datenlotsen.de`](https://google.com/search?q=datenlotsen.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-18 | [`Smoll & Banning, CPAs`](https://google.com/search?q=Smoll+%26+Banning%2C+CPAs) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-11-17 | [`dulay.ca`](https://google.com/search?q=dulay.ca) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2025-11-17 | [`[DISCLOSED]Victorian Chemical`](https://google.com/search?q=%5BDISCLOSED%5DVictorian+Chemical) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
