@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-19 | [`[Apple Data]Luxshare Precision Industry Co. Ltd.`](https://google.com/search?q=%5BApple+Data%5DLuxshare+Precision+Industry+Co.+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-01-18 | [`Southern Alberta Community Living Association`](https://google.com/search?q=Southern+Alberta+Community+Living+Association) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-18 | [`MKC Customs Brokers International Inc.`](https://google.com/search?q=MKC+Customs+Brokers+International+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-18 | [`Avraham Hayyim ( Mehrdad Rahimi ) Hacked &#8211; Mossad Agent`](https://google.com/search?q=Avraham+Hayyim+%28+Mehrdad+Rahimi+%29+Hacked+%26%238211%3B+Mossad+Agent) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-18 | [`baisyaakov.ca`](https://google.com/search?q=baisyaakov.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-18 | [`continuumindia.com`](https://google.com/search?q=continuumindia.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-18 | [`zadroinc.com`](https://google.com/search?q=zadroinc.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-18 | [`ripleyacademy.org`](https://google.com/search?q=ripleyacademy.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
