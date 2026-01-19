@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-19 | [` Whitfield Welding Inc `](https://google.com/search?q=+Whitfield+Welding+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
+| 2026-01-19 | [`Durashiloh `](https://google.com/search?q=Durashiloh+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-01-19 | [` Walters Group Inc `](https://google.com/search?q=+Walters+Group+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-01-19 | [`Whitfield Welding Inc `](https://google.com/search?q=Whitfield+Welding+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-01-19 | [`[Apple Data]Luxshare Precision Industry Co. Ltd.`](https://google.com/search?q=%5BApple+Data%5DLuxshare+Precision+Industry+Co.+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-11-20 | [`Applied Energy Systems`](https://google.com/search?q=Applied+Energy+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-11-20 | [`Makro`](https://google.com/search?q=Makro) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-20 | [`naffco.com`](https://google.com/search?q=naffco.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-19 | [`reidhurstnagy.com`](https://google.com/search?q=reidhurstnagy.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-18 | [`baisyaakov.ca`](https://google.com/search?q=baisyaakov.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
