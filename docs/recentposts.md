@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-21 | [`Midway Windows and Doors`](https://google.com/search?q=Midway+Windows+and+Doors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-01-21 | [`Cemtech`](https://google.com/search?q=Cemtech) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-01-21 | [`CE Electronics`](https://google.com/search?q=CE+Electronics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-21 | [`Ignite Chaos at Your Own Risk: i24 Channel Hacked`](https://google.com/search?q=Ignite+Chaos+at+Your+Own+Risk%3A+i24+Channel+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-01-21 | [`Jet-care International`](https://google.com/search?q=Jet-care+International) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-01-20 | [`Riverwood Golf Club`](https://google.com/search?q=Riverwood+Golf+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-11-22 | [`10 corpses`](https://google.com/search?q=10+corpses) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-11-22 | [`Woom GmbH`](https://google.com/search?q=Woom+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-22 | [`TBTEAM`](https://google.com/search?q=TBTEAM) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-21 | [`Wachusett School District MA`](https://google.com/search?q=Wachusett+School+District+MA) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-11-21 | [`Fucerep`](https://google.com/search?q=Fucerep) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-11-20 | [`Radio Sound`](https://google.com/search?q=Radio+Sound) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
