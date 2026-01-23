@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-23 | [`TREC Group`](https://google.com/search?q=TREC+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-01-23 | [`Encore Roofing`](https://google.com/search?q=Encore+Roofing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-23 | [`goldair.gr`](https://google.com/search?q=goldair.gr) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-23 | [`tob-bmw.sk`](https://google.com/search?q=tob-bmw.sk) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-23 | [`OAB`](https://google.com/search?q=OAB) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-11-24 | [`Swedish Arts Council`](https://google.com/search?q=Swedish+Arts+Council) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-24 | [`omegatoolcorp.com`](https://google.com/search?q=omegatoolcorp.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-24 | [`Collge Superieur De Montreal`](https://google.com/search?q=Collge+Superieur+De+Montreal) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-11-22 | [`Turkstra Trusses`](https://google.com/search?q=Turkstra+Trusses) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-11-22 | [`Keystone Fabricating`](https://google.com/search?q=Keystone+Fabricating) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
