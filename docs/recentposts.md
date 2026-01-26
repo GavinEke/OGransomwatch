@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-26 | [`[Apple Data, Additional evidence]Luxshare Precision Industry Co. Ltd.`](https://google.com/search?q=%5BApple+Data%2C+Additional+evidence%5DLuxshare+Precision+Industry+Co.+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-01-26 | [`www.shrimphouse.com`](https://google.com/search?q=www.shrimphouse.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-26 | [`The Sourcing Group`](https://google.com/search?q=The+Sourcing+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-26 | [`Tele Plus`](https://google.com/search?q=Tele+Plus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-01 | [`www.enea.com`](https://google.com/search?q=www.enea.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-01 | [`Astrofein`](https://google.com/search?q=Astrofein) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-12-01 | [`Soderstrom Architects, LTD`](https://google.com/search?q=Soderstrom+Architects%2C+LTD) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-11-29 | [`8200 Unit corpses`](https://google.com/search?q=8200+Unit+corpses) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
