@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-26 | [`sitoy.com`](https://google.com/search?q=sitoy.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2026-01-25 | [`Handala New Account &#8211; Sunset of the lions`](https://google.com/search?q=Handala+New+Account+%26%238211%3B+Sunset+of+the+lions) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-01-25 | [`Cytek Biosciences`](https://google.com/search?q=Cytek+Biosciences) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-01-23 | [`Warren County Sheriff’s Office`](https://google.com/search?q=Warren+County+Sheriff%E2%80%99s+Office) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-11-25 | [`cryopur.com`](https://google.com/search?q=cryopur.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-25 | [`Schmidt's`](https://google.com/search?q=Schmidt%27s) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-11-25 | [`Marlex Human Capital`](https://google.com/search?q=Marlex+Human+Capital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-11-24 | [`Southern Lion Sdn Bhd`](https://google.com/search?q=Southern+Lion+Sdn+Bhd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
