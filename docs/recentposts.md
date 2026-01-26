@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-26 | [`www.shrimphouse.com`](https://google.com/search?q=www.shrimphouse.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-01-26 | [`The Sourcing Group`](https://google.com/search?q=The+Sourcing+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-01-26 | [`Tele Plus`](https://google.com/search?q=Tele+Plus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-01-26 | [`Routten & Laster Law`](https://google.com/search?q=Routten+%26+Laster+Law) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-01-26 | [`Quantum Fuel Systems Technologies`](https://google.com/search?q=Quantum+Fuel+Systems+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-01-26 | [`Joyva`](https://google.com/search?q=Joyva) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-01-26 | [`F&B Mfg`](https://google.com/search?q=F%26B+Mfg) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-01-26 | [`Christine London`](https://google.com/search?q=Christine+London) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-01-26 | [`Aquatic Control`](https://google.com/search?q=Aquatic+Control) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-01-26 | [`ALLMAX`](https://google.com/search?q=ALLMAX) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-26 | [`sitoy.com`](https://google.com/search?q=sitoy.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2026-01-25 | [`Handala New Account &#8211; Sunset of the lions`](https://google.com/search?q=Handala+New+Account+%26%238211%3B+Sunset+of+the+lions) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-01-25 | [`Cytek Biosciences`](https://google.com/search?q=Cytek+Biosciences) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2025-12-01 | [`Astrofein`](https://google.com/search?q=Astrofein) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-12-01 | [`Soderstrom Architects, LTD`](https://google.com/search?q=Soderstrom+Architects%2C+LTD) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-11-29 | [`8200 Unit corpses`](https://google.com/search?q=8200+Unit+corpses) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-11-29 | [`Dr. Isaac Gertz – Chief Nuclear Architect of the Zion Regime`](https://google.com/search?q=Dr.+Isaac+Gertz+%E2%80%93+Chief+Nuclear+Architect+of+the+Zion+Regime) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-11-28 | [`vviewisd.net`](https://google.com/search?q=vviewisd.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-27 | [`PFMI`](https://google.com/search?q=PFMI) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-26 | [`FIT`](https://google.com/search?q=FIT) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-26 | [`AGS`](https://google.com/search?q=AGS) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-11-26 | [`ADC Aerospace`](https://google.com/search?q=ADC+Aerospace) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-11-26 | [`ITL Systemhaus`](https://google.com/search?q=ITL+Systemhaus) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-25 | [`cryopur.com`](https://google.com/search?q=cryopur.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-25 | [`Schmidt's`](https://google.com/search?q=Schmidt%27s) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-11-25 | [`Marlex Human Capital`](https://google.com/search?q=Marlex+Human+Capital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
