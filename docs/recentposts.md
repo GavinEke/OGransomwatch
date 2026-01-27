@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-27 | [`newkirklaw.com`](https://google.com/search?q=newkirklaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-27 | [` Connor Co `](https://google.com/search?q=+Connor+Co+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-01-27 | [`QualiChem Metalworking `](https://google.com/search?q=QualiChem+Metalworking+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-01-27 | [` Durashiloh `](https://google.com/search?q=+Durashiloh+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-01 | [`South Island Public Service District`](https://google.com/search?q=South+Island+Public+Service+District) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-01 | [`Hall Aluminum Products`](https://google.com/search?q=Hall+Aluminum+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-01 | [`Clark & Sullivan Constructors`](https://google.com/search?q=Clark+%26+Sullivan+Constructors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-12-01 | [`Aspen Distribution`](https://google.com/search?q=Aspen+Distribution) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
