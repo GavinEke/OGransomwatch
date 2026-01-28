@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-28 | [`Family Partnerships of Central Florida`](https://google.com/search?q=Family+Partnerships+of+Central+Florida) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2026-01-28 | [`LGBTQ Center Orange county`](https://google.com/search?q=LGBTQ+Center+Orange+county) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-28 | [`DeRenzis & Associates`](https://google.com/search?q=DeRenzis+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-27 | [`ttmet.co.th`](https://google.com/search?q=ttmet.co.th) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-03 | [`bisonfamilymedical.com`](https://google.com/search?q=bisonfamilymedical.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-03 | [`instyle.com.au`](https://google.com/search?q=instyle.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-02 | [`www.precipiodx.com`](https://google.com/search?q=www.precipiodx.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-12-02 | [`[EVIDENCE PACK 3]ASKUL`](https://google.com/search?q=%5BEVIDENCE+PACK+3%5DASKUL) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
