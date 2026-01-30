@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-30 | [`PK PINHÃO & KOIFFMAN ATTORNEYS AT LAW`](https://google.com/search?q=PK+PINH%C3%83O+%26+KOIFFMAN+ATTORNEYS+AT+LAW) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-01-30 | [`DIEHL & CELLA ADVOGADOS ASSOCIADOS`](https://google.com/search?q=DIEHL+%26+CELLA+ADVOGADOS+ASSOCIADOS) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-29 | [`MACT Health Board`](https://google.com/search?q=MACT+Health+Board) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-01-29 | [`[Weapons License] Warren County Sheriff’s Office`](https://google.com/search?q=%5BWeapons+License%5D+Warren+County+Sheriff%E2%80%99s+Office) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-01-29 | [`distinctive-systems.com`](https://google.com/search?q=distinctive-systems.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-12-04 | [`Quasar Inc`](https://google.com/search?q=Quasar+Inc) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-12-03 | [` Black Hills Bentonite `](https://google.com/search?q=+Black+Hills+Bentonite+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-12-03 | [` `](https://google.com/search?q=+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2025-12-03 | [`Golden Artist Colors `](https://google.com/search?q=Golden+Artist+Colors+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2025-12-03 | [`Bo Beuckman Ford`](https://google.com/search?q=Bo+Beuckman+Ford) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
