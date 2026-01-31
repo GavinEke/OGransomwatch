@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-01-31 | [`NAI Plotkin`](https://google.com/search?q=NAI+Plotkin) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-01-31 | [`Bar S Services`](https://google.com/search?q=Bar+S+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-31 | [`Transaction Packing`](https://google.com/search?q=Transaction+Packing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-31 | [`Beacon Mutual Insurance`](https://google.com/search?q=Beacon+Mutual+Insurance) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-30 | [`hl.co.uk`](https://google.com/search?q=hl.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-12-06 | [`From Shield to Shame`](https://google.com/search?q=From+Shield+to+Shame) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-12-06 | [`SODISE`](https://google.com/search?q=SODISE) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-12-05 | [` Golden Artist Colors `](https://google.com/search?q=+Golden+Artist+Colors+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2025-12-05 | [`AvtechTyee `](https://google.com/search?q=AvtechTyee+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2025-12-05 | [`new blog domain lockbit 5.0`](https://google.com/search?q=new+blog+domain+lockbit+5.0) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
