@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-04 | [`GC Dental`](https://google.com/search?q=GC+Dental) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-02-03 | [`Western New York Energy`](https://google.com/search?q=Western+New+York+Energy) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-03 | [`H-Behbehani Brothers WLL`](https://google.com/search?q=H-Behbehani+Brothers+WLL) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-03 | [`Blystone & Bailey`](https://google.com/search?q=Blystone+%26+Bailey) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-10 | [`rainbowtel.net`](https://google.com/search?q=rainbowtel.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-09 | [`www.lincecomercial.com`](https://google.com/search?q=www.lincecomercial.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-09 | [`The Foot Doctor`](https://google.com/search?q=The+Foot+Doctor) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-12-09 | [`EXPERTISE MOBSIGN`](https://google.com/search?q=EXPERTISE+MOBSIGN) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
