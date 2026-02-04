@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-04 | [`[Apple Data, Additional evidence (Apple Watch) pack-2]Luxshare Precision Industry Co. Ltd.`](https://google.com/search?q=%5BApple+Data%2C+Additional+evidence+%28Apple+Watch%29+pack-2%5DLuxshare+Precision+Industry+Co.+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-02-04 | [`Lakeside Union School District`](https://google.com/search?q=Lakeside+Union+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-02-04 | [`GC Dental`](https://google.com/search?q=GC+Dental) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-02-03 | [`Western New York Energy`](https://google.com/search?q=Western+New+York+Energy) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-11 | [`coruzcitywndata+`](https://google.com/search?q=coruzcitywndata%2B) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-10 | [`dillonyarn.com`](https://google.com/search?q=dillonyarn.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-12-10 | [`rainbowtel.net`](https://google.com/search?q=rainbowtel.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-12-09 | [`www.lincecomercial.com`](https://google.com/search?q=www.lincecomercial.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
