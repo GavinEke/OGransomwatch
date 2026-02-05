@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-05 | [` LumioDental `](https://google.com/search?q=+LumioDental+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-02-05 | [`[Internal database pack 2] Warren County Sheriff’s Office`](https://google.com/search?q=%5BInternal+database+pack+2%5D+Warren+County+Sheriff%E2%80%99s+Office) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-02-05 | [`LumioDental `](https://google.com/search?q=LumioDental+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-02-05 | [`AOT  Japan`](https://google.com/search?q=AOT++Japan) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-13 | [`***** ***********`](https://google.com/search?q=%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-12-12 | [`United Keetoowah Band of Cherokee Indians in Oklahoma`](https://google.com/search?q=United+Keetoowah+Band+of+Cherokee+Indians+in+Oklahoma) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-12-12 | [`Anderson Engineering`](https://google.com/search?q=Anderson+Engineering) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-12-12 | [`Right Power Technology Sdn Bhd`](https://google.com/search?q=Right+Power+Technology+Sdn+Bhd) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
