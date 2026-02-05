@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-05 | [`LumioDental `](https://google.com/search?q=LumioDental+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-02-05 | [`AOT  Japan`](https://google.com/search?q=AOT++Japan) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-04 | [`ISTS`](https://google.com/search?q=ISTS) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-04 | [`CBH Homes`](https://google.com/search?q=CBH+Homes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-12 | [`Anderson Engineering`](https://google.com/search?q=Anderson+Engineering) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-12-12 | [`Right Power Technology Sdn Bhd`](https://google.com/search?q=Right+Power+Technology+Sdn+Bhd) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-12-11 | [`Woodard, Emhardt, Henry, Reeves & Wagner, LLP`](https://google.com/search?q=Woodard%2C+Emhardt%2C+Henry%2C+Reeves+%26+Wagner%2C+LLP) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-12-11 | [`Harbour Town Doctors`](https://google.com/search?q=Harbour+Town+Doctors) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
