@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-07 | [`RAL Companies`](https://google.com/search?q=RAL+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-07 | [`KaiserAir`](https://google.com/search?q=KaiserAir) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-07 | [`Ilderton Contracting`](https://google.com/search?q=Ilderton+Contracting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-07 | [`ESS Metron`](https://google.com/search?q=ESS+Metron) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-07 | [`De Gruyter Brill`](https://google.com/search?q=De+Gruyter+Brill) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-07 | [`Carlton Scale`](https://google.com/search?q=Carlton+Scale) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-07 | [`Bloom's Bus Lines`](https://google.com/search?q=Bloom%27s+Bus+Lines) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-06 | [`Associated Endocrinologists`](https://google.com/search?q=Associated+Endocrinologists) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-02-06 | [`Leading Edge Speciali`](https://google.com/search?q=Leading+Edge+Speciali) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-02-05 | [` LumioDental `](https://google.com/search?q=+LumioDental+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2025-12-15 | [`Diaz Gill Medicina Laboratorial S.A.`](https://google.com/search?q=Diaz+Gill+Medicina+Laboratorial+S.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-12-15 | [`steelworksinc.ca`](https://google.com/search?q=steelworksinc.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-15 | [`cityofsignalhill.org`](https://google.com/search?q=cityofsignalhill.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-12-13 | [`Viga Eatery`](https://google.com/search?q=Viga+Eatery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-12-13 | [`Jabezco Industrial Group`](https://google.com/search?q=Jabezco+Industrial+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-12-13 | [`Choates HVAC`](https://google.com/search?q=Choates+HVAC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-12-13 | [`Eastman Cooke`](https://google.com/search?q=Eastman+Cooke) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-12-13 | [`beycelik`](https://google.com/search?q=beycelik) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-12-13 | [`Targets Locked: The Minds Behind Arrow and David’s Sling Are Revealed`](https://google.com/search?q=Targets+Locked%3A+The+Minds+Behind+Arrow+and+David%E2%80%99s+Sling+Are+Revealed) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-12-13 | [`***** ***********`](https://google.com/search?q=%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
