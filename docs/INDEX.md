@@ -287,7 +287,7 @@
 | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) | This site has been seized | 🔴 | 2025-10-31 | xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion |
 | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) | Home | 🔴 | 2024-11-30 | 92.118.36.204 |
 | [malas](https://ransomwatch.telemetry.ltd/#/profiles?id=malas) | Posts - Somos malas... podemos ser peores | 🟢 |  | malas2urovbyyavjzaezkt5ohljvyd5lt7vv7mnsgbf2y4bwlh72doqd.onion |
-| [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) | This Site Has Been Seized | 🟢 |  | weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion |
+| [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) | This Site Has Been Seized | 🔴 | 2026-02-07 | weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion |
 | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) | This Site Has Been Seized | 🟢 |  | c7jpc6h2ccrdwmhofuij7kz6sr2fg2ndtbvvqy4fse23cf7m2e5hvqid.onion |
 | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) | Rancoz - Blog | 🔴 | 2023-10-17 | ze677xuzard4lx4iul2yzf5ks4gqqzoulgj5u4n5n4bbbsxjbfr7eayd.onion |
 | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) | Darkrace blog | 🔴 | 2023-06-20 | wkrlpub5k52rjigwxfm6m7ogid55kamgc5azxlq7zjgaopv33tgx2sqd.onion |
@@ -448,7 +448,7 @@
 | [kawa4096](https://ransomwatch.telemetry.ltd/#/profiles?id=kawa4096) | Welcome to nginx! | 🔴 | 2025-08-16 | kawasax2yghpkcxx5d5fegnjoucwxnjpxcxpfh2vjfx7drj66pnwl3ad.onion |
 | [kraken](https://ransomwatch.telemetry.ltd/#/profiles?id=kraken) | Kraken leak blog | 🟢 |  | krakenccj3wr23452a4ibkbkuph4d6soyx2xgjoogtuamc3m7u7wemad.onion |
 | [leakeddata](https://ransomwatch.telemetry.ltd/#/profiles?id=leakeddata) | LEAKED DATA | 🔴 | 2026-02-07 | business-data-leaks.com |
-| [leakeddata](https://ransomwatch.telemetry.ltd/#/profiles?id=leakeddata) |  | 🔴 | 2026-02-07 | ep6pheij.com |
+| [leakeddata](https://ransomwatch.telemetry.ltd/#/profiles?id=leakeddata) |  | 🟢 |  | ep6pheij.com |
 | [lockbit4](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit4) | LockBit 5.0 OUT! | 🔴 | 2025-11-21 | lockbitapiahy43zttdhslabjvx4q6k24xx7r33qtcvwqehmnnqxy3yd.onion |
 | [lockbit4](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit4) | LockBit 5.0 OUT! | 🟢 |  | lockbitapo3wkqddx2ka7t45hejurybzzjpos4cpeliudgv35kkizrid.onion |
 | [lockbit4](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit4) | LockBit 5.0 OUT! | 🟢 |  | lockbitapp24bvbi43n3qmtfcasf2veaeagjxatgbwtxnsh5w32mljad.onion |
