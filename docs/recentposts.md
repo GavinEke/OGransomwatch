@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-10 | [`Texcomp`](https://google.com/search?q=Texcomp) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2026-02-10 | [`PrintForm`](https://google.com/search?q=PrintForm) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2026-02-10 | [`moultriesheriff.com`](https://google.com/search?q=moultriesheriff.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-10 | [`Core Supply`](https://google.com/search?q=Core+Supply) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-09 | [`tuftco`](https://google.com/search?q=tuftco) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-07 | [`RAL Companies`](https://google.com/search?q=RAL+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-12-16 | [`Precise Benefits Group LLC`](https://google.com/search?q=Precise+Benefits+Group+LLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-16 | [`Comcast    REUP FOR SALE`](https://google.com/search?q=Comcast++++REUP+FOR+SALE) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-12-15 | [`YOKOSUKA GAKUIN`](https://google.com/search?q=YOKOSUKA+GAKUIN) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-12-15 | [`acdcex`](https://google.com/search?q=acdcex) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-12-15 | [` AvtechTyee `](https://google.com/search?q=+AvtechTyee+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2025-12-15 | [`Diaz Gill Medicina Laboratorial S.A.`](https://google.com/search?q=Diaz+Gill+Medicina+Laboratorial+S.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
