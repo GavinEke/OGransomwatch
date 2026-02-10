@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-10 | [`Core Supply`](https://google.com/search?q=Core+Supply) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-09 | [`tuftco`](https://google.com/search?q=tuftco) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-07 | [`RAL Companies`](https://google.com/search?q=RAL+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-07 | [`KaiserAir`](https://google.com/search?q=KaiserAir) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-15 | [`acdcex`](https://google.com/search?q=acdcex) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-12-15 | [` AvtechTyee `](https://google.com/search?q=+AvtechTyee+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-12-15 | [`Diaz Gill Medicina Laboratorial S.A.`](https://google.com/search?q=Diaz+Gill+Medicina+Laboratorial+S.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-12-15 | [`steelworksinc.ca`](https://google.com/search?q=steelworksinc.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
