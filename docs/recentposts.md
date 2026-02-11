@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-11 | [`Northbridge`](https://google.com/search?q=Northbridge) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-10 | [`PCCA `](https://google.com/search?q=PCCA+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-02-10 | [`Milwaukee Forge`](https://google.com/search?q=Milwaukee+Forge) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-10 | [`Texcomp`](https://google.com/search?q=Texcomp) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-16 | [`Southern Specialty & Supply`](https://google.com/search?q=Southern+Specialty+%26+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-16 | [`Maypay Farms Inc`](https://google.com/search?q=Maypay+Farms+Inc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-16 | [`Walters Group Inc `](https://google.com/search?q=Walters+Group+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2025-12-16 | [`Precise Benefits Group LLC`](https://google.com/search?q=Precise+Benefits+Group+LLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
