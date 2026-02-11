@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-11 | [`Makivik`](https://google.com/search?q=Makivik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-11 | [`Catalanatto & Barnes`](https://google.com/search?q=Catalanatto+%26+Barnes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-11 | [`Altak`](https://google.com/search?q=Altak) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-11 | [`Northbridge`](https://google.com/search?q=Northbridge) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-10 | [`PCCA `](https://google.com/search?q=PCCA+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-02-10 | [`Milwaukee Forge`](https://google.com/search?q=Milwaukee+Forge) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-12-17 | [`https://avenira.com/`](https://google.com/search?q=https%3A%2F%2Favenira.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-16 | [`Fairgrove Oil`](https://google.com/search?q=Fairgrove+Oil) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-16 | [`Allure Home Creation`](https://google.com/search?q=Allure+Home+Creation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-12-16 | [`Southern Specialty & Supply`](https://google.com/search?q=Southern+Specialty+%26+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-12-16 | [`Maypay Farms Inc`](https://google.com/search?q=Maypay+Farms+Inc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-12-16 | [`Walters Group Inc `](https://google.com/search?q=Walters+Group+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
