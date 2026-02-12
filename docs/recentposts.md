@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-12 | [`excavationtourigny.ca`](https://google.com/search?q=excavationtourigny.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-02-12 | [`auxhomeservices.com`](https://google.com/search?q=auxhomeservices.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-02-12 | [`atchadwick.net`](https://google.com/search?q=atchadwick.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-11 | [`www.hfplanners.com`](https://google.com/search?q=www.hfplanners.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-11 | [`Makivik`](https://google.com/search?q=Makivik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-11 | [`Catalanatto & Barnes`](https://google.com/search?q=Catalanatto+%26+Barnes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-12-17 | [`CVK Hotels & Resorts_Turkey`](https://google.com/search?q=CVK+Hotels+%26+Resorts_Turkey) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-17 | [`Naftali Bennett Chats`](https://google.com/search?q=Naftali+Bennett+Chats) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-12-17 | [`Operation Octopus: Naftali Bennett Hacked`](https://google.com/search?q=Operation+Octopus%3A+Naftali+Bennett+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-12-17 | [`Caught by the Octopus: Bennett’s Darkest Hour`](https://google.com/search?q=Caught+by+the+Octopus%3A+Bennett%E2%80%99s+Darkest+Hour) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-12-17 | [`https://avenira.com/`](https://google.com/search?q=https%3A%2F%2Favenira.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-12-16 | [`Fairgrove Oil`](https://google.com/search?q=Fairgrove+Oil) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
