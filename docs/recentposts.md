@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-12 | [`lohmann-tapes.com`](https://google.com/search?q=lohmann-tapes.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-02-12 | [`Phoenix Art Museum`](https://google.com/search?q=Phoenix+Art+Museum) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-02-12 | [`excavationtourigny.ca`](https://google.com/search?q=excavationtourigny.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-12 | [`auxhomeservices.com`](https://google.com/search?q=auxhomeservices.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-12 | [`atchadwick.net`](https://google.com/search?q=atchadwick.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-12-18 | [`deerfield.com (singulargenomics.com)`](https://google.com/search?q=deerfield.com+%28singulargenomics.com%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-17 | [`MedHelp`](https://google.com/search?q=MedHelp) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-12-17 | [`CVK Hotels & Resorts_Turkey`](https://google.com/search?q=CVK+Hotels+%26+Resorts_Turkey) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-12-17 | [`Naftali Bennett Chats`](https://google.com/search?q=Naftali+Bennett+Chats) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-12-17 | [`Operation Octopus: Naftali Bennett Hacked`](https://google.com/search?q=Operation+Octopus%3A+Naftali+Bennett+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
