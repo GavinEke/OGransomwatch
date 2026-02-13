@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-13 | [`Unified Engineering`](https://google.com/search?q=Unified+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-13 | [`UCG Associates `](https://google.com/search?q=UCG+Associates+) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-13 | [`Lusamerica Foods`](https://google.com/search?q=Lusamerica+Foods) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-13 | [`Heartland Title Services`](https://google.com/search?q=Heartland+Title+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-13 | [`HMA`](https://google.com/search?q=HMA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-13 | [`Siem Srl`](https://google.com/search?q=Siem+Srl) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-02-12 | [`rswater.ae`](https://google.com/search?q=rswater.ae) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-12 | [`Midwestern Oil & Gas`](https://google.com/search?q=Midwestern+Oil+%26+Gas) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2025-12-20 | [`No Place to Hide: Unmasking the Masterminds Behind War Drones`](https://google.com/search?q=No+Place+to+Hide%3A+Unmasking+the+Masterminds+Behind+War+Drones) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-12-19 | [`eagrealtyinternational.com`](https://google.com/search?q=eagrealtyinternational.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-19 | [`glasserstv.com`](https://google.com/search?q=glasserstv.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-12-19 | [`Larry Pitt & Associates`](https://google.com/search?q=Larry+Pitt+%26+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-12-19 | [`Lawsoft`](https://google.com/search?q=Lawsoft) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-12-19 | [`The Day of Reckoning Awaits the Child-Killers`](https://google.com/search?q=The+Day+of+Reckoning+Awaits+the+Child-Killers) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-12-18 | [`Pacific Rim Mechanical`](https://google.com/search?q=Pacific+Rim+Mechanical) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-12-18 | [`The 200,000 Message Bombshell: Bennett’s Game is Over`](https://google.com/search?q=The+200%2C000+Message+Bombshell%3A+Bennett%E2%80%99s+Game+is+Over) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
