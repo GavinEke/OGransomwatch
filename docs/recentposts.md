@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-13 | [`Siem Srl`](https://google.com/search?q=Siem+Srl) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-02-12 | [`rswater.ae`](https://google.com/search?q=rswater.ae) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-12 | [`Midwestern Oil & Gas`](https://google.com/search?q=Midwestern+Oil+%26+Gas) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-12 | [`lohmann-tapes.com`](https://google.com/search?q=lohmann-tapes.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-19 | [`The Day of Reckoning Awaits the Child-Killers`](https://google.com/search?q=The+Day+of+Reckoning+Awaits+the+Child-Killers) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-12-18 | [`Pacific Rim Mechanical`](https://google.com/search?q=Pacific+Rim+Mechanical) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-18 | [`The 200,000 Message Bombshell: Bennett’s Game is Over`](https://google.com/search?q=The+200%2C000+Message+Bombshell%3A+Bennett%E2%80%99s+Game+is+Over) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-12-18 | [`deerfield.com (singulargenomics.com)`](https://google.com/search?q=deerfield.com+%28singulargenomics.com%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
