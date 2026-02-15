@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-15 | [`Branagh`](https://google.com/search?q=Branagh) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-14 | [`Bitgo`](https://google.com/search?q=Bitgo) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-14 | [`Buff Law`](https://google.com/search?q=Buff+Law) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-02-13 | [`Unified Engineering`](https://google.com/search?q=Unified+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-12-21 | [`svlawus.com`](https://google.com/search?q=svlawus.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-20 | [`Security ONE Alarm Systems`](https://google.com/search?q=Security+ONE+Alarm+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-20 | [`Kucera International`](https://google.com/search?q=Kucera+International) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-12-20 | [`No Place to Hide: Unmasking the Masterminds Behind War Drones`](https://google.com/search?q=No+Place+to+Hide%3A+Unmasking+the+Masterminds+Behind+War+Drones) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
