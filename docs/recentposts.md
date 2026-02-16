@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-16 | [`ACS Accountancy`](https://google.com/search?q=ACS+Accountancy) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-02-16 | [`Ondine Biomedical`](https://google.com/search?q=Ondine+Biomedical) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-15 | [`Nang Kuang Pharmaceutical Co., Ltd.`](https://google.com/search?q=Nang+Kuang+Pharmaceutical+Co.%2C+Ltd.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-15 | [`Branagh`](https://google.com/search?q=Branagh) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-14 | [`Bitgo`](https://google.com/search?q=Bitgo) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-12-22 | [`Assolim`](https://google.com/search?q=Assolim) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-12-21 | [`Talarico`](https://google.com/search?q=Talarico) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-12-21 | [`Evercover`](https://google.com/search?q=Evercover) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-12-21 | [`svlawus.com`](https://google.com/search?q=svlawus.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-12-20 | [`Security ONE Alarm Systems`](https://google.com/search?q=Security+ONE+Alarm+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
