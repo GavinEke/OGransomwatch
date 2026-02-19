@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-19 | [` DeWalch Technologies, Inc `](https://google.com/search?q=+DeWalch+Technologies%2C+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
+| 2026-02-19 | [` PCCA `](https://google.com/search?q=+PCCA+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-02-19 | [`The General in the Shadows: Sapir’s Commander Exposed`](https://google.com/search?q=The+General+in+the+Shadows%3A+Sapir%E2%80%99s+Commander+Exposed) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-02-19 | [`aircotedivoire.com`](https://google.com/search?q=aircotedivoire.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-19 | [`Valgo SA`](https://google.com/search?q=Valgo+SA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-12-29 | [`MP Filtri`](https://google.com/search?q=MP+Filtri) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-29 | [`JZ Russell Industries`](https://google.com/search?q=JZ+Russell+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-29 | [`Genoa Lakes`](https://google.com/search?q=Genoa+Lakes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-12-29 | [`Esquire Brands`](https://google.com/search?q=Esquire+Brands) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-12-29 | [`C&r Electric`](https://google.com/search?q=C%26r+Electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
