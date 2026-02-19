@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-19 | [`Tropic Tool & Mold`](https://google.com/search?q=Tropic+Tool+%26+Mold) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-19 | [`Spring Brook Country Club`](https://google.com/search?q=Spring+Brook+Country+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-19 | [`Sika Technology`](https://google.com/search?q=Sika+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-19 | [`Paisley Products of Canada`](https://google.com/search?q=Paisley+Products+of+Canada) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-19 | [`Oklahoma Auto Exchange`](https://google.com/search?q=Oklahoma+Auto+Exchange) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-19 | [`Kirbor Homes`](https://google.com/search?q=Kirbor+Homes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-19 | [`Indianapolis Car Exchange`](https://google.com/search?q=Indianapolis+Car+Exchange) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-19 | [`Auto Auction of New England`](https://google.com/search?q=Auto+Auction+of+New+England) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-02-19 | [`Arizona Lighting Sales`](https://google.com/search?q=Arizona+Lighting+Sales) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-19 | [` DeWalch Technologies, Inc `](https://google.com/search?q=+DeWalch+Technologies%2C+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-02-19 | [` PCCA `](https://google.com/search?q=+PCCA+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-02-19 | [`The General in the Shadows: Sapir’s Commander Exposed`](https://google.com/search?q=The+General+in+the+Shadows%3A+Sapir%E2%80%99s+Commander+Exposed) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2026-01-02 | [`Lakeside Title Company`](https://google.com/search?q=Lakeside+Title+Company) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-02 | [`Garner Foods`](https://google.com/search?q=Garner+Foods) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-02 | [`Benise-Dowling & Associates`](https://google.com/search?q=Benise-Dowling+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-12-31 | [`Infinite Computing Systems`](https://google.com/search?q=Infinite+Computing+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-12-31 | [`Burnham Brown`](https://google.com/search?q=Burnham+Brown) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-12-31 | [`3GH Informatica Integral`](https://google.com/search?q=3GH+Informatica+Integral) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-12-30 | [`OSI Systems, Inc.`](https://google.com/search?q=OSI+Systems%2C+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-12-30 | [`Falk, Waas, Hernandez, Cortina, Solomon & Bonner Overview Metrics`](https://google.com/search?q=Falk%2C+Waas%2C+Hernandez%2C+Cortina%2C+Solomon+%26+Bonner+Overview+Metrics) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-12-30 | [`Firmengruppe Hoffmann`](https://google.com/search?q=Firmengruppe+Hoffmann) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-12-29 | [`MP Filtri`](https://google.com/search?q=MP+Filtri) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-12-29 | [`JZ Russell Industries`](https://google.com/search?q=JZ+Russell+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-12-29 | [`Genoa Lakes`](https://google.com/search?q=Genoa+Lakes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
