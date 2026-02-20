@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-20 | [`polymedicure.com`](https://google.com/search?q=polymedicure.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-19 | [`Tropic Tool & Mold`](https://google.com/search?q=Tropic+Tool+%26+Mold) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-19 | [`Spring Brook Country Club`](https://google.com/search?q=Spring+Brook+Country+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-19 | [`Sika Technology`](https://google.com/search?q=Sika+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-02 | [`Pewarchuk CPA`](https://google.com/search?q=Pewarchuk+CPA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-02 | [`Lakeside Title Company`](https://google.com/search?q=Lakeside+Title+Company) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-02 | [`Garner Foods`](https://google.com/search?q=Garner+Foods) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-01-02 | [`Benise-Dowling & Associates`](https://google.com/search?q=Benise-Dowling+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
