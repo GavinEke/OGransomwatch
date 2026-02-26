@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-26 | [`thinlinetech.com`](https://google.com/search?q=thinlinetech.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2026-02-25 | [`Jones Haber`](https://google.com/search?q=Jones+Haber) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2026-02-25 | [`The Siskiyou Telephone`](https://google.com/search?q=The+Siskiyou+Telephone) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2026-02-25 | [`Clalit Hacked: Israel’s Largest Healthcare Organization Falls to Cyber Resistance`](https://google.com/search?q=Clalit+Hacked%3A+Israel%E2%80%99s+Largest+Healthcare+Organization+Falls+to+Cyber+Resistance) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-08 | [`https://lpollockpr.com/`](https://google.com/search?q=https%3A%2F%2Flpollockpr.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-08 | [`[DISCLOSED]Assolim`](https://google.com/search?q=%5BDISCLOSED%5DAssolim) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-01-08 | [`Fedcap`](https://google.com/search?q=Fedcap) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-01-08 | [`Luxshare Precision Industry Co. Ltd.`](https://google.com/search?q=Luxshare+Precision+Industry+Co.+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
