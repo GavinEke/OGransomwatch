@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-26 | [`en.yofc.com`](https://google.com/search?q=en.yofc.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
+| 2026-02-26 | [`WE Fitness`](https://google.com/search?q=WE+Fitness) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-02-26 | [`JA AKITA KITA LIFE SERVICE, K.K`](https://google.com/search?q=JA+AKITA+KITA+LIFE+SERVICE%2C+K.K) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-02-26 | [`APRO Asian Protection Pte Ltd`](https://google.com/search?q=APRO+Asian+Protection+Pte+Ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-26 | [`thinlinetech.com`](https://google.com/search?q=thinlinetech.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2026-02-25 | [`Jones Haber`](https://google.com/search?q=Jones+Haber) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2026-02-25 | [`The Siskiyou Telephone`](https://google.com/search?q=The+Siskiyou+Telephone) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2026-01-10 | [`Foshee Architecture`](https://google.com/search?q=Foshee+Architecture) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-10 | [`CompactInd`](https://google.com/search?q=CompactInd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-09 | [`The Carlson Law Firm`](https://google.com/search?q=The+Carlson+Law+Firm) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-09 | [`stignatiusijamsville.org`](https://google.com/search?q=stignatiusijamsville.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-08 | [`https://lpollockpr.com/`](https://google.com/search?q=https%3A%2F%2Flpollockpr.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-08 | [`[DISCLOSED]Assolim`](https://google.com/search?q=%5BDISCLOSED%5DAssolim) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-01-08 | [`Fedcap`](https://google.com/search?q=Fedcap) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
