@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-02-27 | [`Tract Consulting`](https://google.com/search?q=Tract+Consulting) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-26 | [`https://daricon.com/ (military US/CA/NATO)`](https://google.com/search?q=https%3A%2F%2Fdaricon.com%2F+%28military+US%2FCA%2FNATO%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-26 | [`Landmark Rehab Group`](https://google.com/search?q=Landmark+Rehab+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-26 | [`Integrity Building`](https://google.com/search?q=Integrity+Building) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-12 | [`Harrison Design`](https://google.com/search?q=Harrison+Design) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-12 | [`Rod Danielson`](https://google.com/search?q=Rod+Danielson) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-10 | [`WiZiX Technology Group`](https://google.com/search?q=WiZiX+Technology+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-01-10 | [`Launie & Marino`](https://google.com/search?q=Launie+%26+Marino) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
