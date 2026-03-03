@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-03 | [`Sharjah National Oil Corporation Hacked`](https://google.com/search?q=Sharjah+National+Oil+Corporation+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
+| 2026-03-03 | [`Israel Opportunity Energy Hacked`](https://google.com/search?q=Israel+Opportunity+Energy+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-03 | [`Insight Hospital and Medical Center Chicago`](https://google.com/search?q=Insight+Hospital+and+Medical+Center+Chicago) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2026-03-03 | [`Bartram Trail Surveying`](https://google.com/search?q=Bartram+Trail+Surveying) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2026-03-03 | [`https://www.pyramisgroup.com`](https://google.com/search?q=https%3A%2F%2Fwww.pyramisgroup.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-01-21 | [`Jet-care International`](https://google.com/search?q=Jet-care+International) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-01-20 | [`Riverwood Golf Club`](https://google.com/search?q=Riverwood+Golf+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-20 | [`Release Marine`](https://google.com/search?q=Release+Marine) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-01-20 | [`Raymundos Food Group`](https://google.com/search?q=Raymundos+Food+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-01-20 | [`Eastern Ice`](https://google.com/search?q=Eastern+Ice) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
