@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-03 | [`https://mpapharma.com`](https://google.com/search?q=https%3A%2F%2Fmpapharma.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
+| 2026-03-03 | [`Hopkins Law`](https://google.com/search?q=Hopkins+Law) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-03-03 | [`Hersher Law`](https://google.com/search?q=Hersher+Law) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-03-03 | [`Brockman Injury Lawyer`](https://google.com/search?q=Brockman+Injury+Lawyer) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-03 | [`www.chrishudsonlaw.com`](https://google.com/search?q=www.chrishudsonlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-03 | [`GapVax`](https://google.com/search?q=GapVax) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-03 | [`Equine Canada`](https://google.com/search?q=Equine+Canada) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2026-01-23 | [`tob-bmw.sk`](https://google.com/search?q=tob-bmw.sk) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-23 | [`OAB`](https://google.com/search?q=OAB) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-22 | [`minorsgardencenter.com`](https://google.com/search?q=minorsgardencenter.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-22 | [`California Tax Data`](https://google.com/search?q=California+Tax+Data) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-01-22 | [`Elmore Goldsmith Kelley & deHoll`](https://google.com/search?q=Elmore+Goldsmith+Kelley+%26+deHoll) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-21 | [`Midway Windows and Doors`](https://google.com/search?q=Midway+Windows+and+Doors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-01-21 | [`Cemtech`](https://google.com/search?q=Cemtech) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
