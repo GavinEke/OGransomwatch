@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-03 | [`Napolin Law Firm`](https://google.com/search?q=Napolin+Law+Firm) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-03-03 | [`Law Offices of Mark E. Lewis & Associates`](https://google.com/search?q=Law+Offices+of+Mark+E.+Lewis+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-03 | [`https://mpapharma.com`](https://google.com/search?q=https%3A%2F%2Fmpapharma.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2026-03-03 | [`Hopkins Law`](https://google.com/search?q=Hopkins+Law) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-03 | [`Hersher Law`](https://google.com/search?q=Hersher+Law) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-01-23 | [`Encore Roofing`](https://google.com/search?q=Encore+Roofing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-23 | [`goldair.gr`](https://google.com/search?q=goldair.gr) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-23 | [`tob-bmw.sk`](https://google.com/search?q=tob-bmw.sk) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-23 | [`OAB`](https://google.com/search?q=OAB) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-22 | [`minorsgardencenter.com`](https://google.com/search?q=minorsgardencenter.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
