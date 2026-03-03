@@ -4,6 +4,30 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-03 | [`Insight Hospital and Medical Center Chicago`](https://google.com/search?q=Insight+Hospital+and+Medical+Center+Chicago) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
+| 2026-03-03 | [`Bartram Trail Surveying`](https://google.com/search?q=Bartram+Trail+Surveying) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
+| 2026-03-03 | [`https://www.pyramisgroup.com`](https://google.com/search?q=https%3A%2F%2Fwww.pyramisgroup.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
+| 2026-03-03 | [`mcfirm.com`](https://google.com/search?q=mcfirm.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-03-03 | [`lke-group.com`](https://google.com/search?q=lke-group.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-03-03 | [`https://www.precisioncoating.com/`](https://google.com/search?q=https%3A%2F%2Fwww.precisioncoating.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-03-03 | [`http://ramet-trom.co.il/`](https://google.com/search?q=http%3A%2F%2Framet-trom.co.il%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-03-03 | [`denmark.k12.wi.us`](https://google.com/search?q=denmark.k12.wi.us) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-03-03 | [`abramssales.com`](https://google.com/search?q=abramssales.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-03-03 | [`Lymphedema Therapy Specialists`](https://google.com/search?q=Lymphedema+Therapy+Specialists) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-03-03 | [`Law Offices Taenzer & Ettenson, P.C. (tesalaw.com)`](https://google.com/search?q=Law+Offices+Taenzer+%26+Ettenson%2C+P.C.+%28tesalaw.com%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-03-03 | [`Empresa de Transportes Via Pajuçara Ltda.`](https://google.com/search?q=Empresa+de+Transportes+Via+Paju%C3%A7ara+Ltda.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-03-03 | [`Southold Town Senior Services`](https://google.com/search?q=Southold+Town+Senior+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2026-03-03 | [`WCC Technologies Group`](https://google.com/search?q=WCC+Technologies+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-03 | [`The Kuker Group`](https://google.com/search?q=The+Kuker+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-03 | [`Project Consulting Services`](https://google.com/search?q=Project+Consulting+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-03 | [`LRA Constructors`](https://google.com/search?q=LRA+Constructors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-03 | [`Gordon/Clifford Realty`](https://google.com/search?q=Gordon%2FClifford+Realty) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-03 | [`Go Professional Cases`](https://google.com/search?q=Go+Professional+Cases) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-03 | [`Favaro Lavezzo Gill Caretti`](https://google.com/search?q=Favaro+Lavezzo+Gill+Caretti) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-03 | [`Cobblestone Creek Country Club`](https://google.com/search?q=Cobblestone+Creek+Country+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-03 | [`Cabka`](https://google.com/search?q=Cabka) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-03 | [`Neinver`](https://google.com/search?q=Neinver) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2026-03-03 | [`Accelerated Services`](https://google.com/search?q=Accelerated+Services) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-02-27 | [`Tract Consulting`](https://google.com/search?q=Tract+Consulting) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-26 | [`https://daricon.com/ (military US/CA/NATO)`](https://google.com/search?q=https%3A%2F%2Fdaricon.com%2F+%28military+US%2FCA%2FNATO%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-26 | [`Landmark Rehab Group`](https://google.com/search?q=Landmark+Rehab+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -180,27 +204,3 @@ _last `200` posts_
 | 2026-01-20 | [`Release Marine`](https://google.com/search?q=Release+Marine) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-20 | [`Raymundos Food Group`](https://google.com/search?q=Raymundos+Food+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-20 | [`Eastern Ice`](https://google.com/search?q=Eastern+Ice) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-01-20 | [`Sandberg`](https://google.com/search?q=Sandberg) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-19 | [` Whitfield Welding Inc `](https://google.com/search?q=+Whitfield+Welding+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2026-01-19 | [`Durashiloh `](https://google.com/search?q=Durashiloh+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2026-01-19 | [` Walters Group Inc `](https://google.com/search?q=+Walters+Group+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2026-01-19 | [`Whitfield Welding Inc `](https://google.com/search?q=Whitfield+Welding+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2026-01-19 | [`[Apple Data]Luxshare Precision Industry Co. Ltd.`](https://google.com/search?q=%5BApple+Data%5DLuxshare+Precision+Industry+Co.+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-01-18 | [`Southern Alberta Community Living Association`](https://google.com/search?q=Southern+Alberta+Community+Living+Association) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-18 | [`MKC Customs Brokers International Inc.`](https://google.com/search?q=MKC+Customs+Brokers+International+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-18 | [`Avraham Hayyim ( Mehrdad Rahimi ) Hacked &#8211; Mossad Agent`](https://google.com/search?q=Avraham+Hayyim+%28+Mehrdad+Rahimi+%29+Hacked+%26%238211%3B+Mossad+Agent) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2026-01-16 | [`tni.mil.id`](https://google.com/search?q=tni.mil.id) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-01-16 | [`ecsc.org`](https://google.com/search?q=ecsc.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-16 | [`cirrusaviation`](https://google.com/search?q=cirrusaviation) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-15 | [`https://trustarholdingsllc.com/ https://vistlabs.com/`](https://google.com/search?q=https%3A%2F%2Ftrustarholdingsllc.com%2F+https%3A%2F%2Fvistlabs.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-14 | [`https://acswinc.com/`](https://google.com/search?q=https%3A%2F%2Facswinc.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-13 | [`https://bellowsmfg.com/company/`](https://google.com/search?q=https%3A%2F%2Fbellowsmfg.com%2Fcompany%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-13 | [`Ju Teng International Holdings Ltd`](https://google.com/search?q=Ju+Teng+International+Holdings+Ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-13 | [`gbmme.com`](https://google.com/search?q=gbmme.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-13 | [`stimgroup`](https://google.com/search?q=stimgroup) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-13 | [`Rodney's Sign Company`](https://google.com/search?q=Rodney%27s+Sign+Company) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-13 | [`Fit-Line Global`](https://google.com/search?q=Fit-Line+Global) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-13 | [`Cape Fear Country Club`](https://google.com/search?q=Cape+Fear+Country+Club) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-12 | [`Harrison Design`](https://google.com/search?q=Harrison+Design) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-12 | [`Rod Danielson`](https://google.com/search?q=Rod+Danielson) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-10 | [`WiZiX Technology Group`](https://google.com/search?q=WiZiX+Technology+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
