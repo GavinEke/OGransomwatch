@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-04 | [`Israel Institute for National Security Studies (INSS) Hacked`](https://google.com/search?q=Israel+Institute+for+National+Security+Studies+%28INSS%29+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-04 | [`napolinlaw.com`](https://google.com/search?q=napolinlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-04 | [`lawofficesoferichershler.com`](https://google.com/search?q=lawofficesoferichershler.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-04 | [`hopkins-law.com`](https://google.com/search?q=hopkins-law.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-26 | [`Christine London`](https://google.com/search?q=Christine+London) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-26 | [`Aquatic Control`](https://google.com/search?q=Aquatic+Control) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-26 | [`ALLMAX`](https://google.com/search?q=ALLMAX) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-01-26 | [`sitoy.com`](https://google.com/search?q=sitoy.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
