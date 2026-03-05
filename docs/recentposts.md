@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-05 | [`parkerlipman.com`](https://google.com/search?q=parkerlipman.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-05 | [`Atlas Insurances Ltd Hacked`](https://google.com/search?q=Atlas+Insurances+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-04 | [`saturnmachine.net`](https://google.com/search?q=saturnmachine.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-04 | [`Israel Institute for National Security Studies (INSS) Hacked`](https://google.com/search?q=Israel+Institute+for+National+Security+Studies+%28INSS%29+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-26 | [`Quantum Fuel Systems Technologies`](https://google.com/search?q=Quantum+Fuel+Systems+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-26 | [`Joyva`](https://google.com/search?q=Joyva) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-26 | [`F&B Mfg`](https://google.com/search?q=F%26B+Mfg) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-01-26 | [`Christine London`](https://google.com/search?q=Christine+London) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
