@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-06 | [`T a Solberg`](https://google.com/search?q=T+a+Solberg) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-06 | [`Select Tool`](https://google.com/search?q=Select+Tool) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-06 | [`Garland Williams & Associates`](https://google.com/search?q=Garland+Williams+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-06 | [`Don E Bower`](https://google.com/search?q=Don+E+Bower) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-06 | [`Design To Print`](https://google.com/search?q=Design+To+Print) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-06 | [`DFW Aero Mechanix`](https://google.com/search?q=DFW+Aero+Mechanix) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-06 | [`IDF in Farsi Hacked`](https://google.com/search?q=IDF+in+Farsi+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-06 | [`Sanzer Hasidic community Hacked`](https://google.com/search?q=Sanzer+Hasidic+community+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-05 | [`northstaria.com`](https://google.com/search?q=northstaria.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2026-01-27 | [` Durashiloh `](https://google.com/search?q=+Durashiloh+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-01-27 | [`Connor Co `](https://google.com/search?q=Connor+Co+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-01-27 | [`The Trevino Group, Inc`](https://google.com/search?q=The+Trevino+Group%2C+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-26 | [`Uniflex Technology Inc`](https://google.com/search?q=Uniflex+Technology+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-26 | [`[Apple Data, Additional evidence]Luxshare Precision Industry Co. Ltd.`](https://google.com/search?q=%5BApple+Data%2C+Additional+evidence%5DLuxshare+Precision+Industry+Co.+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-01-26 | [`www.shrimphouse.com`](https://google.com/search?q=www.shrimphouse.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-26 | [`The Sourcing Group`](https://google.com/search?q=The+Sourcing+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-01-26 | [`Tele Plus`](https://google.com/search?q=Tele+Plus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-01-26 | [`Routten & Laster Law`](https://google.com/search?q=Routten+%26+Laster+Law) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
