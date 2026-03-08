@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-08 | [`Israeli Weather Stations Crippled`](https://google.com/search?q=Israeli+Weather+Stations+Crippled) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-08 | [`Contact Handala`](https://google.com/search?q=Contact+Handala) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-07 | [`Jerusalem Water Supply Facilities Hacked`](https://google.com/search?q=Jerusalem+Water+Supply+Facilities+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-07 | [`Handala New Telegram`](https://google.com/search?q=Handala+New+Telegram) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-01-27 | [`Callagy Law Firm`](https://google.com/search?q=Callagy+Law+Firm) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-27 | [`shawhillprimaryschool.org.uk`](https://google.com/search?q=shawhillprimaryschool.org.uk) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-27 | [`newkirklaw.com`](https://google.com/search?q=newkirklaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-27 | [` Connor Co `](https://google.com/search?q=+Connor+Co+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
