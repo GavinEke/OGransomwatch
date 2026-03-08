@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-08 | [`Southern Concrete Construction`](https://google.com/search?q=Southern+Concrete+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-08 | [`Facilities USA`](https://google.com/search?q=Facilities+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-08 | [`Byard F Brogan`](https://google.com/search?q=Byard+F+Brogan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-08 | [`Israeli Weather Stations Crippled`](https://google.com/search?q=Israeli+Weather+Stations+Crippled) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-08 | [`Contact Handala`](https://google.com/search?q=Contact+Handala) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-07 | [`Jerusalem Water Supply Facilities Hacked`](https://google.com/search?q=Jerusalem+Water+Supply+Facilities+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2026-01-27 | [`ttmet.co.th`](https://google.com/search?q=ttmet.co.th) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-27 | [`nbccministries.org`](https://google.com/search?q=nbccministries.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-27 | [`anagnosdoor.com`](https://google.com/search?q=anagnosdoor.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-27 | [`Callagy Law Firm`](https://google.com/search?q=Callagy+Law+Firm) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-27 | [`shawhillprimaryschool.org.uk`](https://google.com/search?q=shawhillprimaryschool.org.uk) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-27 | [`newkirklaw.com`](https://google.com/search?q=newkirklaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
