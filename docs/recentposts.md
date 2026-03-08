@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-08 | [`Serrano Industries`](https://google.com/search?q=Serrano+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-08 | [`Infinity Systems`](https://google.com/search?q=Infinity+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-08 | [`Helen Kaminski`](https://google.com/search?q=Helen+Kaminski) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-08 | [`Southern Concrete Construction`](https://google.com/search?q=Southern+Concrete+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-08 | [`Facilities USA`](https://google.com/search?q=Facilities+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-08 | [`Byard F Brogan`](https://google.com/search?q=Byard+F+Brogan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2026-01-28 | [`Family Partnerships of Central Florida`](https://google.com/search?q=Family+Partnerships+of+Central+Florida) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2026-01-28 | [`LGBTQ Center Orange county`](https://google.com/search?q=LGBTQ+Center+Orange+county) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-28 | [`DeRenzis & Associates`](https://google.com/search?q=DeRenzis+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-27 | [`ttmet.co.th`](https://google.com/search?q=ttmet.co.th) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-27 | [`nbccministries.org`](https://google.com/search?q=nbccministries.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-27 | [`anagnosdoor.com`](https://google.com/search?q=anagnosdoor.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
