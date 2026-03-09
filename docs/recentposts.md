@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-09 | [`Unprecedented Disclosure of 50 Senior Israeli Air Force Officers’ Information`](https://google.com/search?q=Unprecedented+Disclosure+of+50+Senior+Israeli+Air+Force+Officers%E2%80%99+Information) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
+| 2026-03-09 | [`tupeloeye.com`](https://google.com/search?q=tupeloeye.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-03-09 | [`altaortho.com`](https://google.com/search?q=altaortho.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-09 | [`pacepacific.com`](https://google.com/search?q=pacepacific.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-09 | [`Full Access: Jerusalem’s Security Cameras in Handala’s Hands`](https://google.com/search?q=Full+Access%3A+Jerusalem%E2%80%99s+Security+Cameras+in+Handala%E2%80%99s+Hands) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-08 | [`Serrano Industries`](https://google.com/search?q=Serrano+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2026-01-30 | [`DIEHL & CELLA ADVOGADOS ASSOCIADOS`](https://google.com/search?q=DIEHL+%26+CELLA+ADVOGADOS+ASSOCIADOS) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-29 | [`MACT Health Board`](https://google.com/search?q=MACT+Health+Board) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-01-29 | [`[Weapons License] Warren County Sheriff’s Office`](https://google.com/search?q=%5BWeapons+License%5D+Warren+County+Sheriff%E2%80%99s+Office) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-01-29 | [`distinctive-systems.com`](https://google.com/search?q=distinctive-systems.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-28 | [` QualiChem Metalworking `](https://google.com/search?q=+QualiChem+Metalworking+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2026-01-28 | [`Family Partnerships of Central Florida`](https://google.com/search?q=Family+Partnerships+of+Central+Florida) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
