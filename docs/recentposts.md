@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-10 | [`Teknopres_TR`](https://google.com/search?q=Teknopres_TR) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-03-10 | [`LHT Holdings Limited`](https://google.com/search?q=LHT+Holdings+Limited) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-10 | [`Estra Automotive`](https://google.com/search?q=Estra+Automotive) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-09 | [`arbd.com`](https://google.com/search?q=arbd.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-09 | [`Unprecedented Disclosure of 50 Senior Israeli Air Force Officers’ Information`](https://google.com/search?q=Unprecedented+Disclosure+of+50+Senior+Israeli+Air+Force+Officers%E2%80%99+Information) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-01-31 | [`Beacon Mutual Insurance`](https://google.com/search?q=Beacon+Mutual+Insurance) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-01-30 | [`hl.co.uk`](https://google.com/search?q=hl.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-01-30 | [`[Internal database pack 1] Warren County Sheriff’s Office`](https://google.com/search?q=%5BInternal+database+pack+1%5D+Warren+County+Sheriff%E2%80%99s+Office) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-01-30 | [`PK PINHÃO & KOIFFMAN ATTORNEYS AT LAW`](https://google.com/search?q=PK+PINH%C3%83O+%26+KOIFFMAN+ATTORNEYS+AT+LAW) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-30 | [`DIEHL & CELLA ADVOGADOS ASSOCIADOS`](https://google.com/search?q=DIEHL+%26+CELLA+ADVOGADOS+ASSOCIADOS) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
