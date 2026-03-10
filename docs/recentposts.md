@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-10 | [`banak.com`](https://google.com/search?q=banak.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2026-03-10 | [`amtaar.com`](https://google.com/search?q=amtaar.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-10 | [`Teknopres_TR`](https://google.com/search?q=Teknopres_TR) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-10 | [`LHT Holdings Limited`](https://google.com/search?q=LHT+Holdings+Limited) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-10 | [`Estra Automotive`](https://google.com/search?q=Estra+Automotive) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-01-31 | [`Bar S Services`](https://google.com/search?q=Bar+S+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-31 | [`Transaction Packing`](https://google.com/search?q=Transaction+Packing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-01-31 | [`Beacon Mutual Insurance`](https://google.com/search?q=Beacon+Mutual+Insurance) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-30 | [`hl.co.uk`](https://google.com/search?q=hl.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-01-30 | [`[Internal database pack 1] Warren County Sheriff’s Office`](https://google.com/search?q=%5BInternal+database+pack+1%5D+Warren+County+Sheriff%E2%80%99s+Office) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
