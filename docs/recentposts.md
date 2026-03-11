@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-11 | [`novoair-bd.com`](https://google.com/search?q=novoair-bd.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-11 | [`bg.ac.rs`](https://google.com/search?q=bg.ac.rs) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-11 | [`bankasia-bd.com`](https://google.com/search?q=bankasia-bd.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-10 | [`piglerautomation.com`](https://google.com/search?q=piglerautomation.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-02-02 | [`Best Attorneys`](https://google.com/search?q=Best+Attorneys) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-01 | [`Deatak`](https://google.com/search?q=Deatak) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-01 | [`Foamtec International`](https://google.com/search?q=Foamtec+International) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-01-31 | [`Hawk Law Group`](https://google.com/search?q=Hawk+Law+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
