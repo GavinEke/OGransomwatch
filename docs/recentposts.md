@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-12 | [`shj.ae`](https://google.com/search?q=shj.ae) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-12 | [`haca.ma`](https://google.com/search?q=haca.ma) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-12 | [`Raz Zimmt Hacked (head of the Iran Desk at Israeli security institutes)`](https://google.com/search?q=Raz+Zimmt+Hacked+%28head+of+the+Iran+Desk+at+Israeli+security+institutes%29) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-12 | [`seit.cl`](https://google.com/search?q=seit.cl) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-02-04 | [`[Apple Data, Additional evidence (Apple Watch) pack-2]Luxshare Precision Industry Co. Ltd.`](https://google.com/search?q=%5BApple+Data%2C+Additional+evidence+%28Apple+Watch%29+pack-2%5DLuxshare+Precision+Industry+Co.+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-02-04 | [`Lakeside Union School District`](https://google.com/search?q=Lakeside+Union+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-02-04 | [`GC Dental`](https://google.com/search?q=GC+Dental) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-02-03 | [`Western New York Energy`](https://google.com/search?q=Western+New+York+Energy) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
