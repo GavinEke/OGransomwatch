@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-12 | [`haca.ma`](https://google.com/search?q=haca.ma) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2026-03-12 | [`Raz Zimmt Hacked (head of the Iran Desk at Israeli security institutes)`](https://google.com/search?q=Raz+Zimmt+Hacked+%28head+of+the+Iran+Desk+at+Israeli+security+institutes%29) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-12 | [`seit.cl`](https://google.com/search?q=seit.cl) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-12 | [`gedco.ps`](https://google.com/search?q=gedco.ps) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-12 | [`AbelZeta`](https://google.com/search?q=AbelZeta) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-02-04 | [`Lakeside Union School District`](https://google.com/search?q=Lakeside+Union+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-02-04 | [`GC Dental`](https://google.com/search?q=GC+Dental) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-02-03 | [`Western New York Energy`](https://google.com/search?q=Western+New+York+Energy) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-03 | [`H-Behbehani Brothers WLL`](https://google.com/search?q=H-Behbehani+Brothers+WLL) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-03 | [`Blystone & Bailey`](https://google.com/search?q=Blystone+%26+Bailey) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
