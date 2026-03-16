@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-16 | [`Stryker Hit by Unprecedented 12-Petabyte Data Wipe`](https://google.com/search?q=Stryker+Hit+by+Unprecedented+12-Petabyte+Data+Wipe) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-15 | [`Executive Aviation`](https://google.com/search?q=Executive+Aviation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-15 | [`Laura Gilinski Hacked`](https://google.com/search?q=Laura+Gilinski+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-14 | [`No Place to Hide: Senior Navy Officers’ Identities Now Public`](https://google.com/search?q=No+Place+to+Hide%3A+Senior+Navy+Officers%E2%80%99+Identities+Now+Public) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-02-07 | [`Carlton Scale`](https://google.com/search?q=Carlton+Scale) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-07 | [`Bloom's Bus Lines`](https://google.com/search?q=Bloom%27s+Bus+Lines) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-06 | [`Associated Endocrinologists`](https://google.com/search?q=Associated+Endocrinologists) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-02-06 | [`Leading Edge Speciali`](https://google.com/search?q=Leading+Edge+Speciali) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
