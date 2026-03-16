@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-16 | [`mcquaidinjurylaw.com`](https://google.com/search?q=mcquaidinjurylaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-16 | [`frazercenter.org`](https://google.com/search?q=frazercenter.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-16 | [`Shock for Israeli Intelligence: 100,000 Classified Emails of Mossad’s Ex-Deputy Director S`](https://google.com/search?q=Shock+for+Israeli+Intelligence%3A+100%2C000+Classified+Emails+of+Mossad%E2%80%99s+Ex-Deputy+Director+S) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-16 | [`Stryker Hit by Unprecedented 12-Petabyte Data Wipe`](https://google.com/search?q=Stryker+Hit+by+Unprecedented+12-Petabyte+Data+Wipe) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-02-07 | [`Ilderton Contracting`](https://google.com/search?q=Ilderton+Contracting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-07 | [`ESS Metron`](https://google.com/search?q=ESS+Metron) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-07 | [`De Gruyter Brill`](https://google.com/search?q=De+Gruyter+Brill) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-02-07 | [`Carlton Scale`](https://google.com/search?q=Carlton+Scale) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
