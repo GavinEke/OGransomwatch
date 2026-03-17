@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-17 | [`vanheyghenstaal.be`](https://google.com/search?q=vanheyghenstaal.be) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2026-03-17 | [`moccae.gov.ae`](https://google.com/search?q=moccae.gov.ae) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2026-03-17 | [`isosl.be`](https://google.com/search?q=isosl.be) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-17 | [`Vahid Offline Members`](https://google.com/search?q=Vahid+Offline+Members) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-17 | [`Who is VahidOnline?`](https://google.com/search?q=Who+is+VahidOnline%3F) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-17 | [`Mossad’s Secret Treasury Exposed: 50,000 Confidential Emails Leaked`](https://google.com/search?q=Mossad%E2%80%99s+Secret+Treasury+Exposed%3A+50%2C000+Confidential+Emails+Leaked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2026-02-10 | [`Texcomp`](https://google.com/search?q=Texcomp) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-02-10 | [`PrintForm`](https://google.com/search?q=PrintForm) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-02-10 | [`moultriesheriff.com`](https://google.com/search?q=moultriesheriff.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-10 | [`Core Supply`](https://google.com/search?q=Core+Supply) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-09 | [`tuftco`](https://google.com/search?q=tuftco) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-07 | [`RAL Companies`](https://google.com/search?q=RAL+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
