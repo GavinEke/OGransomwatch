@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-17 | [`doghairinc.com`](https://google.com/search?q=doghairinc.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2026-03-17 | [`Knight's Site Services`](https://google.com/search?q=Knight%27s+Site+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-17 | [`Gsolutionz`](https://google.com/search?q=Gsolutionz) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-17 | [`vanheyghenstaal.be`](https://google.com/search?q=vanheyghenstaal.be) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-17 | [`moccae.gov.ae`](https://google.com/search?q=moccae.gov.ae) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-17 | [`isosl.be`](https://google.com/search?q=isosl.be) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2026-02-11 | [`Northbridge`](https://google.com/search?q=Northbridge) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-10 | [`PCCA `](https://google.com/search?q=PCCA+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-02-10 | [`Milwaukee Forge`](https://google.com/search?q=Milwaukee+Forge) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-02-10 | [`Texcomp`](https://google.com/search?q=Texcomp) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-02-10 | [`PrintForm`](https://google.com/search?q=PrintForm) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-02-10 | [`moultriesheriff.com`](https://google.com/search?q=moultriesheriff.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
