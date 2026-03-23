@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-23 | [`JDV Products`](https://google.com/search?q=JDV+Products) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-19 | [`ENENSYS Technologies `](https://google.com/search?q=ENENSYS+Technologies+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-03-19 | [`airports.com.na`](https://google.com/search?q=airports.com.na) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-19 | [`Bonheure`](https://google.com/search?q=Bonheure) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-02-12 | [`atchadwick.net`](https://google.com/search?q=atchadwick.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-11 | [`www.hfplanners.com`](https://google.com/search?q=www.hfplanners.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-11 | [`Makivik`](https://google.com/search?q=Makivik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-02-11 | [`Catalanatto & Barnes`](https://google.com/search?q=Catalanatto+%26+Barnes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
