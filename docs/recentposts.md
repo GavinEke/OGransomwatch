@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-24 | [`cerboniservices.com`](https://google.com/search?q=cerboniservices.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-03-24 | [`Window & Door Design Center of Florida`](https://google.com/search?q=Window+%26+Door+Design+Center+of+Florida) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-24 | [`Roxiticus Golf Club`](https://google.com/search?q=Roxiticus+Golf+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-24 | [`Pinnacle`](https://google.com/search?q=Pinnacle) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-24 | [`Capital Wholesale Drug`](https://google.com/search?q=Capital+Wholesale+Drug) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-24 | [`Block Engineering`](https://google.com/search?q=Block+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-24 | [`Ascent Asset Group`](https://google.com/search?q=Ascent+Asset+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-03-24 | [`All Real Estate Title Solutions`](https://google.com/search?q=All+Real+Estate+Title+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-23 | [`Kiswire`](https://google.com/search?q=Kiswire) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-23 | [`JDV Products`](https://google.com/search?q=JDV+Products) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-19 | [`ENENSYS Technologies `](https://google.com/search?q=ENENSYS+Technologies+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2026-02-13 | [`Heartland Title Services`](https://google.com/search?q=Heartland+Title+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-13 | [`HMA`](https://google.com/search?q=HMA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-13 | [`Siem Srl`](https://google.com/search?q=Siem+Srl) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-02-12 | [`rswater.ae`](https://google.com/search?q=rswater.ae) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-12 | [`Midwestern Oil & Gas`](https://google.com/search?q=Midwestern+Oil+%26+Gas) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-12 | [`lohmann-tapes.com`](https://google.com/search?q=lohmann-tapes.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-12 | [`Phoenix Art Museum`](https://google.com/search?q=Phoenix+Art+Museum) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2026-02-12 | [`excavationtourigny.ca`](https://google.com/search?q=excavationtourigny.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-12 | [`auxhomeservices.com`](https://google.com/search?q=auxhomeservices.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-12 | [`atchadwick.net`](https://google.com/search?q=atchadwick.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-11 | [`www.hfplanners.com`](https://google.com/search?q=www.hfplanners.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
