@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-03-26 | [`TPIS Industrial Services`](https://google.com/search?q=TPIS+Industrial+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-26 | [`ires.ma`](https://google.com/search?q=ires.ma) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-26 | [`iam.ma`](https://google.com/search?q=iam.ma) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-26 | [`2m.ma`](https://google.com/search?q=2m.ma) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-02-17 | [`Hiwassee Builder Supply`](https://google.com/search?q=Hiwassee+Builder+Supply) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-16 | [`Darma Henwa`](https://google.com/search?q=Darma+Henwa) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-02-16 | [`Sitran MG`](https://google.com/search?q=Sitran+MG) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-02-16 | [`ACS Accountancy`](https://google.com/search?q=ACS+Accountancy) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
