@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-04-04 | [`Sokolin`](https://google.com/search?q=Sokolin) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-04-04 | [`Barnes Solicitors LLP`](https://google.com/search?q=Barnes+Solicitors+LLP) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-04-04 | [`Community Connections`](https://google.com/search?q=Community+Connections) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-03 | [`coronapa.com`](https://google.com/search?q=coronapa.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-03 | [`Infonet Media d.o.o. `](https://google.com/search?q=Infonet+Media+d.o.o.+) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-02-22 | [`Faulkner+Locke`](https://google.com/search?q=Faulkner%2BLocke) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-22 | [`Chemical Computing Group`](https://google.com/search?q=Chemical+Computing+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-22 | [`Atlantic Design Engineers`](https://google.com/search?q=Atlantic+Design+Engineers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-02-20 | [`polymedicure.com`](https://google.com/search?q=polymedicure.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-19 | [`Tropic Tool & Mold`](https://google.com/search?q=Tropic+Tool+%26+Mold) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
