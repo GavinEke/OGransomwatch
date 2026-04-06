@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-04-06 | [`Morphosis`](https://google.com/search?q=Morphosis) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-04-06 | [`Crystal Point`](https://google.com/search?q=Crystal+Point) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-04-06 | [`[DISCLOSED]Bioptik Technology`](https://google.com/search?q=%5BDISCLOSED%5DBioptik+Technology) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-04-04 | [`Sokolin`](https://google.com/search?q=Sokolin) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-04-04 | [`Barnes Solicitors LLP`](https://google.com/search?q=Barnes+Solicitors+LLP) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-02-22 | [`PenLink`](https://google.com/search?q=PenLink) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-22 | [`Hendrick Construction`](https://google.com/search?q=Hendrick+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-02-22 | [`Gulfstream Services`](https://google.com/search?q=Gulfstream+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-02-22 | [`Faulkner+Locke`](https://google.com/search?q=Faulkner%2BLocke) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-02-22 | [`Chemical Computing Group`](https://google.com/search?q=Chemical+Computing+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
