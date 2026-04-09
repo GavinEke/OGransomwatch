@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-04-09 | [`centrum.sk`](https://google.com/search?q=centrum.sk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-08 | [`rxm.com.au`](https://google.com/search?q=rxm.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-07 | [`[DISCLOSED]Accelerated Services`](https://google.com/search?q=%5BDISCLOSED%5DAccelerated+Services) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-04-07 | [`pacificwestinjury.com`](https://google.com/search?q=pacificwestinjury.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-02-23 | [`The City of Cocoa`](https://google.com/search?q=The+City+of+Cocoa) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-02-23 | [`Rohner`](https://google.com/search?q=Rohner) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-02-23 | [`Rainier Clinical Research Center`](https://google.com/search?q=Rainier+Clinical+Research+Center) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-02-22 | [`QualiChem Metalworking`](https://google.com/search?q=QualiChem+Metalworking) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
