@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-04-11 | [`www.campbell.edu`](https://google.com/search?q=www.campbell.edu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-10 | [`wright-ryan.com`](https://google.com/search?q=wright-ryan.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-10 | [`martek co ltd.`](https://google.com/search?q=martek+co+ltd.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-10 | [`Kannarr Eye Care`](https://google.com/search?q=Kannarr+Eye+Care) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-02-25 | [`Clalit Hacked: Israel’s Largest Healthcare Organization Falls to Cyber Resistance`](https://google.com/search?q=Clalit+Hacked%3A+Israel%E2%80%99s+Largest+Healthcare+Organization+Falls+to+Cyber+Resistance) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-02-25 | [`Birmingham Museum of Art`](https://google.com/search?q=Birmingham+Museum+of+Art) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2026-02-24 | [`Insight Hospital &amp;amp; Medical Center Chicago`](https://google.com/search?q=Insight+Hospital+%26amp%3Bamp%3B+Medical+Center+Chicago) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2026-02-24 | [`acwapower.com \ https://www.larsentoubro.com/`](https://google.com/search?q=acwapower.com+%5C+https%3A%2F%2Fwww.larsentoubro.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
