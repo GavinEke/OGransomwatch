@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-04-17 | [`alupco.com`](https://google.com/search?q=alupco.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-04-17 | [`Mag. Fünder Hausverwaltungs GmbH`](https://google.com/search?q=Mag.+F%C3%BCnder+Hausverwaltungs+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-04-17 | [`Winnitex (Americas) Limited`](https://google.com/search?q=Winnitex+%28Americas%29+Limited) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-04-16 | [`Millennium Dental Technologies`](https://google.com/search?q=Millennium+Dental+Technologies) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2026-04-16 | [`bgcsnv.org`](https://google.com/search?q=bgcsnv.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-16 | [`treelawoffice.com`](https://google.com/search?q=treelawoffice.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2026-03-03 | [`Favaro Lavezzo Gill Caretti`](https://google.com/search?q=Favaro+Lavezzo+Gill+Caretti) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-03 | [`Cobblestone Creek Country Club`](https://google.com/search?q=Cobblestone+Creek+Country+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-03 | [`Cabka`](https://google.com/search?q=Cabka) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-03 | [`Neinver`](https://google.com/search?q=Neinver) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-03-03 | [`Accelerated Services`](https://google.com/search?q=Accelerated+Services) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-02-27 | [`Tract Consulting`](https://google.com/search?q=Tract+Consulting) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
