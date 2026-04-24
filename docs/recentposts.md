@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-04-24 | [`Dorotea Sweden`](https://google.com/search?q=Dorotea+Sweden) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-04-24 | [`Star Energy Geothermal Salak`](https://google.com/search?q=Star+Energy+Geothermal+Salak) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-04-22 | [`trugreen.com`](https://google.com/search?q=trugreen.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-22 | [`teamster773.org`](https://google.com/search?q=teamster773.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-22 | [`krwlawyers.com`](https://google.com/search?q=krwlawyers.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-03-03 | [`Southold Town Senior Services`](https://google.com/search?q=Southold+Town+Senior+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-03-03 | [`WCC Technologies Group`](https://google.com/search?q=WCC+Technologies+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-03 | [`The Kuker Group`](https://google.com/search?q=The+Kuker+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-03 | [`Project Consulting Services`](https://google.com/search?q=Project+Consulting+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-03 | [`LRA Constructors`](https://google.com/search?q=LRA+Constructors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
