@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-04-27 | [`grupo-principal.com`](https://google.com/search?q=grupo-principal.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2026-04-27 | [`dunav.com`](https://google.com/search?q=dunav.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2026-04-27 | [`cofaco.com`](https://google.com/search?q=cofaco.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2026-04-27 | [`arrawdah.org.sa`](https://google.com/search?q=arrawdah.org.sa) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2026-04-27 | [`ldisolutions.com`](https://google.com/search?q=ldisolutions.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-04-27 | [`Selex - Gruppo Commerciale`](https://google.com/search?q=Selex+-+Gruppo+Commerciale) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-04-27 | [`BELFOR`](https://google.com/search?q=BELFOR) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-27 | [`ifmis.go.ke`](https://google.com/search?q=ifmis.go.ke) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-27 | [`alx-pc.com`](https://google.com/search?q=alx-pc.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-27 | [`algosaibi-gtb.com`](https://google.com/search?q=algosaibi-gtb.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2026-03-03 | [`Sharjah National Oil Corporation Hacked`](https://google.com/search?q=Sharjah+National+Oil+Corporation+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-03 | [`Israel Opportunity Energy Hacked`](https://google.com/search?q=Israel+Opportunity+Energy+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-03 | [`Insight Hospital and Medical Center Chicago`](https://google.com/search?q=Insight+Hospital+and+Medical+Center+Chicago) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2026-03-03 | [`Bartram Trail Surveying`](https://google.com/search?q=Bartram+Trail+Surveying) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2026-03-03 | [`https://www.pyramisgroup.com`](https://google.com/search?q=https%3A%2F%2Fwww.pyramisgroup.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2026-03-03 | [`mcfirm.com`](https://google.com/search?q=mcfirm.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-03 | [`lke-group.com`](https://google.com/search?q=lke-group.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-03 | [`https://www.precisioncoating.com/`](https://google.com/search?q=https%3A%2F%2Fwww.precisioncoating.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-03 | [`http://ramet-trom.co.il/`](https://google.com/search?q=http%3A%2F%2Framet-trom.co.il%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-03 | [`denmark.k12.wi.us`](https://google.com/search?q=denmark.k12.wi.us) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
