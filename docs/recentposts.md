@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-04-27 | [`medikaplaza.com`](https://google.com/search?q=medikaplaza.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2026-04-27 | [`jgpetrucci.com`](https://google.com/search?q=jgpetrucci.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2026-04-27 | [`Stelia North America`](https://google.com/search?q=Stelia+North+America) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-04-27 | [`grupo-principal.com`](https://google.com/search?q=grupo-principal.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-27 | [`dunav.com`](https://google.com/search?q=dunav.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-27 | [`cofaco.com`](https://google.com/search?q=cofaco.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2026-03-03 | [`Equine Canada`](https://google.com/search?q=Equine+Canada) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-03 | [`Aramco Hacked`](https://google.com/search?q=Aramco+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-03 | [`maisonlaw.com`](https://google.com/search?q=maisonlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-03 | [`Sharjah National Oil Corporation Hacked`](https://google.com/search?q=Sharjah+National+Oil+Corporation+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2026-03-03 | [`Israel Opportunity Energy Hacked`](https://google.com/search?q=Israel+Opportunity+Energy+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2026-03-03 | [`Insight Hospital and Medical Center Chicago`](https://google.com/search?q=Insight+Hospital+and+Medical+Center+Chicago) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
