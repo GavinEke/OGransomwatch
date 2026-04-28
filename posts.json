@@ -86108,5 +86108,10 @@
         "post_title": "Cybersecurity Vendor",
         "group_name": "ransomhouse",
         "discovered": "2026-04-28 00:15:50.552102"
+    },
+    {
+        "post_title": "sumacinc.com",
+        "group_name": "incransom",
+        "discovered": "2026-04-28 03:21:11.926419"
     }
 ]

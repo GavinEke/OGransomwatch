@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-04-28 | [`sumacinc.com`](https://google.com/search?q=sumacinc.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-28 | [`Cybersecurity Vendor`](https://google.com/search?q=Cybersecurity+Vendor) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-04-27 | [`medikaplaza.com`](https://google.com/search?q=medikaplaza.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-27 | [`jgpetrucci.com`](https://google.com/search?q=jgpetrucci.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-03 | [`www.chrishudsonlaw.com`](https://google.com/search?q=www.chrishudsonlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-03 | [`GapVax`](https://google.com/search?q=GapVax) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-03 | [`Equine Canada`](https://google.com/search?q=Equine+Canada) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-03 | [`Aramco Hacked`](https://google.com/search?q=Aramco+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
