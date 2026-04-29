@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-04-29 | [`Karl Chevrolet`](https://google.com/search?q=Karl+Chevrolet) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-04-29 | [`nbd3pl.com`](https://google.com/search?q=nbd3pl.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-29 | [`https://www.fulcrumre.com/`](https://google.com/search?q=https%3A%2F%2Fwww.fulcrumre.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-28 | [`www.durable-tech.com`](https://google.com/search?q=www.durable-tech.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-03 | [`https://mpapharma.com`](https://google.com/search?q=https%3A%2F%2Fmpapharma.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2026-03-03 | [`Hopkins Law`](https://google.com/search?q=Hopkins+Law) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-03 | [`Hersher Law`](https://google.com/search?q=Hersher+Law) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-03 | [`Brockman Injury Lawyer`](https://google.com/search?q=Brockman+Injury+Lawyer) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
