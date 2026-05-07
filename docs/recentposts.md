@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-05-07 | [`egnyte.com`](https://google.com/search?q=egnyte.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-05-07 | [`earthsystems.com.au earthsystemseurope.com`](https://google.com/search?q=earthsystems.com.au+earthsystemseurope.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-05-07 | [`autorisk.org`](https://google.com/search?q=autorisk.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-05-07 | [`K & E Distributing`](https://google.com/search?q=K+%26+E+Distributing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-05-07 | [`EMA Engineering & Consulting`](https://google.com/search?q=EMA+Engineering+%26+Consulting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-05-07 | [`Accessoires Outillage Ltee`](https://google.com/search?q=Accessoires+Outillage+Ltee) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-07 | [`cmswpc.com`](https://google.com/search?q=cmswpc.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-07 | [`Trellix (McAfee & FireEye)`](https://google.com/search?q=Trellix+%28McAfee+%26+FireEye%29) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-05-07 | [`lafj.org`](https://google.com/search?q=lafj.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2026-03-06 | [`Garland Williams & Associates`](https://google.com/search?q=Garland+Williams+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-06 | [`Don E Bower`](https://google.com/search?q=Don+E+Bower) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-06 | [`Design To Print`](https://google.com/search?q=Design+To+Print) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-06 | [`DFW Aero Mechanix`](https://google.com/search?q=DFW+Aero+Mechanix) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-06 | [`IDF in Farsi Hacked`](https://google.com/search?q=IDF+in+Farsi+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2026-03-06 | [`Sanzer Hasidic community Hacked`](https://google.com/search?q=Sanzer+Hasidic+community+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2026-03-05 | [`northstaria.com`](https://google.com/search?q=northstaria.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-05 | [`parkerlipman.com`](https://google.com/search?q=parkerlipman.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-05 | [`Atlas Insurances Ltd Hacked`](https://google.com/search?q=Atlas+Insurances+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
