@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-05-12 | [`Town Car International`](https://google.com/search?q=Town+Car+International) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-05-12 | [`Northern Mechanical Contractors`](https://google.com/search?q=Northern+Mechanical+Contractors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-05-12 | [`Infoworld Membership Systems`](https://google.com/search?q=Infoworld+Membership+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-05-12 | [`IWC Food Service`](https://google.com/search?q=IWC+Food+Service) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-05-12 | [`DURAND-WAYLAND`](https://google.com/search?q=DURAND-WAYLAND) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-05-12 | [`Ashcroft Homes`](https://google.com/search?q=Ashcroft+Homes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-05-12 | [`ACC Construction`](https://google.com/search?q=ACC+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-12 | [`SmilePoint Dental Group`](https://google.com/search?q=SmilePoint+Dental+Group) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-05-12 | [`rbh aerospace inc`](https://google.com/search?q=rbh+aerospace+inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-11 | [`Bideawee`](https://google.com/search?q=Bideawee) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2026-03-09 | [`altaortho.com`](https://google.com/search?q=altaortho.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-09 | [`pacepacific.com`](https://google.com/search?q=pacepacific.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-09 | [`Full Access: Jerusalem’s Security Cameras in Handala’s Hands`](https://google.com/search?q=Full+Access%3A+Jerusalem%E2%80%99s+Security+Cameras+in+Handala%E2%80%99s+Hands) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2026-03-08 | [`Serrano Industries`](https://google.com/search?q=Serrano+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-08 | [`Infinity Systems`](https://google.com/search?q=Infinity+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-08 | [`Helen Kaminski`](https://google.com/search?q=Helen+Kaminski) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-08 | [`Southern Concrete Construction`](https://google.com/search?q=Southern+Concrete+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-08 | [`Facilities USA`](https://google.com/search?q=Facilities+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-08 | [`Byard F Brogan`](https://google.com/search?q=Byard+F+Brogan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-08 | [`Israeli Weather Stations Crippled`](https://google.com/search?q=Israeli+Weather+Stations+Crippled) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
