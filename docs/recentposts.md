@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-05-12 | [`SmilePoint Dental Group`](https://google.com/search?q=SmilePoint+Dental+Group) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-05-12 | [`rbh aerospace inc`](https://google.com/search?q=rbh+aerospace+inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-11 | [`Bideawee`](https://google.com/search?q=Bideawee) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-11 | [`lalsgroup.com`](https://google.com/search?q=lalsgroup.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-08 | [`Facilities USA`](https://google.com/search?q=Facilities+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-08 | [`Byard F Brogan`](https://google.com/search?q=Byard+F+Brogan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-08 | [`Israeli Weather Stations Crippled`](https://google.com/search?q=Israeli+Weather+Stations+Crippled) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2026-03-08 | [`Contact Handala`](https://google.com/search?q=Contact+Handala) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
