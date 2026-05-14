@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-05-14 | [`technic.com`](https://google.com/search?q=technic.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2026-05-13 | [`Silergy Corp`](https://google.com/search?q=Silergy+Corp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-12 | [`Town Car International`](https://google.com/search?q=Town+Car+International) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-12 | [`Northern Mechanical Contractors`](https://google.com/search?q=Northern+Mechanical+Contractors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-09 | [`Unprecedented Disclosure of 50 Senior Israeli Air Force Officers’ Information`](https://google.com/search?q=Unprecedented+Disclosure+of+50+Senior+Israeli+Air+Force+Officers%E2%80%99+Information) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-09 | [`tupeloeye.com`](https://google.com/search?q=tupeloeye.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-09 | [`altaortho.com`](https://google.com/search?q=altaortho.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-09 | [`pacepacific.com`](https://google.com/search?q=pacepacific.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
