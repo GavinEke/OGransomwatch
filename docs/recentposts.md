@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-05-15 | [`defenseisready.com`](https://google.com/search?q=defenseisready.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-15 | [`United Quality Cooperative / www.uqcoop.com`](https://google.com/search?q=United+Quality+Cooperative+%2F+www.uqcoop.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-14 | [` FOXCONN`](https://google.com/search?q=+FOXCONN) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-05-14 | [`technic.com`](https://google.com/search?q=technic.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-10 | [`LHT Holdings Limited`](https://google.com/search?q=LHT+Holdings+Limited) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-10 | [`Estra Automotive`](https://google.com/search?q=Estra+Automotive) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-09 | [`arbd.com`](https://google.com/search?q=arbd.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-09 | [`Unprecedented Disclosure of 50 Senior Israeli Air Force Officers’ Information`](https://google.com/search?q=Unprecedented+Disclosure+of+50+Senior+Israeli+Air+Force+Officers%E2%80%99+Information) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
