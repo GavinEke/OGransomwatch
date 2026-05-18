@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-05-18 | [`bergen1.net`](https://google.com/search?q=bergen1.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-17 | [`metaval.com.au`](https://google.com/search?q=metaval.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-16 | [`RAMAR FOODS INTERNATIONAL`](https://google.com/search?q=RAMAR+FOODS+INTERNATIONAL) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2026-05-15 | [`Tower View Primary School`](https://google.com/search?q=Tower+View+Primary+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-10 | [`csi-ri.com`](https://google.com/search?q=csi-ri.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-10 | [`banak.com`](https://google.com/search?q=banak.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-10 | [`amtaar.com`](https://google.com/search?q=amtaar.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-03-10 | [`Teknopres_TR`](https://google.com/search?q=Teknopres_TR) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
