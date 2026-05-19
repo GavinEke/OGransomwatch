@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-05-19 | [`Zuther Hautmann`](https://google.com/search?q=Zuther+Hautmann) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-19 | [`Landeshauptstadt Stuttgart`](https://google.com/search?q=Landeshauptstadt+Stuttgart) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-05-18 | [`bergen1.net`](https://google.com/search?q=bergen1.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-17 | [`metaval.com.au`](https://google.com/search?q=metaval.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-11 | [`bankasia-bd.com`](https://google.com/search?q=bankasia-bd.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-10 | [`piglerautomation.com`](https://google.com/search?q=piglerautomation.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-10 | [`csi-ri.com`](https://google.com/search?q=csi-ri.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-10 | [`banak.com`](https://google.com/search?q=banak.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
