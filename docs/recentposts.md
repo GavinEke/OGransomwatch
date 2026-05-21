@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-05-21 | [`ungererandcompany.com`](https://google.com/search?q=ungererandcompany.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2026-05-21 | [`alkaloid.com.mk`](https://google.com/search?q=alkaloid.com.mk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-05-21 | [`providentgh.com`](https://google.com/search?q=providentgh.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-05-19 | [`Nothing`](https://google.com/search?q=Nothing) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-19 | [`Zuther Hautmann`](https://google.com/search?q=Zuther+Hautmann) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-03-11 | [`thethibeauxfirm.com`](https://google.com/search?q=thethibeauxfirm.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-11 | [`Kentucky Injury`](https://google.com/search?q=Kentucky+Injury) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-11 | [`novoair-bd.com`](https://google.com/search?q=novoair-bd.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-03-11 | [`bg.ac.rs`](https://google.com/search?q=bg.ac.rs) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-03-11 | [`bankasia-bd.com`](https://google.com/search?q=bankasia-bd.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
