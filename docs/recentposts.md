@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-05-21 | [`providentgh.com`](https://google.com/search?q=providentgh.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-05-19 | [`Nothing`](https://google.com/search?q=Nothing) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-19 | [`Zuther Hautmann`](https://google.com/search?q=Zuther+Hautmann) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-19 | [`Landeshauptstadt Stuttgart`](https://google.com/search?q=Landeshauptstadt+Stuttgart) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-11 | [`novoair-bd.com`](https://google.com/search?q=novoair-bd.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-11 | [`bg.ac.rs`](https://google.com/search?q=bg.ac.rs) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-11 | [`bankasia-bd.com`](https://google.com/search?q=bankasia-bd.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-03-10 | [`piglerautomation.com`](https://google.com/search?q=piglerautomation.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
