@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-05-22 | [`tvnmedia.com`](https://google.com/search?q=tvnmedia.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2026-05-22 | [`minsa.com.mx`](https://google.com/search?q=minsa.com.mx) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2026-05-22 | [`threadinnovations`](https://google.com/search?q=threadinnovations) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-22 | [`grupopetersen.com.ar`](https://google.com/search?q=grupopetersen.com.ar) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-05-21 | [`narit.or.th`](https://google.com/search?q=narit.or.th) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-05-21 | [`ungererandcompany.com`](https://google.com/search?q=ungererandcompany.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2026-03-12 | [`seit.cl`](https://google.com/search?q=seit.cl) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-12 | [`gedco.ps`](https://google.com/search?q=gedco.ps) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-12 | [`AbelZeta`](https://google.com/search?q=AbelZeta) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-03-11 | [`Verifone Hacked`](https://google.com/search?q=Verifone+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2026-03-11 | [`Stryker Corporation Hacked`](https://google.com/search?q=Stryker+Corporation+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2026-03-11 | [`thethibeauxfirm.com`](https://google.com/search?q=thethibeauxfirm.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
