@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-05-27 | [`Gestordes`](https://google.com/search?q=Gestordes) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2026-05-27 | [`Ridge Law Firm`](https://google.com/search?q=Ridge+Law+Firm) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-05-26 | [`BASE SPA`](https://google.com/search?q=BASE+SPA) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-05-26 | [`Filabé`](https://google.com/search?q=Filab%C3%A9) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-05-26 | [`PILLER AIMMCO`](https://google.com/search?q=PILLER+AIMMCO) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-03-16 | [`Shock for Israeli Intelligence: 100,000 Classified Emails of Mossad’s Ex-Deputy Director S`](https://google.com/search?q=Shock+for+Israeli+Intelligence%3A+100%2C000+Classified+Emails+of+Mossad%E2%80%99s+Ex-Deputy+Director+S) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-16 | [`Stryker Hit by Unprecedented 12-Petabyte Data Wipe`](https://google.com/search?q=Stryker+Hit+by+Unprecedented+12-Petabyte+Data+Wipe) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-15 | [`Executive Aviation`](https://google.com/search?q=Executive+Aviation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-15 | [`Laura Gilinski Hacked`](https://google.com/search?q=Laura+Gilinski+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2026-03-14 | [`No Place to Hide: Senior Navy Officers’ Identities Now Public`](https://google.com/search?q=No+Place+to+Hide%3A+Senior+Navy+Officers%E2%80%99+Identities+Now+Public) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
