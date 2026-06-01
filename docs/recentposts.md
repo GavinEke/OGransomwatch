@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-06-01 | [`landkreis-limburg-weilburg.de`](https://google.com/search?q=landkreis-limburg-weilburg.de) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
+| 2026-06-01 | [`Hightower Communications`](https://google.com/search?q=Hightower+Communications) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-06-01 | [`Digitall Graphics`](https://google.com/search?q=Digitall+Graphics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-30 | [`www.labexpress.com`](https://google.com/search?q=www.labexpress.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-29 | [`belimed.com`](https://google.com/search?q=belimed.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-28 | [`lawants`](https://google.com/search?q=lawants) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2026-03-17 | [`isosl.be`](https://google.com/search?q=isosl.be) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-17 | [`Vahid Offline Members`](https://google.com/search?q=Vahid+Offline+Members) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2026-03-17 | [`Who is VahidOnline?`](https://google.com/search?q=Who+is+VahidOnline%3F) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2026-03-17 | [`Mossad’s Secret Treasury Exposed: 50,000 Confidential Emails Leaked`](https://google.com/search?q=Mossad%E2%80%99s+Secret+Treasury+Exposed%3A+50%2C000+Confidential+Emails+Leaked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2026-03-17 | [`Noll and Tam Architects`](https://google.com/search?q=Noll+and+Tam+Architects) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2026-03-16 | [`mcquaidinjurylaw.com`](https://google.com/search?q=mcquaidinjurylaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
