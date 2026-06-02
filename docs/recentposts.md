@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-06-02 | [`tkgm.gov.tr`](https://google.com/search?q=tkgm.gov.tr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-06-01 | [`Champaign-Urbana Public Health District`](https://google.com/search?q=Champaign-Urbana+Public+Health+District) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-01 | [`Bradley law firm`](https://google.com/search?q=Bradley+law+firm) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-01 | [`School Facility Consultants`](https://google.com/search?q=School+Facility+Consultants) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-17 | [`Knight's Site Services`](https://google.com/search?q=Knight%27s+Site+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-17 | [`Gsolutionz`](https://google.com/search?q=Gsolutionz) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-17 | [`vanheyghenstaal.be`](https://google.com/search?q=vanheyghenstaal.be) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-03-17 | [`moccae.gov.ae`](https://google.com/search?q=moccae.gov.ae) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
