@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-06-03 | [`elections.mia.gov.am from WOLVES OF TURAN`](https://google.com/search?q=elections.mia.gov.am+from+WOLVES+OF+TURAN) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2026-06-03 | [`Geske Haus- und Versorgungstechnik GmbH`](https://google.com/search?q=Geske+Haus-+und+Versorgungstechnik+GmbH) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2026-06-03 | [`Oztugotomotiv`](https://google.com/search?q=Oztugotomotiv) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-06-03 | [`Colina Financial Advisors`](https://google.com/search?q=Colina+Financial+Advisors) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-02 | [`trrac.net`](https://google.com/search?q=trrac.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-02 | [`Stellar`](https://google.com/search?q=Stellar) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-06-02 | [`tkgm.gov.tr`](https://google.com/search?q=tkgm.gov.tr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2026-03-23 | [`JDV Products`](https://google.com/search?q=JDV+Products) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-19 | [`ENENSYS Technologies `](https://google.com/search?q=ENENSYS+Technologies+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-03-19 | [`airports.com.na`](https://google.com/search?q=airports.com.na) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-19 | [`Bonheure`](https://google.com/search?q=Bonheure) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-03-18 | [`Martyr Ali Larijani`](https://google.com/search?q=Martyr+Ali+Larijani) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2026-03-17 | [`doghairinc.com`](https://google.com/search?q=doghairinc.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-03-17 | [`Knight's Site Services`](https://google.com/search?q=Knight%27s+Site+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
