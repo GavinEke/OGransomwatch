@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-06-04 | [`Stuga Machinery`](https://google.com/search?q=Stuga+Machinery) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-04 | [`pdcbodynits`](https://google.com/search?q=pdcbodynits) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-04 | [`Sicol`](https://google.com/search?q=Sicol) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-06-04 | [`CUSTOMSIGN`](https://google.com/search?q=CUSTOMSIGN) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-24 | [`Pinnacle`](https://google.com/search?q=Pinnacle) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-24 | [`Capital Wholesale Drug`](https://google.com/search?q=Capital+Wholesale+Drug) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-24 | [`Block Engineering`](https://google.com/search?q=Block+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-24 | [`Ascent Asset Group`](https://google.com/search?q=Ascent+Asset+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
