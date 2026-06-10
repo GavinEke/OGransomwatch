@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-06-10 | [`Rainbow Distributors USA`](https://google.com/search?q=Rainbow+Distributors+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-06-10 | [`Mundt and Associates`](https://google.com/search?q=Mundt+and+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-10 | [`Cattani`](https://google.com/search?q=Cattani) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-06-10 | [`FIZA`](https://google.com/search?q=FIZA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-10 | [`Lösing Filtertechnik`](https://google.com/search?q=L%C3%B6sing+Filtertechnik) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-03-26 | [`ires.ma`](https://google.com/search?q=ires.ma) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-26 | [`iam.ma`](https://google.com/search?q=iam.ma) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-03-26 | [`2m.ma`](https://google.com/search?q=2m.ma) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-03-26 | [`www.davidhelfandlaw.com`](https://google.com/search?q=www.davidhelfandlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-26 | [`dpwh.gov.ph`](https://google.com/search?q=dpwh.gov.ph) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
