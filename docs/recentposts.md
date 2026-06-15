@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-06-15 | [`3`](https://google.com/search?q=3) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-11 | [`Signazon_USA`](https://google.com/search?q=Signazon_USA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-11 | [`DISCOLABINDU`](https://google.com/search?q=DISCOLABINDU) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-11 | [`fineconsulting`](https://google.com/search?q=fineconsulting) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-30 | [`Conveyors, Inc.`](https://google.com/search?q=Conveyors%2C+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-29 | [`Greenology Products`](https://google.com/search?q=Greenology+Products) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-27 | [`meridenct.gov`](https://google.com/search?q=meridenct.gov) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-26 | [`TPIS Industrial Services`](https://google.com/search?q=TPIS+Industrial+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
