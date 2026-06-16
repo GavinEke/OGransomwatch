@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-06-16 | [`jasperplastics.info`](https://google.com/search?q=jasperplastics.info) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-06-16 | [`Promepla`](https://google.com/search?q=Promepla) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-06-16 | [` Pyramid `](https://google.com/search?q=+Pyramid+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-06-16 | [`framesiprofessional.com`](https://google.com/search?q=framesiprofessional.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-16 | [`ECOVACS`](https://google.com/search?q=ECOVACS) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-03-30 | [`Kivells`](https://google.com/search?q=Kivells) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-30 | [`Dock Pros`](https://google.com/search?q=Dock+Pros) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-03-30 | [`Colorado Construction`](https://google.com/search?q=Colorado+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-30 | [`Brokk`](https://google.com/search?q=Brokk) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-03-30 | [`Ampex Data Systems`](https://google.com/search?q=Ampex+Data+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
