@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-06-18 | [`Lawson Roofing`](https://google.com/search?q=Lawson+Roofing) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-06-18 | [`neuwoges.de`](https://google.com/search?q=neuwoges.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-18 | [`Horizon Family Medical Group`](https://google.com/search?q=Horizon+Family+Medical+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-17 | [`eurOptimum`](https://google.com/search?q=eurOptimum) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-03-31 | [`delapazlaw.com`](https://google.com/search?q=delapazlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-30 | [`domingogarcia.com`](https://google.com/search?q=domingogarcia.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-30 | [`millersteelelaw.com`](https://google.com/search?q=millersteelelaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-30 | [`barrypgoldberg.com`](https://google.com/search?q=barrypgoldberg.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
