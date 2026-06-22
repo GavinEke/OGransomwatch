@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-06-22 | [`[DISCLOSED]Karl Chevrolet`](https://google.com/search?q=%5BDISCLOSED%5DKarl+Chevrolet) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-06-21 | [`jktornel`](https://google.com/search?q=jktornel) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-20 | [`Newspaper Media Group`](https://google.com/search?q=Newspaper+Media+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-18 | [`Lawson Roofing`](https://google.com/search?q=Lawson+Roofing) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-04-02 | [`irpea.it`](https://google.com/search?q=irpea.it) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-01 | [`Lincoln Property LLC`](https://google.com/search?q=Lincoln+Property+LLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-03-31 | [`submissionfinance.com`](https://google.com/search?q=submissionfinance.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-03-31 | [`delapazlaw.com`](https://google.com/search?q=delapazlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
