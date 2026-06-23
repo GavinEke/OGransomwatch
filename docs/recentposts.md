@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-06-23 | [`smarty.arpinet.am`](https://google.com/search?q=smarty.arpinet.am) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-06-23 | [`belpointeasset.com \ belpointe.com`](https://google.com/search?q=belpointeasset.com+%5C+belpointe.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-22 | [`[DISCLOSED]Karl Chevrolet`](https://google.com/search?q=%5BDISCLOSED%5DKarl+Chevrolet) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-06-21 | [`jktornel`](https://google.com/search?q=jktornel) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-04-03 | [`roodtrucking.com`](https://google.com/search?q=roodtrucking.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-02 | [`VLawyers`](https://google.com/search?q=VLawyers) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-02 | [`irpea.it`](https://google.com/search?q=irpea.it) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-01 | [`Lincoln Property LLC`](https://google.com/search?q=Lincoln+Property+LLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
