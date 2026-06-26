@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-06-26 | [`Benchmark Industrial Supply`](https://google.com/search?q=Benchmark+Industrial+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-25 | [`Life Bridges`](https://google.com/search?q=Life+Bridges) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-25 | [`GSP Crop Science Pvt`](https://google.com/search?q=GSP+Crop+Science+Pvt) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-24 | [`horizoneye.com`](https://google.com/search?q=horizoneye.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-04-04 | [`Sokolin`](https://google.com/search?q=Sokolin) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-04-04 | [`Barnes Solicitors LLP`](https://google.com/search?q=Barnes+Solicitors+LLP) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-04-04 | [`Community Connections`](https://google.com/search?q=Community+Connections) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-03 | [`coronapa.com`](https://google.com/search?q=coronapa.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
