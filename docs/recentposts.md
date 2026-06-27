@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-06-27 | [`Kuhnline`](https://google.com/search?q=Kuhnline) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-06-27 | [`J&J Gaming`](https://google.com/search?q=J%26J+Gaming) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-26 | [`callhorton.com`](https://google.com/search?q=callhorton.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-26 | [`theswansonlawgroup.com`](https://google.com/search?q=theswansonlawgroup.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-26 | [`johndufourlaw.com`](https://google.com/search?q=johndufourlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-04-07 | [`pacificwestinjury.com`](https://google.com/search?q=pacificwestinjury.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-07 | [`Brooklands of Mornington`](https://google.com/search?q=Brooklands+of+Mornington) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-04-06 | [`Morphosis`](https://google.com/search?q=Morphosis) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-04-06 | [`Crystal Point`](https://google.com/search?q=Crystal+Point) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-04-06 | [`[DISCLOSED]Bioptik Technology`](https://google.com/search?q=%5BDISCLOSED%5DBioptik+Technology) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
