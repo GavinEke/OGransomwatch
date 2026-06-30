@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-06-30 | [`Western Construction`](https://google.com/search?q=Western+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-29 | [`Bonacio`](https://google.com/search?q=Bonacio) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-06-29 | [`viennaairport.com (SOLD TO 3RD PARTY)`](https://google.com/search?q=viennaairport.com+%28SOLD+TO+3RD+PARTY%29) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-06-29 | [`GDN AR(Dorinka)`](https://google.com/search?q=GDN+AR%28Dorinka%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-04-09 | [`asunim.co`](https://google.com/search?q=asunim.co) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-09 | [`centrum.sk`](https://google.com/search?q=centrum.sk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-08 | [`rxm.com.au`](https://google.com/search?q=rxm.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-07 | [`[DISCLOSED]Accelerated Services`](https://google.com/search?q=%5BDISCLOSED%5DAccelerated+Services) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
