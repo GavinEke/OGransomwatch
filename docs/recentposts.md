@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-02 | [`kliknklik.com`](https://google.com/search?q=kliknklik.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-02 | [`X-Copper Professional`](https://google.com/search?q=X-Copper+Professional) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2026-07-02 | [`Salters propane`](https://google.com/search?q=Salters+propane) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-07-02 | [`Colorado Rehabilitation and Occupational Medicine`](https://google.com/search?q=Colorado+Rehabilitation+and+Occupational+Medicine) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-04-11 | [`mastercom.com.au`](https://google.com/search?q=mastercom.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-11 | [`www.campbell.edu`](https://google.com/search?q=www.campbell.edu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-10 | [`wright-ryan.com`](https://google.com/search?q=wright-ryan.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-10 | [`martek co ltd.`](https://google.com/search?q=martek+co+ltd.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
