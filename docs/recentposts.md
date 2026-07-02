@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-02 | [`ritavo.com`](https://google.com/search?q=ritavo.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2026-07-02 | [`holidaypalace.com`](https://google.com/search?q=holidaypalace.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2026-07-02 | [`tricountyhs.org`](https://google.com/search?q=tricountyhs.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-07-02 | [`tambasa.com`](https://google.com/search?q=tambasa.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-07-02 | [`hamilton-eye.com`](https://google.com/search?q=hamilton-eye.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-07-02 | [`ezortea.com.br`](https://google.com/search?q=ezortea.com.br) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-07-02 | [`carvalima.com.br`](https://google.com/search?q=carvalima.com.br) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-07-02 | [`acworth-ga.gov`](https://google.com/search?q=acworth-ga.gov) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-02 | [`kliknklik.com`](https://google.com/search?q=kliknklik.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-02 | [`X-Copper Professional`](https://google.com/search?q=X-Copper+Professional) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2026-07-02 | [`Salters propane`](https://google.com/search?q=Salters+propane) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2026-04-13 | [`whessoe.com.my`](https://google.com/search?q=whessoe.com.my) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-13 | [`olpro.com.my`](https://google.com/search?q=olpro.com.my) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-13 | [`phb.com`](https://google.com/search?q=phb.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-04-13 | [`egov.sc`](https://google.com/search?q=egov.sc) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-04-13 | [`Transaction Packing Inc`](https://google.com/search?q=Transaction+Packing+Inc) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-04-12 | [`bdac.com.au`](https://google.com/search?q=bdac.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-12 | [`Straten & Kollegen`](https://google.com/search?q=Straten+%26+Kollegen) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-11 | [`morgancountyga.gov`](https://google.com/search?q=morgancountyga.gov) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-11 | [`mastercom.com.au`](https://google.com/search?q=mastercom.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-11 | [`www.campbell.edu`](https://google.com/search?q=www.campbell.edu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-10 | [`wright-ryan.com`](https://google.com/search?q=wright-ryan.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
