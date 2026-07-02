@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-02 | [`Colorado Rehabilitation and Occupational Medicine`](https://google.com/search?q=Colorado+Rehabilitation+and+Occupational+Medicine) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-01 | [`https://www.roundshield.com/`](https://google.com/search?q=https%3A%2F%2Fwww.roundshield.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-30 | [`Western Construction`](https://google.com/search?q=Western+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-29 | [`Bonacio`](https://google.com/search?q=Bonacio) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-04-10 | [`martek co ltd.`](https://google.com/search?q=martek+co+ltd.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-10 | [`Kannarr Eye Care`](https://google.com/search?q=Kannarr+Eye+Care) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-09 | [`asunim.co`](https://google.com/search?q=asunim.co) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-04-09 | [`centrum.sk`](https://google.com/search?q=centrum.sk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
