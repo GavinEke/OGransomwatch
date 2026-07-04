@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-04 | [`Silvestri & Associates Insurance`](https://google.com/search?q=Silvestri+%26+Associates+Insurance) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-07-04 | [`Locati Architects`](https://google.com/search?q=Locati+Architects) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-07-03 | [`flazio.com`](https://google.com/search?q=flazio.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-03 | [`oakparkmi.gov`](https://google.com/search?q=oakparkmi.gov) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-02 | [`[EVIDENCE]Prince George County`](https://google.com/search?q=%5BEVIDENCE%5DPrince+George+County) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-04-17 | [`Winnitex (Americas) Limited`](https://google.com/search?q=Winnitex+%28Americas%29+Limited) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-04-16 | [`Millennium Dental Technologies`](https://google.com/search?q=Millennium+Dental+Technologies) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2026-04-16 | [`bgcsnv.org`](https://google.com/search?q=bgcsnv.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-16 | [`treelawoffice.com`](https://google.com/search?q=treelawoffice.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-14 | [`Asaniverko`](https://google.com/search?q=Asaniverko) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
