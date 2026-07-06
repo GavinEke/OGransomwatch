@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-06 | [`vicentetrapani.com`](https://google.com/search?q=vicentetrapani.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2026-07-06 | [`azarestan.com`](https://google.com/search?q=azarestan.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-06 | [`westernint.com`](https://google.com/search?q=westernint.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-06 | [`aydeniz.com`](https://google.com/search?q=aydeniz.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-06 | [`[DISCLOSED]Prince George County`](https://google.com/search?q=%5BDISCLOSED%5DPrince+George+County) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-04-22 | [`teamster773.org`](https://google.com/search?q=teamster773.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-22 | [`krwlawyers.com`](https://google.com/search?q=krwlawyers.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-21 | [`Jiangsu Zenergy Battery Technologies Group Co., Ltd.`](https://google.com/search?q=Jiangsu+Zenergy+Battery+Technologies+Group+Co.%2C+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-04-20 | [`rheem`](https://google.com/search?q=rheem) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-17 | [`alupco.com`](https://google.com/search?q=alupco.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
