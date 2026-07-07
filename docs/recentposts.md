@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-07 | [`Fitcrunch`](https://google.com/search?q=Fitcrunch) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2026-07-07 | [`tecnocurva.com.br`](https://google.com/search?q=tecnocurva.com.br) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-07-07 | [`samberger24.de`](https://google.com/search?q=samberger24.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-06 | [`vicentetrapani.com`](https://google.com/search?q=vicentetrapani.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-06 | [`azarestan.com`](https://google.com/search?q=azarestan.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-06 | [`westernint.com`](https://google.com/search?q=westernint.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2026-04-24 | [`Dorotea Sweden`](https://google.com/search?q=Dorotea+Sweden) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-24 | [`Star Energy Geothermal Salak`](https://google.com/search?q=Star+Energy+Geothermal+Salak) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-04-22 | [`trugreen.com`](https://google.com/search?q=trugreen.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-22 | [`teamster773.org`](https://google.com/search?q=teamster773.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-22 | [`krwlawyers.com`](https://google.com/search?q=krwlawyers.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-21 | [`Jiangsu Zenergy Battery Technologies Group Co., Ltd.`](https://google.com/search?q=Jiangsu+Zenergy+Battery+Technologies+Group+Co.%2C+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
