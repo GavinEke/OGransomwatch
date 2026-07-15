@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-15 | [`Fidelity Services Group`](https://google.com/search?q=Fidelity+Services+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-07-14 | [`Golden Glasko & Associates`](https://google.com/search?q=Golden+Glasko+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-14 | [`VantagePoint Management & Autoclear`](https://google.com/search?q=VantagePoint+Management+%26+Autoclear) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-13 | [`Turbosoft`](https://google.com/search?q=Turbosoft) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-04-27 | [`arrawdah.org.sa`](https://google.com/search?q=arrawdah.org.sa) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-27 | [`ldisolutions.com`](https://google.com/search?q=ldisolutions.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-27 | [`Selex - Gruppo Commerciale`](https://google.com/search?q=Selex+-+Gruppo+Commerciale) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-27 | [`BELFOR`](https://google.com/search?q=BELFOR) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
