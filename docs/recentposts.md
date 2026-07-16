@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-16 | [`asa-international.com `](https://google.com/search?q=asa-international.com+) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-07-16 | [`Wring Group`](https://google.com/search?q=Wring+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-07-16 | [`Svensk Direktreklam`](https://google.com/search?q=Svensk+Direktreklam) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-07-16 | [`Boston Electric and Telephone`](https://google.com/search?q=Boston+Electric+and+Telephone) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-07-16 | [`Andorra Life`](https://google.com/search?q=Andorra+Life) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-07-16 | [`AG Scholtes`](https://google.com/search?q=AG+Scholtes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-07-16 | [`Megawork`](https://google.com/search?q=Megawork) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-07-16 | [`https://www.statebankofnauvoo.com/`](https://google.com/search?q=https%3A%2F%2Fwww.statebankofnauvoo.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-16 | [`FITcrunch`](https://google.com/search?q=FITcrunch) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2026-04-28 | [`www.durable-tech.com`](https://google.com/search?q=www.durable-tech.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-28 | [`sumacinc.com`](https://google.com/search?q=sumacinc.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-28 | [`Cybersecurity Vendor`](https://google.com/search?q=Cybersecurity+Vendor) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-04-27 | [`medikaplaza.com`](https://google.com/search?q=medikaplaza.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-04-27 | [`jgpetrucci.com`](https://google.com/search?q=jgpetrucci.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-04-27 | [`Stelia North America`](https://google.com/search?q=Stelia+North+America) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2026-04-27 | [`grupo-principal.com`](https://google.com/search?q=grupo-principal.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-04-27 | [`dunav.com`](https://google.com/search?q=dunav.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-04-27 | [`cofaco.com`](https://google.com/search?q=cofaco.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
