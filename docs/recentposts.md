@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-16 | [`https://www.statebankofnauvoo.com/`](https://google.com/search?q=https%3A%2F%2Fwww.statebankofnauvoo.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-16 | [`FITcrunch`](https://google.com/search?q=FITcrunch) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-07-15 | [`Fidelity Services Group`](https://google.com/search?q=Fidelity+Services+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-07-14 | [`Golden Glasko & Associates`](https://google.com/search?q=Golden+Glasko+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-04-27 | [`dunav.com`](https://google.com/search?q=dunav.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-27 | [`cofaco.com`](https://google.com/search?q=cofaco.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-04-27 | [`arrawdah.org.sa`](https://google.com/search?q=arrawdah.org.sa) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-04-27 | [`ldisolutions.com`](https://google.com/search?q=ldisolutions.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
