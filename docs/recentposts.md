@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-17 | [`Kyokuto Kaihatsu Kogyo`](https://google.com/search?q=Kyokuto+Kaihatsu+Kogyo) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-16 | [`asa-international.com `](https://google.com/search?q=asa-international.com+) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-16 | [`Wring Group`](https://google.com/search?q=Wring+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-07-16 | [`Svensk Direktreklam`](https://google.com/search?q=Svensk+Direktreklam) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-04-29 | [`https://www.fulcrumre.com/`](https://google.com/search?q=https%3A%2F%2Fwww.fulcrumre.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-28 | [`www.durable-tech.com`](https://google.com/search?q=www.durable-tech.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-28 | [`sumacinc.com`](https://google.com/search?q=sumacinc.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-28 | [`Cybersecurity Vendor`](https://google.com/search?q=Cybersecurity+Vendor) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
