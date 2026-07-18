@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-18 | [`vedan corp`](https://google.com/search?q=vedan+corp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-07-18 | [`v-silicon.com`](https://google.com/search?q=v-silicon.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-07-18 | [`reatile.co.za`](https://google.com/search?q=reatile.co.za) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-07-18 | [`pokka.co`](https://google.com/search?q=pokka.co) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-07-18 | [`V&P Nurseries`](https://google.com/search?q=V%26P+Nurseries) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-07-18 | [`FAST.COM.PH`](https://google.com/search?q=FAST.COM.PH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-07-18 | [`D.MAG New Material Technology Co., Ltd. Taiwan Giant`](https://google.com/search?q=D.MAG+New+Material+Technology+Co.%2C+Ltd.+Taiwan+Giant) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-17 | [`Kyokuto Kaihatsu Kogyo`](https://google.com/search?q=Kyokuto+Kaihatsu+Kogyo) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-16 | [`asa-international.com `](https://google.com/search?q=asa-international.com+) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-16 | [`Wring Group`](https://google.com/search?q=Wring+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2026-05-04 | [`https://www.wilkemgroup.com/`](https://google.com/search?q=https%3A%2F%2Fwww.wilkemgroup.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-02 | [`northshoreenv.com`](https://google.com/search?q=northshoreenv.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-04-30 | [` ENENSYS Technologies `](https://google.com/search?q=+ENENSYS+Technologies+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2026-04-30 | [`Arban & Carosi`](https://google.com/search?q=Arban+%26+Carosi) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-29 | [`Iowa Spring Manufacturing & Sales`](https://google.com/search?q=Iowa+Spring+Manufacturing+%26+Sales) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-29 | [`Karl Chevrolet`](https://google.com/search?q=Karl+Chevrolet) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-04-29 | [`nbd3pl.com`](https://google.com/search?q=nbd3pl.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-29 | [`https://www.fulcrumre.com/`](https://google.com/search?q=https%3A%2F%2Fwww.fulcrumre.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-28 | [`www.durable-tech.com`](https://google.com/search?q=www.durable-tech.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-04-28 | [`sumacinc.com`](https://google.com/search?q=sumacinc.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
