@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-20 | [`Ali-Monde`](https://google.com/search?q=Ali-Monde) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-18 | [`bluebellgroup.com`](https://google.com/search?q=bluebellgroup.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2026-07-18 | [`vedan corp`](https://google.com/search?q=vedan+corp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-18 | [`v-silicon.com`](https://google.com/search?q=v-silicon.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-05-05 | [`childplace.org`](https://google.com/search?q=childplace.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-04 | [`Johnson &amp; Johnson Innovative Medicine`](https://google.com/search?q=Johnson+%26amp%3B+Johnson+Innovative+Medicine) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-05-04 | [`https://www.wilkemgroup.com/`](https://google.com/search?q=https%3A%2F%2Fwww.wilkemgroup.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-05-02 | [`northshoreenv.com`](https://google.com/search?q=northshoreenv.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
