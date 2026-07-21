@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-21 | [`BiesSse Group`](https://google.com/search?q=BiesSse+Group) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-07-21 | [`DoAllTech`](https://google.com/search?q=DoAllTech) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-07-21 | [`Anpra SAS`](https://google.com/search?q=Anpra+SAS) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-07-20 | [`Ali-Monde`](https://google.com/search?q=Ali-Monde) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-05-05 | [`EXPEDITOR`](https://google.com/search?q=EXPEDITOR) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-05 | [`Erla Technologies SAS`](https://google.com/search?q=Erla+Technologies+SAS) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-05-05 | [`sanver.com.mx`](https://google.com/search?q=sanver.com.mx) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-05-05 | [`childplace.org`](https://google.com/search?q=childplace.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
