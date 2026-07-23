@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-23 | [`Indigo Energy`](https://google.com/search?q=Indigo+Energy) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2026-07-22 | [`Tax MT`](https://google.com/search?q=Tax+MT) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-07-22 | [`Kreysler & Associates`](https://google.com/search?q=Kreysler+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-07-21 | [`Nichirei`](https://google.com/search?q=Nichirei) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-05-07 | [`cmswpc.com`](https://google.com/search?q=cmswpc.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-07 | [`Trellix (McAfee & FireEye)`](https://google.com/search?q=Trellix+%28McAfee+%26+FireEye%29) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-05-07 | [`lafj.org`](https://google.com/search?q=lafj.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-05-06 | [`Aerodiagnostics`](https://google.com/search?q=Aerodiagnostics) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
