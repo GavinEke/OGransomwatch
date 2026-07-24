@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-24 | [`dgcement.com`](https://google.com/search?q=dgcement.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-24 | [`autismuslink.ch`](https://google.com/search?q=autismuslink.ch) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-23 | [`cabincreekhealth.com`](https://google.com/search?q=cabincreekhealth.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-23 | [`The DeBruler`](https://google.com/search?q=The+DeBruler) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-05-07 | [`egnyte.com`](https://google.com/search?q=egnyte.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-07 | [`earthsystems.com.au earthsystemseurope.com`](https://google.com/search?q=earthsystems.com.au+earthsystemseurope.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-07 | [`autorisk.org`](https://google.com/search?q=autorisk.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-05-07 | [`K & E Distributing`](https://google.com/search?q=K+%26+E+Distributing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
