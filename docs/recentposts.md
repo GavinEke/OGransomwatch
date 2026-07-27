@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-27 | [`takethehop.com`](https://google.com/search?q=takethehop.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-26 | [`healthlawadvocates.org`](https://google.com/search?q=healthlawadvocates.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-25 | [`Yourway Transportation`](https://google.com/search?q=Yourway+Transportation) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2026-07-24 | [`dgcement.com`](https://google.com/search?q=dgcement.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-05-10 | [`https://sibillacapital.com/`](https://google.com/search?q=https%3A%2F%2Fsibillacapital.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-10 | [`lopezlawfl.com`](https://google.com/search?q=lopezlawfl.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-08 | [`Calsoft Inc`](https://google.com/search?q=Calsoft+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-05-07 | [`egnyte.com`](https://google.com/search?q=egnyte.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
