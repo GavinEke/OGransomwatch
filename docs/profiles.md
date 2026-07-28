@@ -2112,7 +2112,7 @@ _parsing : `enabled`_
 | none | False | 2 | 00:00 01/05/2021 | `rgleak7op734elep.onion` |
 | This site has been seized | False | 3 | 20:22 27/07/2026 | `rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` |
 | none | False | 2 | 00:00 01/05/2021 | `p6o7m73ujalhgkiv.onion` |
-| This site has been seized | True | 3 | 22:08 27/07/2026 | `ragnarnwvli32xnmwudsvhbl7klzmofxeylyhcqfc5ifx5mbybq3ekqd.onion` |
+| This site has been seized | True | 3 | 00:02 28/07/2026 | `ragnarnwvli32xnmwudsvhbl7klzmofxeylyhcqfc5ifx5mbybq3ekqd.onion` |
 
 | post | date |
 |---|---|
@@ -2253,7 +2253,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `ekbgzchl6x2ias37.onion` |
-| Access Queue | True | 3 | 22:08 27/07/2026 | `santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` |
+| Access Queue | True | 3 | 00:02 28/07/2026 | `santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` |
 | TORRENT - CL0P^_- LEAKS | False | 3 | 20:07 15/07/2024 | `toznnag5o3ambca56s2yacteu7q7x2avrfherzmz4nmujrjuib4iusad.onion` |
 
 | post | date |
@@ -6207,7 +6207,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| -*- CRYP70N1C0D3 Team -*- | True | 3 | 22:13 27/07/2026 | `7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion` |
+| -*- CRYP70N1C0D3 Team -*- | False | 3 | 22:13 27/07/2026 | `7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion` |
 
 | post | date |
 |---|---|
@@ -7137,7 +7137,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | ©RansomHouse | False | 3 | 20:57 01/10/2022 | `xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion` |
-| none | False | 3 | 00:01 27/07/2026 | `zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` |
+| 502 Bad Gateway | True | 3 | 00:11 28/07/2026 | `zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` |
 
 | post | date |
 |---|---|
@@ -7430,7 +7430,7 @@ _`pkey: 6A3OUL5IALGWJYQ2C53V7WOTVU7SKZYJ6MHXHKTLVUBPVZTEKVFA`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| LockBit BLOG | True | 3 | 22:13 27/07/2026 | `lockbit3753ekiocyo5epmpy6klmejchjtzddoekjlnt6mu3qh4de2id.onion` |
+| LockBit BLOG | True | 3 | 00:12 28/07/2026 | `lockbit3753ekiocyo5epmpy6klmejchjtzddoekjlnt6mu3qh4de2id.onion` |
 | LockBit BLOG | False | 3 | 21:33 06/02/2026 | `lockbit3g3ohd3katajf6zaehxz4h4cnhmz5t735zpltywhwpc6oy3id.onion` |
 | LockBit BLOG | False | 3 | 21:34 06/02/2026 | `lockbit3olp7oetlc4tl5zydnoluphh7fvdt5oa6arcp2757r7xkutid.onion` |
 | LockBit BLOG | False | 3 | 21:34 06/02/2026 | `lockbit435xk3ki62yun7z5nhwz6jyjdp2c64j5vge536if2eny3gtid.onion` |
@@ -10347,7 +10347,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | 0mega - Blog | False | 3 | 20:21 29/05/2025 | `omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion` |
-| 0mega.cc | True | 0 | 22:20 27/07/2026 | `0mega.cc` |
+| 0mega.cc | True | 0 | 00:19 28/07/2026 | `0mega.cc` |
 | 0mega - Blog | False | 3 | 18:21 26/01/2025 | `omegalo4jci44dj2ww6ioppevssjqj7kovfd3nn7oyq4byxbbqmf5cid.onion` |
 
 | post | date |
@@ -10381,30 +10381,30 @@ _`fs=fileserver`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| LockBit - Leaked | True | 3 | 22:20 27/07/2026 | `lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion` |
-| LockBit - Leaked | True | 3 | 22:20 27/07/2026 | `lockbit7z2mmiz3ryxafn5kapbvbbiywsxwovasfkgf5dqqp5kxlajad.onion` |
-| LockBit - Leaked | False | 3 | 11:31 27/07/2026 | `lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion` |
-| LockBit - Leaked | True | 3 | 22:21 27/07/2026 | `lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion` |
-| LockBit - Leaked | True | 3 | 22:21 27/07/2026 | `lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion` |
-| LockBit - Leaked | True | 3 | 22:21 27/07/2026 | `lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion` |
-| LockBit - Leaked | True | 3 | 22:21 27/07/2026 | `lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion` |
-| LockBit - Leaked | False | 3 | 17:08 27/07/2026 | `lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd.onion` |
-| LockBit - Leaked | True | 3 | 22:22 27/07/2026 | `lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion` |
-| LockBit - Leaked | True | 3 | 22:22 27/07/2026 | `lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion` |
-| LockBit - Leaked | True | 3 | 22:22 27/07/2026 | `lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion` |
-| LockBit - Leaked | True | 3 | 22:22 27/07/2026 | `lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion` |
+| LockBit - Leaked | True | 3 | 00:19 28/07/2026 | `lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion` |
+| LockBit - Leaked | True | 3 | 00:19 28/07/2026 | `lockbit7z2mmiz3ryxafn5kapbvbbiywsxwovasfkgf5dqqp5kxlajad.onion` |
+| LockBit - Leaked | True | 3 | 00:19 28/07/2026 | `lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion` |
+| LockBit - Leaked | True | 3 | 00:19 28/07/2026 | `lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion` |
+| LockBit - Leaked | True | 3 | 00:19 28/07/2026 | `lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion` |
+| LockBit - Leaked | True | 3 | 00:19 28/07/2026 | `lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion` |
+| LockBit - Leaked | True | 3 | 00:19 28/07/2026 | `lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion` |
+| LockBit - Leaked | True | 3 | 00:20 28/07/2026 | `lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd.onion` |
+| LockBit - Leaked | True | 3 | 00:20 28/07/2026 | `lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion` |
+| LockBit - Leaked | False | 3 | 22:22 27/07/2026 | `lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion` |
+| LockBit - Leaked | True | 3 | 00:20 28/07/2026 | `lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion` |
+| LockBit - Leaked | True | 3 | 00:20 28/07/2026 | `lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion` |
 | LockBit - Leaked | False | 3 | 03:07 13/07/2026 | `lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion` |
-| LockBit - Leaked | False | 3 | 20:35 27/07/2026 | `lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion` |
-| LockBit - Leaked | False | 3 | 20:35 27/07/2026 | `lockbit7z55tuwaflw2c7torcryobdvhkcgvivhflyndyvcrexafssad.onion` |
-| LockBit - Leaked | True | 3 | 22:23 27/07/2026 | `lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion` |
-| LockBit - Leaked | True | 3 | 22:23 27/07/2026 | `lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion` |
+| LockBit - Leaked | True | 3 | 00:21 28/07/2026 | `lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion` |
+| LockBit - Leaked | True | 3 | 00:21 28/07/2026 | `lockbit7z55tuwaflw2c7torcryobdvhkcgvivhflyndyvcrexafssad.onion` |
+| LockBit - Leaked | False | 3 | 22:23 27/07/2026 | `lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion` |
+| LockBit - Leaked | True | 3 | 00:21 28/07/2026 | `lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion` |
 | LockBit - Leaked | False | 3 | 20:36 27/07/2026 | `lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd.onion` |
-| LockBit - Leaked | True | 3 | 22:24 27/07/2026 | `lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd.onion` |
-| LockBit - Leaked | False | 3 | 20:36 27/07/2026 | `lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid.onion` |
-| LockBit - Leaked | True | 3 | 22:24 27/07/2026 | `lockbit7z6dqziutocr43onmvpth32njp4abfocfauk2belljjpobxyd.onion` |
+| LockBit - Leaked | False | 3 | 22:24 27/07/2026 | `lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd.onion` |
+| LockBit - Leaked | True | 3 | 00:22 28/07/2026 | `lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid.onion` |
+| LockBit - Leaked | False | 3 | 22:24 27/07/2026 | `lockbit7z6dqziutocr43onmvpth32njp4abfocfauk2belljjpobxyd.onion` |
 | LockBit - Leaked | False | 3 | 20:36 27/07/2026 | `lockbit7z6f3gu6rjvrysn5gjbsqj3hk3bvsg64ns6pjldqr2xhvhsyd.onion` |
-| LockBit - Leaked | True | 3 | 22:24 27/07/2026 | `lockbit7z6qinyhhmibvycu5kwmcvgrbpvtztkvvmdce5zwtucaeyrqd.onion` |
-| LockBit - Leaked | True | 3 | 22:24 27/07/2026 | `lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd.onion` |
+| LockBit - Leaked | True | 3 | 00:23 28/07/2026 | `lockbit7z6qinyhhmibvycu5kwmcvgrbpvtztkvvmdce5zwtucaeyrqd.onion` |
+| LockBit - Leaked | True | 3 | 00:23 28/07/2026 | `lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd.onion` |
 
 | post | date |
 |---|---|
@@ -10530,7 +10530,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 3 | 21:25 10/11/2022 | `232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion` |
-| Data Leak | True | 3 | 22:24 27/07/2026 | `7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` |
+| Data Leak | True | 3 | 00:23 28/07/2026 | `7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` |
 
 | post | date |
 |---|---|
@@ -10652,7 +10652,7 @@ _parsing : `enabled`_
 |---|---|---|---|---|
 | Qilin | False | 3 | 12:58 17/02/2023 | `ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion` |
 | Blog Access Queue | False | 3 | 10:30 10/05/2025 | `kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion` |
-| Qilin blog | True | 3 | 22:25 27/07/2026 | `ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion` |
+| Qilin blog | True | 3 | 00:23 28/07/2026 | `ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion` |
 
 | post | date |
 |---|---|
@@ -11378,7 +11378,7 @@ _parsing : `enabled`_
 | PLAY NEWS | False | 3 | 21:54 09/05/2026 | `k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` |
 | PLAY NEWS | False | 3 | 21:54 09/05/2026 | `mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` |
 | PLAY NEWS | False | 3 | 08:23 30/12/2024 | `k7kg3jqzffsxe2z53jjx4goybvxu3a557kpsqakpwi6mrvfgcdo55tid.onion` |
-| PLAY NEWS | False | 3 | 20:37 27/07/2026 | `ipi4tiumgzjsym6pyuzrfqrtwskokxokqannmd6sa24shvr7x5kxdvqd.onion` |
+| PLAY NEWS | True | 3 | 00:24 28/07/2026 | `ipi4tiumgzjsym6pyuzrfqrtwskokxokqannmd6sa24shvr7x5kxdvqd.onion` |
 
 | post | date |
 |---|---|
@@ -12750,7 +12750,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 22:26 27/07/2026 | `3ev4metjirohtdpshsqlkrqcmxq6zu3d7obrdhglpy5jpbr7whmlfgqd.onion` |
+| none | True | 3 | 00:24 28/07/2026 | `3ev4metjirohtdpshsqlkrqcmxq6zu3d7obrdhglpy5jpbr7whmlfgqd.onion` |
 
 | post | date |
 |---|---|
@@ -12850,7 +12850,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 22:26 27/07/2026 | `blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion` |
+| none | True | 3 | 00:24 28/07/2026 | `blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion` |
 
 | post | date |
 |---|---|
@@ -12918,8 +12918,8 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 22:26 27/07/2026 | `akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion` |
-| / | True | 3 | 22:26 27/07/2026 | `akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion` |
+| none | True | 3 | 00:25 28/07/2026 | `akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion` |
+| / | True | 3 | 00:25 28/07/2026 | `akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion` |
 
 | post | date |
 |---|---|
@@ -14216,8 +14216,8 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 22:27 27/07/2026 | `rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion` |
-| none | True | 3 | 22:27 27/07/2026 | `rhysidafc6lm7qa2mkiukbezh7zuth3i4wof4mh2audkymscjm6yegad.onion` |
+| none | True | 3 | 00:26 28/07/2026 | `rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion` |
+| none | True | 3 | 00:26 28/07/2026 | `rhysidafc6lm7qa2mkiukbezh7zuth3i4wof4mh2audkymscjm6yegad.onion` |
 
 | post | date |
 |---|---|
@@ -15083,13 +15083,15 @@ _parsing : `enabled`_
 | Error Response Page | False | 0 | 08:33 25/07/2024 | `incbackend.top` |
 | Access Blocked | False | 0 | 01:53 22/02/2024 | `incapt.blog` |
 | INC Ransom | False | 0 | 18:28 05/07/2024 | `incapt.su` |
-| NULL | True | 3 | 22:27 27/07/2026 | `incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion` |
+| NULL | True | 3 | 00:26 28/07/2026 | `incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion` |
 | none | False | 3 | 12:32 15/07/2024 | `incbackfgm7qa7sioq7r4tdunoaqsvzjg5i7w46bhqlfonwjgiemr7qd.onion` |
-| none | True | 3 | 22:27 27/07/2026 | `incbacg6bfwtrlzwdbqc55gsfl763s3twdtwhp27dzuik6s6rwdcityd.onion` |
+| none | True | 3 | 00:26 28/07/2026 | `incbacg6bfwtrlzwdbqc55gsfl763s3twdtwhp27dzuik6s6rwdcityd.onion` |
 | none | False | 0 | 10:39 04/11/2025 | `incblog.su` |
 
 | post | date |
 |---|---|
+| `greenecountyga.gov` | 28/07/2026 |
+| `foundationstofreedom.org` | 28/07/2026 |
 | `takethehop.com` | 27/07/2026 |
 | `healthlawadvocates.org` | 26/07/2026 |
 | `autismuslink.ch` | 24/07/2026 |
@@ -15854,7 +15856,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Metaencryptor::Home | False | 3 | 17:15 27/07/2026 | `metacrptmytukkj7ajwjovdpjqzd7esg5v3sg344uzhigagpezcqlpyd.onion` |
+| Metaencryptor::Home | True | 3 | 00:26 28/07/2026 | `metacrptmytukkj7ajwjovdpjqzd7esg5v3sg344uzhigagpezcqlpyd.onion` |
 
 | post | date |
 |---|---|
@@ -16092,7 +16094,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Verify | True | 3 | 22:28 27/07/2026 | `threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion` |
+| Verify | True | 3 | 00:27 28/07/2026 | `threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion` |
 
 | post | date |
 |---|---|
@@ -16668,8 +16670,8 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 22:29 27/07/2026 | `z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion` |
-| DragonForce - Recovery | True | 3 | 22:29 27/07/2026 | `3pktcrcbmssvrnwe5skburdwe2h3v6ibdnn5kbjqihsg6eu6s6b7ryqd.onion` |
+| none | True | 3 | 00:27 28/07/2026 | `z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion` |
+| DragonForce - Recovery | True | 3 | 00:27 28/07/2026 | `3pktcrcbmssvrnwe5skburdwe2h3v6ibdnn5kbjqihsg6eu6s6b7ryqd.onion` |
 
 | post | date |
 |---|---|
@@ -16818,7 +16820,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | Just a moment... | False | 0 | 10:31 10/11/2024 | `malekteam.ac` |
-| 33 квадратных метра — дома из контейнеров | True | 0 | 22:29 27/07/2026 | `195.14.123.2` |
+| 33 квадратных метра — дома из контейнеров | True | 0 | 00:28 28/07/2026 | `195.14.123.2` |
 
 | post | date |
 |---|---|
@@ -17862,7 +17864,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Blog | False | 3 | 17:18 27/07/2026 | `mydatae2d63il5oaxxangwnid5loq2qmtsol2ozr6vtb7yfm5ypzo6id.onion` |
+| Blog | True | 3 | 00:28 28/07/2026 | `mydatae2d63il5oaxxangwnid5loq2qmtsol2ozr6vtb7yfm5ypzo6id.onion` |
 
 | post | date |
 |---|---|
@@ -17989,7 +17991,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Blackout Blog | True | 3 | 22:30 27/07/2026 | `black3gnkizshuynieigw6ejgpblb53mpasftzd6pydqpmq2vn2xf6yd.onion` |
+| Blackout Blog | True | 3 | 00:28 28/07/2026 | `black3gnkizshuynieigw6ejgpblb53mpasftzd6pydqpmq2vn2xf6yd.onion` |
 
 | post | date |
 |---|---|
@@ -18032,7 +18034,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | Kill Security 2.0 | False | 3 | 00:45 25/11/2024 | `kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion` |
-| none | False | 3 | 18:48 27/07/2026 | `ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion` |
+| none | True | 3 | 00:28 28/07/2026 | `ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion` |
 
 | post | date |
 |---|---|
@@ -18232,8 +18234,8 @@ _parsing : `disabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | DarkVault BLOG | False | 3 | 20:32 16/01/2025 | `mdhby62yvvg6sd5jmx5gsyucs7ynb5j45lvvdh4dsymg43puitu7tfid.onion` |
-| DarkVault | False | 3 | 18:49 27/07/2026 | `tx23pk4zw5qynq3tmfk2jz5zbel63p4nwvkheswze7r6gzxhzcbseyad.onion` |
-| DarkVault | False | 3 | 18:49 27/07/2026 | `5vphklgizbimeq5l4yt274p533fgirhqnjhjuppcp2ibteavmro5fzad.onion` |
+| DarkVault | True | 3 | 00:28 28/07/2026 | `tx23pk4zw5qynq3tmfk2jz5zbel63p4nwvkheswze7r6gzxhzcbseyad.onion` |
+| DarkVault | True | 3 | 00:28 28/07/2026 | `5vphklgizbimeq5l4yt274p533fgirhqnjhjuppcp2ibteavmro5fzad.onion` |
 
 | post | date |
 |---|---|
@@ -18375,7 +18377,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| EMBARGO | True | 3 | 22:32 27/07/2026 | `embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion` |
+| EMBARGO | True | 3 | 00:29 28/07/2026 | `embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion` |
 
 | post | date |
 |---|---|
@@ -18455,7 +18457,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| All data - Underground store | True | 3 | 22:32 27/07/2026 | `47glxkuxyayqrvugfumgsblrdagvrah7gttfscgzn56eyss5wg3uvmqd.onion` |
+| All data - Underground store | True | 3 | 00:29 28/07/2026 | `47glxkuxyayqrvugfumgsblrdagvrah7gttfscgzn56eyss5wg3uvmqd.onion` |
 
 | post | date |
 |---|---|
@@ -18492,7 +18494,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Space Bears  | True | 3 | 22:33 27/07/2026 | `5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion` |
+| Space Bears  | True | 3 | 00:29 28/07/2026 | `5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion` |
 
 | post | date |
 |---|---|
@@ -18719,7 +18721,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| A r c u s | False | 3 | 20:46 27/07/2026 | `arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion` |
+| A r c u s | True | 3 | 00:29 28/07/2026 | `arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion` |
 
 | post | date |
 |---|---|
@@ -18971,7 +18973,7 @@ _parsing : `disabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | Brain Cipher Client Area | False | 3 | 12:37 07/07/2024 | `mybmtbgd7aprdnw2ekxht5qap5daam2wch25coqerrq2zdioanob34ad.onion` |
-| Brain Cipher Dataleak | True | 3 | 22:34 27/07/2026 | `vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion` |
+| Brain Cipher Dataleak | True | 3 | 00:30 28/07/2026 | `vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion` |
 
 | post | date |
 |---|---|
@@ -19139,10 +19141,10 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| This Website Has Been Seized | True | 0 | 22:35 27/07/2026 | `handala-hack.to` |
+| This Website Has Been Seized | True | 0 | 00:31 28/07/2026 | `handala-hack.to` |
 | none | False | 3 | 09:30 30/03/2026 | `vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion` |
 | Handala | False | 0 | 00:00 01/05/2021 | `handala.cx` |
-| Redirecting... | True | 0 | 22:35 27/07/2026 | `handala.to` |
+| Redirecting... | True | 0 | 00:31 28/07/2026 | `handala.to` |
 
 | post | date |
 |---|---|
@@ -19396,7 +19398,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| 404 Not Found | True | 3 | 22:36 27/07/2026 | `6xdpj3sb5kekvq5ulym5qqmzsv6ektjgvpmajns3qrafgxtyxrhokfqd.onion` |
+| 404 Not Found | True | 3 | 00:32 28/07/2026 | `6xdpj3sb5kekvq5ulym5qqmzsv6ektjgvpmajns3qrafgxtyxrhokfqd.onion` |
 
 | post | date |
 |---|---|
@@ -19444,7 +19446,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Sign in | True | 0 | 22:36 27/07/2026 | `radar.ltd` |
+| Sign in | True | 0 | 00:32 28/07/2026 | `radar.ltd` |
 | none | False | 3 | 12:39 12/08/2024 | `e27z5kd2rjsern2gpgukhcioysqlfquxgf7rxpvcwepxl4lfc736piyd.onion` |
 
 | post | date |
@@ -19484,7 +19486,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Attention Required! - Cloudflare | True | 0 | 22:36 27/07/2026 | `nullbulge.se` |
+| Attention Required! - Cloudflare | True | 0 | 00:32 28/07/2026 | `nullbulge.se` |
 |  404 Not Found
  | False | 0 | 03:01 25/10/2024 | `nullbulge.co` |
 
@@ -19507,10 +19509,10 @@ _parsing : `disabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 0 | 04:33 26/05/2025 | `lynxblog.net` |
-| Lynx | True | 3 | 22:36 27/07/2026 | `lynxblogxstgzsarfyk2pvhdv45igghb4zmthnzmsipzeoduruz3xwqd.onion` |
-| Lynx | True | 3 | 22:36 27/07/2026 | `lynxblogxutufossaeawlij3j3uikaloll5ko6grzhkwdclrjngrfoid.onion` |
-| Lynx | True | 3 | 22:36 27/07/2026 | `lynxblogoxllth4b46cfwlop5pfj4s7dyv37yuy7qn2ftan6gd72hsad.onion` |
-| Lynx | True | 3 | 22:36 27/07/2026 | `lynxblogmx3rbiwg3rpj4nds25hjsnrwkpxt5gaznetfikz4gz2csyad.onion` |
+| Lynx | False | 3 | 22:36 27/07/2026 | `lynxblogxstgzsarfyk2pvhdv45igghb4zmthnzmsipzeoduruz3xwqd.onion` |
+| Lynx | True | 3 | 00:33 28/07/2026 | `lynxblogxutufossaeawlij3j3uikaloll5ko6grzhkwdclrjngrfoid.onion` |
+| Lynx | True | 3 | 00:33 28/07/2026 | `lynxblogoxllth4b46cfwlop5pfj4s7dyv37yuy7qn2ftan6gd72hsad.onion` |
+| Lynx | True | 3 | 00:33 28/07/2026 | `lynxblogmx3rbiwg3rpj4nds25hjsnrwkpxt5gaznetfikz4gz2csyad.onion` |
 
 | post | date |
 |---|---|
@@ -19826,7 +19828,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| NitroBlog | True | 3 | 22:37 27/07/2026 | `nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion` |
+| NitroBlog | True | 3 | 00:33 28/07/2026 | `nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion` |
 
 | post | date |
 |---|---|
@@ -19918,7 +19920,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Sarcoma Group | True | 3 | 22:37 27/07/2026 | `sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion` |
+| Sarcoma Group | True | 3 | 00:33 28/07/2026 | `sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion` |
 
 | post | date |
 |---|---|
@@ -19954,7 +19956,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Interlock | False | 3 | 20:49 27/07/2026 | `ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion` |
+| Interlock | True | 3 | 00:34 28/07/2026 | `ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion` |
 
 | post | date |
 |---|---|
@@ -19989,7 +19991,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Termite | True | 3 | 22:38 27/07/2026 | `termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion` |
+| Termite | True | 3 | 00:34 28/07/2026 | `termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion` |
 | none | False | 3 | 12:43 20/05/2026 | `termitelfvhutinrgpe55siktisskbqntkuq7ojidg42zh26avekq6qd.onion` |
 
 | post | date |
@@ -20114,13 +20116,13 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| BASHE | True | 3 | 22:38 27/07/2026 | `bashex7mokreyoxl6wlswxl4foi7okgs7or7aergnuiockuoq35yt3ad.onion` |
-| BASHE | True | 3 | 22:38 27/07/2026 | `basheqtvzqwz4vp6ks5lm2ocq7i6tozqgf6vjcasj4ezmsy4bkpshhyd.onion` |
-| BASHE | False | 3 | 20:51 27/07/2026 | `basherq53eniermxovo3bkduw5qqq5bkqcml3qictfmamgvmzovykyqd.onion` |
-| BASHE | True | 3 | 22:39 27/07/2026 | `basherykagbxoaiaxkgqhmhd5gbmedwb3di4ig3ouovziagosv4n77qd.onion` |
+| BASHE | True | 3 | 00:35 28/07/2026 | `bashex7mokreyoxl6wlswxl4foi7okgs7or7aergnuiockuoq35yt3ad.onion` |
+| BASHE | True | 3 | 00:35 28/07/2026 | `basheqtvzqwz4vp6ks5lm2ocq7i6tozqgf6vjcasj4ezmsy4bkpshhyd.onion` |
+| BASHE | True | 3 | 00:35 28/07/2026 | `basherq53eniermxovo3bkduw5qqq5bkqcml3qictfmamgvmzovykyqd.onion` |
+| BASHE | True | 3 | 00:35 28/07/2026 | `basherykagbxoaiaxkgqhmhd5gbmedwb3di4ig3ouovziagosv4n77qd.onion` |
 | BASHE | False | 3 | 20:51 27/07/2026 | `bashete63b3gcijfofpw6fmn3rwnmyi5aclp55n6awcfbexivexbhyad.onion` |
 | BASHE | False | 0 | 00:00 01/05/2021 | `eraleignews.com` |
-| none | True | 3 | 22:40 27/07/2026 | `bashe4aec32kr6zbifwd5x6xgjsmhg4tbowrbx4pneqhc5mqooyifpid.onion` |
+| none | True | 3 | 00:36 28/07/2026 | `bashe4aec32kr6zbifwd5x6xgjsmhg4tbowrbx4pneqhc5mqooyifpid.onion` |
 
 | post | date |
 |---|---|
@@ -20364,7 +20366,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| CHAOS | True | 3 | 22:42 27/07/2026 | `hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion` |
+| CHAOS | True | 3 | 00:39 28/07/2026 | `hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion` |
 
 | post | date |
 |---|---|
@@ -20375,7 +20377,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| CRYPTO24 - Data Leak Site | True | 3 | 22:42 27/07/2026 | `j5o5y2feotmhvr7cbcp2j2ewayv5mn5zenl3joqwx67gtfchhezjznad.onion` |
+| CRYPTO24 - Data Leak Site | True | 3 | 00:39 28/07/2026 | `j5o5y2feotmhvr7cbcp2j2ewayv5mn5zenl3joqwx67gtfchhezjznad.onion` |
 
 | post | date |
 |---|---|
@@ -20408,7 +20410,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| 502 Bad Gateway | True | 3 | 22:43 27/07/2026 | `direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion` |
+| 502 Bad Gateway | True | 3 | 00:39 28/07/2026 | `direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion` |
 
 | post | date |
 |---|---|
@@ -20497,7 +20499,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| LEAKED DATA | True | 0 | 17:29 27/07/2026 | `business-data-leaks.com` |
+| LEAKED DATA | True | 0 | 00:41 28/07/2026 | `business-data-leaks.com` |
 | none | True | 0 | 05:56 18/07/2026 | `ep6pheij.com` |
 
 | post | date |
