@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-28 | [`minigrip.com.mx`](https://google.com/search?q=minigrip.com.mx) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-07-28 | [`DUCON`](https://google.com/search?q=DUCON) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-28 | [`greenecountyga.gov`](https://google.com/search?q=greenecountyga.gov) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-28 | [`foundationstofreedom.org`](https://google.com/search?q=foundationstofreedom.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-27 | [`takethehop.com`](https://google.com/search?q=takethehop.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-05-11 | [`Bideawee`](https://google.com/search?q=Bideawee) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-11 | [`lalsgroup.com`](https://google.com/search?q=lalsgroup.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-11 | [`Forestdale`](https://google.com/search?q=Forestdale) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
-| 2026-05-11 | [`FOXCONN `](https://google.com/search?q=FOXCONN+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2026-05-10 | [`https://sibillacapital.com/`](https://google.com/search?q=https%3A%2F%2Fsibillacapital.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
