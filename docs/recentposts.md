@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-07-29 | [`StellarRAD Systems`](https://google.com/search?q=StellarRAD+Systems) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-07-28 | [`https://eclmn.com/`](https://google.com/search?q=https%3A%2F%2Feclmn.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-28 | [`Della Casa Group AG`](https://google.com/search?q=Della+Casa+Group+AG) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-28 | [`minigrip.com.mx`](https://google.com/search?q=minigrip.com.mx) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-05-12 | [`ACC Construction`](https://google.com/search?q=ACC+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-12 | [`SmilePoint Dental Group`](https://google.com/search?q=SmilePoint+Dental+Group) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-05-12 | [`rbh aerospace inc`](https://google.com/search?q=rbh+aerospace+inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-05-11 | [`Bideawee`](https://google.com/search?q=Bideawee) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
