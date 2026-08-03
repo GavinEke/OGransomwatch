@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-03 | [`[DISCLOSED]Fidelity Services Group`](https://google.com/search?q=%5BDISCLOSED%5DFidelity+Services+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-02 | [`ecfa.org`](https://google.com/search?q=ecfa.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-01 | [`The Butcher Brothers`](https://google.com/search?q=The+Butcher+Brothers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-01 | [`Sigma Plastics Group`](https://google.com/search?q=Sigma+Plastics+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-05-14 | [` FOXCONN`](https://google.com/search?q=+FOXCONN) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-05-14 | [`technic.com`](https://google.com/search?q=technic.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2026-05-13 | [`Silergy Corp`](https://google.com/search?q=Silergy+Corp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-05-12 | [`Town Car International`](https://google.com/search?q=Town+Car+International) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
