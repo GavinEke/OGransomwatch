@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-04 | [`pushidrosal.id`](https://google.com/search?q=pushidrosal.id) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-08-04 | [`lccgroup.com`](https://google.com/search?q=lccgroup.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-08-04 | [`https://geleximco.vn/`](https://google.com/search?q=https%3A%2F%2Fgeleximco.vn%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-08-04 | [`clintonhealthaccess.org`](https://google.com/search?q=clintonhealthaccess.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-04 | [`Oleoductos del Valle`](https://google.com/search?q=Oleoductos+del+Valle) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-03 | [`PCL Holding`](https://google.com/search?q=PCL+Holding) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-03 | [`[DISCLOSED]Fidelity Services Group`](https://google.com/search?q=%5BDISCLOSED%5DFidelity+Services+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2026-05-18 | [`bergen1.net`](https://google.com/search?q=bergen1.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-17 | [`metaval.com.au`](https://google.com/search?q=metaval.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-16 | [`RAMAR FOODS INTERNATIONAL`](https://google.com/search?q=RAMAR+FOODS+INTERNATIONAL) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2026-05-15 | [`Tower View Primary School`](https://google.com/search?q=Tower+View+Primary+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2026-05-15 | [`defenseisready.com`](https://google.com/search?q=defenseisready.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-05-15 | [`United Quality Cooperative / www.uqcoop.com`](https://google.com/search?q=United+Quality+Cooperative+%2F+www.uqcoop.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-05-14 | [` FOXCONN`](https://google.com/search?q=+FOXCONN) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
