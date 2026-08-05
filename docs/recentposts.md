@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-05 | [`PontoBR Sistemas`](https://google.com/search?q=PontoBR+Sistemas) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-05 | [`lantisnet.com`](https://google.com/search?q=lantisnet.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-05 | [`Loyalist College`](https://google.com/search?q=Loyalist+College) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-04 | [`TRULITE GLASS & ALUMINUM SOLUTIONS`](https://google.com/search?q=TRULITE+GLASS+%26+ALUMINUM+SOLUTIONS) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-05-21 | [`ungererandcompany.com`](https://google.com/search?q=ungererandcompany.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-05-21 | [`alkaloid.com.mk`](https://google.com/search?q=alkaloid.com.mk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-05-21 | [`providentgh.com`](https://google.com/search?q=providentgh.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-05-19 | [`Nothing`](https://google.com/search?q=Nothing) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
