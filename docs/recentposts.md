@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-06 | [`City of McMinnville OR`](https://google.com/search?q=City+of+McMinnville+OR) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-05 | [`vprj.org`](https://google.com/search?q=vprj.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-05 | [`PontoBR Sistemas`](https://google.com/search?q=PontoBR+Sistemas) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-05 | [`lantisnet.com`](https://google.com/search?q=lantisnet.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-05-22 | [`grupopetersen.com.ar`](https://google.com/search?q=grupopetersen.com.ar) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-05-21 | [`narit.or.th`](https://google.com/search?q=narit.or.th) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-05-21 | [`ungererandcompany.com`](https://google.com/search?q=ungererandcompany.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-05-21 | [`alkaloid.com.mk`](https://google.com/search?q=alkaloid.com.mk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
