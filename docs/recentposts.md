@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-07 | [`Signature Services`](https://google.com/search?q=Signature+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-08-07 | [`Platinum Group`](https://google.com/search?q=Platinum+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-08-07 | [`GCATS Investments`](https://google.com/search?q=GCATS+Investments) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-06 | [`City of Beacon`](https://google.com/search?q=City+of+Beacon) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-06 | [`TECHVENTURES BANK S.A.`](https://google.com/search?q=TECHVENTURES+BANK+S.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-06 | [`lya Construtora`](https://google.com/search?q=lya+Construtora) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2026-05-25 | [`IDS Group`](https://google.com/search?q=IDS+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-05-25 | [`Meirc training and consulting`](https://google.com/search?q=Meirc+training+and+consulting) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-23 | [`Mecanizados y Montajes Aeronáuticos (mymgroup.es)`](https://google.com/search?q=Mecanizados+y+Montajes+Aeron%C3%A1uticos+%28mymgroup.es%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-05-22 | [`tvnmedia.com`](https://google.com/search?q=tvnmedia.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-05-22 | [`minsa.com.mx`](https://google.com/search?q=minsa.com.mx) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-05-22 | [`threadinnovations`](https://google.com/search?q=threadinnovations) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
