@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-07 | [`Alya Construtora`](https://google.com/search?q=Alya+Construtora) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-07 | [`ATMS`](https://google.com/search?q=ATMS) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-07 | [`Signature Services`](https://google.com/search?q=Signature+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-07 | [`Platinum Group`](https://google.com/search?q=Platinum+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-05-25 | [`GW Mechanical`](https://google.com/search?q=GW+Mechanical) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-25 | [`De Waard Transport`](https://google.com/search?q=De+Waard+Transport) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-25 | [`IDS Group`](https://google.com/search?q=IDS+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2026-05-25 | [`Meirc training and consulting`](https://google.com/search?q=Meirc+training+and+consulting) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
