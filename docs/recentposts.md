@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-09 | [`Rilpa Enterprises`](https://google.com/search?q=Rilpa+Enterprises) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-08-09 | [`Marconi Industrial Services`](https://google.com/search?q=Marconi+Industrial+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-08-09 | [`MIE Solutions`](https://google.com/search?q=MIE+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-08 | [`Louisville Bar Association`](https://google.com/search?q=Louisville+Bar+Association) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-07 | [`Hitech Distribuzione Informatica S.r.l. (HTDI)`](https://google.com/search?q=Hitech+Distribuzione+Informatica+S.r.l.+%28HTDI%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-07 | [`Alya Construtora`](https://google.com/search?q=Alya+Construtora) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2026-05-25 | [`Open Door Health Center`](https://google.com/search?q=Open+Door+Health+Center) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-25 | [`Round Hill Country Club`](https://google.com/search?q=Round+Hill+Country+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-25 | [`NL Fisher`](https://google.com/search?q=NL+Fisher) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-05-25 | [`MyPillow`](https://google.com/search?q=MyPillow) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-05-25 | [`Legend Networking & Telecom`](https://google.com/search?q=Legend+Networking+%26+Telecom) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-05-25 | [`GW Mechanical`](https://google.com/search?q=GW+Mechanical) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
