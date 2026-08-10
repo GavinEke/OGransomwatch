@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-10 | [`[DISCLOSED]City of McMinnville OR`](https://google.com/search?q=%5BDISCLOSED%5DCity+of+McMinnville+OR) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-10 | [`Elixi International SA`](https://google.com/search?q=Elixi+International+SA) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-09 | [`[DISCLOSED]Nichirei`](https://google.com/search?q=%5BDISCLOSED%5DNichirei) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-09 | [`Rilpa Enterprises`](https://google.com/search?q=Rilpa+Enterprises) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-05-26 | [`BASE SPA`](https://google.com/search?q=BASE+SPA) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-05-26 | [`Filabé`](https://google.com/search?q=Filab%C3%A9) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-05-26 | [`PILLER AIMMCO`](https://google.com/search?q=PILLER+AIMMCO) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-05-25 | [`Open Door Health Center`](https://google.com/search?q=Open+Door+Health+Center) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
