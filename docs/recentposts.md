@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-12 | [`stuartandassociates.com`](https://google.com/search?q=stuartandassociates.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-08-12 | [`diabetesandmetabolism.com`](https://google.com/search?q=diabetesandmetabolism.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-08-12 | [`BEDC.COM.AU`](https://google.com/search?q=BEDC.COM.AU) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-12 | [`[DISCLOSED]City of Beacon`](https://google.com/search?q=%5BDISCLOSED%5DCity+of+Beacon) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-12 | [`Basso Fedele &amp; Figli S.r.l. (Olio Basso)    /     Villa Raiano`](https://google.com/search?q=Basso+Fedele+%26amp%3B+Figli+S.r.l.+%28Olio+Basso%29++++%2F+++++Villa+Raiano) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-10 | [`[DISCLOSED]City of McMinnville OR`](https://google.com/search?q=%5BDISCLOSED%5DCity+of+McMinnville+OR) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2026-05-29 | [`belimed.com`](https://google.com/search?q=belimed.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-28 | [`lawants`](https://google.com/search?q=lawants) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-05-27 | [`Distrigaz Vest S.A.`](https://google.com/search?q=Distrigaz+Vest+S.A.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-05-27 | [`Gestordes`](https://google.com/search?q=Gestordes) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-05-27 | [`Ridge Law Firm`](https://google.com/search?q=Ridge+Law+Firm) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-05-26 | [`BASE SPA`](https://google.com/search?q=BASE+SPA) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
