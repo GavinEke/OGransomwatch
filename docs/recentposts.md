@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-13 | [`SIA Medical Centre`](https://google.com/search?q=SIA+Medical+Centre) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-13 | [`clgroup`](https://google.com/search?q=clgroup) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-12 | [`gamaus.com`](https://google.com/search?q=gamaus.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-12 | [`stuartandassociates.com`](https://google.com/search?q=stuartandassociates.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-01 | [`Hightower Communications`](https://google.com/search?q=Hightower+Communications) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-01 | [`Digitall Graphics`](https://google.com/search?q=Digitall+Graphics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-05-30 | [`www.labexpress.com`](https://google.com/search?q=www.labexpress.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-05-29 | [`belimed.com`](https://google.com/search?q=belimed.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
