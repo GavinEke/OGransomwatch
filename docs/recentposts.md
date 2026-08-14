@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-14 | [`Pierce Township`](https://google.com/search?q=Pierce+Township) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-14 | [`[DISCLOSED]PCL Holding`](https://google.com/search?q=%5BDISCLOSED%5DPCL+Holding) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-14 | [`https://pacific-construction.com/`](https://google.com/search?q=https%3A%2F%2Fpacific-construction.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-13 | [`cambrialawfirm.com`](https://google.com/search?q=cambrialawfirm.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-02 | [`tkgm.gov.tr`](https://google.com/search?q=tkgm.gov.tr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-06-01 | [`Champaign-Urbana Public Health District`](https://google.com/search?q=Champaign-Urbana+Public+Health+District) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-01 | [`Bradley law firm`](https://google.com/search?q=Bradley+law+firm) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-01 | [`School Facility Consultants`](https://google.com/search?q=School+Facility+Consultants) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
