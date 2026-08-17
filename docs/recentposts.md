@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-17 | [`Lansing Urgent Care`](https://google.com/search?q=Lansing+Urgent+Care) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-17 | [`Otter Tail County, Minnesota`](https://google.com/search?q=Otter+Tail+County%2C+Minnesota) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-15 | [`SEARS (Grupo Sanborns)`](https://google.com/search?q=SEARS+%28Grupo+Sanborns%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-14 | [`Pierce Township`](https://google.com/search?q=Pierce+Township) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-03 | [`Colina Financial Advisors`](https://google.com/search?q=Colina+Financial+Advisors) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-02 | [`trrac.net`](https://google.com/search?q=trrac.net) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-02 | [`Stellar`](https://google.com/search?q=Stellar) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-06-02 | [`tkgm.gov.tr`](https://google.com/search?q=tkgm.gov.tr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
