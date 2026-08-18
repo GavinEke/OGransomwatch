@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-18 | [`ssf-int.com  ssf-ing.de`](https://google.com/search?q=ssf-int.com++ssf-ing.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-08-18 | [`nyklawfirm.com nyk.ae`](https://google.com/search?q=nyklawfirm.com+nyk.ae) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-08-18 | [`SpearFin Ltd`](https://google.com/search?q=SpearFin+Ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-18 | [`Foresee Pharmaceuticals`](https://google.com/search?q=Foresee+Pharmaceuticals) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-18 | [`Third Coast Bancshares`](https://google.com/search?q=Third+Coast+Bancshares) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-18 | [`SD Associates Sdn Bhd`](https://google.com/search?q=SD+Associates+Sdn+Bhd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2026-06-04 | [`Stuga Machinery`](https://google.com/search?q=Stuga+Machinery) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-04 | [`pdcbodynits`](https://google.com/search?q=pdcbodynits) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-04 | [`Sicol`](https://google.com/search?q=Sicol) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-06-04 | [`CUSTOMSIGN`](https://google.com/search?q=CUSTOMSIGN) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-03 | [` FOXCONN `](https://google.com/search?q=+FOXCONN+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2026-06-03 | [`Pyramid `](https://google.com/search?q=Pyramid+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
