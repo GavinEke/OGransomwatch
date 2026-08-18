@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-18 | [`Third Coast Bancshares`](https://google.com/search?q=Third+Coast+Bancshares) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-08-18 | [`SD Associates Sdn Bhd`](https://google.com/search?q=SD+Associates+Sdn+Bhd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-17 | [`Woodhaven Association`](https://google.com/search?q=Woodhaven+Association) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-17 | [`Sam Pack Auto Group`](https://google.com/search?q=Sam+Pack+Auto+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-17 | [`Bridgeport Capital Services`](https://google.com/search?q=Bridgeport+Capital+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-06-03 | [` FOXCONN `](https://google.com/search?q=+FOXCONN+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-06-03 | [`Pyramid `](https://google.com/search?q=Pyramid+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-06-03 | [`elections.mia.gov.am from WOLVES OF TURAN`](https://google.com/search?q=elections.mia.gov.am+from+WOLVES+OF+TURAN) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-06-03 | [`Geske Haus- und Versorgungstechnik GmbH`](https://google.com/search?q=Geske+Haus-+und+Versorgungstechnik+GmbH) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-06-03 | [`Oztugotomotiv`](https://google.com/search?q=Oztugotomotiv) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
