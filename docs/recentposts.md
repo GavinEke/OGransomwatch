@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-18 | [`Foresee Pharmaceuticals`](https://google.com/search?q=Foresee+Pharmaceuticals) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-18 | [`Third Coast Bancshares`](https://google.com/search?q=Third+Coast+Bancshares) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-18 | [`SD Associates Sdn Bhd`](https://google.com/search?q=SD+Associates+Sdn+Bhd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-17 | [`Woodhaven Association`](https://google.com/search?q=Woodhaven+Association) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-04 | [`CUSTOMSIGN`](https://google.com/search?q=CUSTOMSIGN) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-03 | [` FOXCONN `](https://google.com/search?q=+FOXCONN+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-06-03 | [`Pyramid `](https://google.com/search?q=Pyramid+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2026-06-03 | [`elections.mia.gov.am from WOLVES OF TURAN`](https://google.com/search?q=elections.mia.gov.am+from+WOLVES+OF+TURAN) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
