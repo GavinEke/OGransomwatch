@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-18 | [`[DISCLOSED]Alya Construtora`](https://google.com/search?q=%5BDISCLOSED%5DAlya+Construtora) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-18 | [`ssf-int.com  ssf-ing.de`](https://google.com/search?q=ssf-int.com++ssf-ing.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-18 | [`nyklawfirm.com nyk.ae`](https://google.com/search?q=nyklawfirm.com+nyk.ae) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-18 | [`SpearFin Ltd`](https://google.com/search?q=SpearFin+Ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-04 | [`Corley MFG`](https://google.com/search?q=Corley+MFG) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-04 | [`Stuga Machinery`](https://google.com/search?q=Stuga+Machinery) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-04 | [`pdcbodynits`](https://google.com/search?q=pdcbodynits) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-04 | [`Sicol`](https://google.com/search?q=Sicol) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
