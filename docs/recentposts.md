@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-19 | [`UNIPLASTICS.COM`](https://google.com/search?q=UNIPLASTICS.COM) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-08-19 | [`EXEL`](https://google.com/search?q=EXEL) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-08-19 | [`CDGARVINLAW`](https://google.com/search?q=CDGARVINLAW) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-08-19 | [`BANGKOKCABLE`](https://google.com/search?q=BANGKOKCABLE) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-18 | [`Coltrane Systems`](https://google.com/search?q=Coltrane+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-18 | [`[DISCLOSED]Alya Construtora`](https://google.com/search?q=%5BDISCLOSED%5DAlya+Construtora) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-18 | [`ssf-int.com  ssf-ing.de`](https://google.com/search?q=ssf-int.com++ssf-ing.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2026-06-06 | [`Pearson Ford`](https://google.com/search?q=Pearson+Ford) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-05 | [`obrieneng.com`](https://google.com/search?q=obrieneng.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-04 | [`Urschel Laboratories`](https://google.com/search?q=Urschel+Laboratories) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-06-04 | [`The Chapel`](https://google.com/search?q=The+Chapel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-06-04 | [`Dallis Law Firm`](https://google.com/search?q=Dallis+Law+Firm) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-06-04 | [`Corley MFG`](https://google.com/search?q=Corley+MFG) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-06-04 | [`Stuga Machinery`](https://google.com/search?q=Stuga+Machinery) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
