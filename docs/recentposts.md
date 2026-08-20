@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-20 | [`Latoplast`](https://google.com/search?q=Latoplast) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-08-20 | [`Be Media`](https://google.com/search?q=Be+Media) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-19 | [`UNIPLASTICS.COM`](https://google.com/search?q=UNIPLASTICS.COM) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-19 | [`EXEL`](https://google.com/search?q=EXEL) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-19 | [`CDGARVINLAW`](https://google.com/search?q=CDGARVINLAW) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-06-08 | [`Aegle Aviation`](https://google.com/search?q=Aegle+Aviation) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-06-06 | [`kelmreuter.com`](https://google.com/search?q=kelmreuter.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-06 | [`Pearson Ford`](https://google.com/search?q=Pearson+Ford) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-06-05 | [`obrieneng.com`](https://google.com/search?q=obrieneng.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-04 | [`Urschel Laboratories`](https://google.com/search?q=Urschel+Laboratories) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
