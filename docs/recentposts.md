@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-22 | [`holzmarkt chemnitz`](https://google.com/search?q=holzmarkt+chemnitz) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2026-08-22 | [`Freelom`](https://google.com/search?q=Freelom) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-22 | [`CRI Electric`](https://google.com/search?q=CRI+Electric) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-21 | [`Coming soon`](https://google.com/search?q=Coming+soon) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-21 | [`Fairview Dental Group`](https://google.com/search?q=Fairview+Dental+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-06-10 | [`Rainbow Distributors USA`](https://google.com/search?q=Rainbow+Distributors+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-10 | [`Mundt and Associates`](https://google.com/search?q=Mundt+and+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-10 | [`Cattani`](https://google.com/search?q=Cattani) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-06-10 | [`FIZA`](https://google.com/search?q=FIZA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-10 | [`Lösing Filtertechnik`](https://google.com/search?q=L%C3%B6sing+Filtertechnik) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
