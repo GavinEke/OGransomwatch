@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-22 | [`CRI Electric`](https://google.com/search?q=CRI+Electric) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-21 | [`Coming soon`](https://google.com/search?q=Coming+soon) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-21 | [`Fairview Dental Group`](https://google.com/search?q=Fairview+Dental+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-21 | [`Battle Creek Public Schools`](https://google.com/search?q=Battle+Creek+Public+Schools) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-10 | [`Cattani`](https://google.com/search?q=Cattani) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-06-10 | [`FIZA`](https://google.com/search?q=FIZA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-10 | [`Lösing Filtertechnik`](https://google.com/search?q=L%C3%B6sing+Filtertechnik) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-06-08 | [`Ma Pak Leung Company Limited`](https://google.com/search?q=Ma+Pak+Leung+Company+Limited) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
