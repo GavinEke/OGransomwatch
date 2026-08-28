@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-28 | [`Berlin, Germany`](https://google.com/search?q=Berlin%2C+Germany) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2026-08-28 | [`ProCare`](https://google.com/search?q=ProCare) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2026-08-28 | [`Ruby Seven Studios`](https://google.com/search?q=Ruby+Seven+Studios) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-28 | [`BENCIVIL`](https://google.com/search?q=BENCIVIL) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-28 | [`Rohloff Group`](https://google.com/search?q=Rohloff+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-06-16 | [` Pyramid `](https://google.com/search?q=+Pyramid+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-06-16 | [`framesiprofessional.com`](https://google.com/search?q=framesiprofessional.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-16 | [`ECOVACS`](https://google.com/search?q=ECOVACS) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-06-15 | [`3`](https://google.com/search?q=3) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-11 | [`Signazon_USA`](https://google.com/search?q=Signazon_USA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
