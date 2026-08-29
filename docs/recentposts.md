@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-29 | [`wittmann`](https://google.com/search?q=wittmann) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-29 | [`Oilquip Inc`](https://google.com/search?q=Oilquip+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-28 | [`Valley Health Team`](https://google.com/search?q=Valley+Health+Team) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-28 | [`Berlin, Germany`](https://google.com/search?q=Berlin%2C+Germany) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-17 | [`Gerencial`](https://google.com/search?q=Gerencial) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-06-16 | [`jasperplastics.info`](https://google.com/search?q=jasperplastics.info) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-16 | [`Promepla`](https://google.com/search?q=Promepla) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-06-16 | [` Pyramid `](https://google.com/search?q=+Pyramid+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
