@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-31 | [`Meteor Group`](https://google.com/search?q=Meteor+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-08-31 | [`MEQ`](https://google.com/search?q=MEQ) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-08-31 | [`KRC Machine Tool Solutions`](https://google.com/search?q=KRC+Machine+Tool+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-08-31 | [`Figgins Family Wine Estates`](https://google.com/search?q=Figgins+Family+Wine+Estates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-31 | [`cimbsecurities.com`](https://google.com/search?q=cimbsecurities.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-31 | [`New Century Ophthalmology Group`](https://google.com/search?q=New+Century+Ophthalmology+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-31 | [`FFKR Architects`](https://google.com/search?q=FFKR+Architects) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2026-06-21 | [`jktornel`](https://google.com/search?q=jktornel) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-20 | [`Newspaper Media Group`](https://google.com/search?q=Newspaper+Media+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-18 | [`Lawson Roofing`](https://google.com/search?q=Lawson+Roofing) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2026-06-18 | [`neuwoges.de`](https://google.com/search?q=neuwoges.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-18 | [`Horizon Family Medical Group`](https://google.com/search?q=Horizon+Family+Medical+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-17 | [`eurOptimum`](https://google.com/search?q=eurOptimum) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-06-17 | [`Integrated Technologies`](https://google.com/search?q=Integrated+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
