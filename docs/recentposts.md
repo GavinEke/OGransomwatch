@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-31 | [`cimbsecurities.com`](https://google.com/search?q=cimbsecurities.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-08-31 | [`New Century Ophthalmology Group`](https://google.com/search?q=New+Century+Ophthalmology+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-08-31 | [`FFKR Architects`](https://google.com/search?q=FFKR+Architects) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-31 | [`zummocorp.com`](https://google.com/search?q=zummocorp.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-31 | [`www.renorefractories.com`](https://google.com/search?q=www.renorefractories.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-31 | [`www.lichtvision.com`](https://google.com/search?q=www.lichtvision.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2026-06-18 | [`Horizon Family Medical Group`](https://google.com/search?q=Horizon+Family+Medical+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-17 | [`eurOptimum`](https://google.com/search?q=eurOptimum) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-17 | [`Integrated Technologies`](https://google.com/search?q=Integrated+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-06-17 | [`Greg Crosslin`](https://google.com/search?q=Greg+Crosslin) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-06-17 | [`Prince George County`](https://google.com/search?q=Prince+George+County) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-06-17 | [`Chebib Control`](https://google.com/search?q=Chebib+Control) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
