@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-01 | [`Szechenyi Programiroda Nonprofit Kf`](https://google.com/search?q=Szechenyi+Programiroda+Nonprofit+Kf) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-31 | [`Meteor Group`](https://google.com/search?q=Meteor+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-31 | [`MEQ`](https://google.com/search?q=MEQ) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-31 | [`KRC Machine Tool Solutions`](https://google.com/search?q=KRC+Machine+Tool+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-22 | [`[DISCLOSED]Karl Chevrolet`](https://google.com/search?q=%5BDISCLOSED%5DKarl+Chevrolet) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-06-21 | [`jktornel`](https://google.com/search?q=jktornel) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-20 | [`Newspaper Media Group`](https://google.com/search?q=Newspaper+Media+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-18 | [`Lawson Roofing`](https://google.com/search?q=Lawson+Roofing) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
