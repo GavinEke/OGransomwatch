@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-02 | [`Westfield Public School District`](https://google.com/search?q=Westfield+Public+School+District) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-09-02 | [`Trucka`](https://google.com/search?q=Trucka) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-09-02 | [`Policlinico Triestino`](https://google.com/search?q=Policlinico+Triestino) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-09-02 | [`Multiver Ltée`](https://google.com/search?q=Multiver+Lt%C3%A9e) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-09-02 | [`Metales Panamericanos`](https://google.com/search?q=Metales+Panamericanos) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-09-02 | [`Asfaltos y Pavimentos S.A. (Asfalpasa)`](https://google.com/search?q=Asfaltos+y+Pavimentos+S.A.+%28Asfalpasa%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-09-02 | [`[EVIDENCE]REXT Holdings Co., Ltd.`](https://google.com/search?q=%5BEVIDENCE%5DREXT+Holdings+Co.%2C+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-09-02 | [`specialtytextile.com`](https://google.com/search?q=specialtytextile.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-01 | [`REXT Holdings Co., Ltd.`](https://google.com/search?q=REXT+Holdings+Co.%2C+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-09-01 | [`Szechenyi Programiroda Nonprofit Kf`](https://google.com/search?q=Szechenyi+Programiroda+Nonprofit+Kf) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2026-06-26 | [`johndufourlaw.com`](https://google.com/search?q=johndufourlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-26 | [`Benchmark Industrial Supply`](https://google.com/search?q=Benchmark+Industrial+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-25 | [`Life Bridges`](https://google.com/search?q=Life+Bridges) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-25 | [`GSP Crop Science Pvt`](https://google.com/search?q=GSP+Crop+Science+Pvt) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-24 | [`horizoneye.com`](https://google.com/search?q=horizoneye.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-23 | [`viennaairport.com`](https://google.com/search?q=viennaairport.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-06-23 | [`gov.br`](https://google.com/search?q=gov.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-06-23 | [`smarty.arpinet.am`](https://google.com/search?q=smarty.arpinet.am) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-06-23 | [`belpointeasset.com \ belpointe.com`](https://google.com/search?q=belpointeasset.com+%5C+belpointe.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-22 | [`[DISCLOSED]Karl Chevrolet`](https://google.com/search?q=%5BDISCLOSED%5DKarl+Chevrolet) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
