@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-03 | [`myglobal.com`](https://google.com/search?q=myglobal.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-02 | [`Westfield Public School District`](https://google.com/search?q=Westfield+Public+School+District) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-02 | [`Trucka`](https://google.com/search?q=Trucka) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-02 | [`Policlinico Triestino`](https://google.com/search?q=Policlinico+Triestino) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-26 | [`theswansonlawgroup.com`](https://google.com/search?q=theswansonlawgroup.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-26 | [`johndufourlaw.com`](https://google.com/search?q=johndufourlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-26 | [`Benchmark Industrial Supply`](https://google.com/search?q=Benchmark+Industrial+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-06-25 | [`Life Bridges`](https://google.com/search?q=Life+Bridges) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
