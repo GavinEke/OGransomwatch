@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-04 | [`Studio Oculistico Ciraci`](https://google.com/search?q=Studio+Oculistico+Ciraci) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2026-09-04 | [`Schwartz, Giannini, Lantsberger &amp; Adamson (SGLA)`](https://google.com/search?q=Schwartz%2C+Giannini%2C+Lantsberger+%26amp%3B+Adamson+%28SGLA%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-09-03 | [`myglobal.com`](https://google.com/search?q=myglobal.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-02 | [`Westfield Public School District`](https://google.com/search?q=Westfield+Public+School+District) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-02 | [`Trucka`](https://google.com/search?q=Trucka) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-06-27 | [`J&J Gaming`](https://google.com/search?q=J%26J+Gaming) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-26 | [`callhorton.com`](https://google.com/search?q=callhorton.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-26 | [`theswansonlawgroup.com`](https://google.com/search?q=theswansonlawgroup.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-26 | [`johndufourlaw.com`](https://google.com/search?q=johndufourlaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-06-26 | [`Benchmark Industrial Supply`](https://google.com/search?q=Benchmark+Industrial+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
