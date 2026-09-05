@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-05 | [`D-MAX Engineering, Inc`](https://google.com/search?q=D-MAX+Engineering%2C+Inc) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-09-04 | [`Sports Endeavors`](https://google.com/search?q=Sports+Endeavors) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-09-04 | [`Studio Oculistico Ciraci`](https://google.com/search?q=Studio+Oculistico+Ciraci) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-09-04 | [`Schwartz, Giannini, Lantsberger &amp; Adamson (SGLA)`](https://google.com/search?q=Schwartz%2C+Giannini%2C+Lantsberger+%26amp%3B+Adamson+%28SGLA%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-06-29 | [`GDN AR(Dorinka)`](https://google.com/search?q=GDN+AR%28Dorinka%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-06-27 | [`Kuhnline`](https://google.com/search?q=Kuhnline) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-06-27 | [`J&J Gaming`](https://google.com/search?q=J%26J+Gaming) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-06-26 | [`callhorton.com`](https://google.com/search?q=callhorton.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
