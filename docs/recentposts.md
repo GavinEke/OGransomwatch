@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-10 | [`General Santos Doctors Hospital`](https://google.com/search?q=General+Santos+Doctors+Hospital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2026-09-10 | [`Professional Retail Services`](https://google.com/search?q=Professional+Retail+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-09-10 | [`jms building corporation`](https://google.com/search?q=jms+building+corporation) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-09 | [`cullottalaw.com`](https://google.com/search?q=cullottalaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-09 | [`https://mediengruppethiel.de/`](https://google.com/search?q=https%3A%2F%2Fmediengruppethiel.de%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-07-02 | [`carvalima.com.br`](https://google.com/search?q=carvalima.com.br) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-02 | [`acworth-ga.gov`](https://google.com/search?q=acworth-ga.gov) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-02 | [`kliknklik.com`](https://google.com/search?q=kliknklik.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-07-02 | [`X-Copper Professional`](https://google.com/search?q=X-Copper+Professional) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
-| 2026-07-02 | [`Salters propane`](https://google.com/search?q=Salters+propane) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
