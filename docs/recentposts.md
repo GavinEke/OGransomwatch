@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-15 | [`[DISCLOSED] California School Employees Association`](https://google.com/search?q=%5BDISCLOSED%5D+California+School+Employees+Association) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-09-12 | [`Axdia International`](https://google.com/search?q=Axdia+International) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-09-10 | [`Sys-kool`](https://google.com/search?q=Sys-kool) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-10 | [`Grunthal Welding & Supplies`](https://google.com/search?q=Grunthal+Welding+%26+Supplies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-07-02 | [`holidaypalace.com`](https://google.com/search?q=holidaypalace.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-02 | [`tricountyhs.org`](https://google.com/search?q=tricountyhs.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-02 | [`tambasa.com`](https://google.com/search?q=tambasa.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-07-02 | [`hamilton-eye.com`](https://google.com/search?q=hamilton-eye.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
