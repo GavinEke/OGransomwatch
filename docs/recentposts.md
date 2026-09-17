@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-17 | [`Pertamina`](https://google.com/search?q=Pertamina) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-09-17 | [`Silicon Integrated Systems`](https://google.com/search?q=Silicon+Integrated+Systems) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-17 | [`www.diarco.com.ar`](https://google.com/search?q=www.diarco.com.ar) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-17 | [`www.appliancefactory.com`](https://google.com/search?q=www.appliancefactory.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-07-03 | [`flazio.com`](https://google.com/search?q=flazio.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-03 | [`oakparkmi.gov`](https://google.com/search?q=oakparkmi.gov) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-02 | [`[EVIDENCE]Prince George County`](https://google.com/search?q=%5BEVIDENCE%5DPrince+George+County) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-07-02 | [`https://sza.it/`](https://google.com/search?q=https%3A%2F%2Fsza.it%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
