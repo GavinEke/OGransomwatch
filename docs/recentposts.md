@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-18 | [`Vista Plastic Solutions`](https://google.com/search?q=Vista+Plastic+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-09-18 | [`Inglewood Golf`](https://google.com/search?q=Inglewood+Golf) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2026-09-18 | [`Barrett Mahony Consulting Engineers`](https://google.com/search?q=Barrett+Mahony+Consulting+Engineers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-18 | [`www.roancampingholidays.com`](https://google.com/search?q=www.roancampingholidays.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-18 | [`www.kendallhunt.com`](https://google.com/search?q=www.kendallhunt.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-18 | [`MPA Pharma`](https://google.com/search?q=MPA+Pharma) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2026-07-06 | [`westernint.com`](https://google.com/search?q=westernint.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-06 | [`aydeniz.com`](https://google.com/search?q=aydeniz.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-06 | [`[DISCLOSED]Prince George County`](https://google.com/search?q=%5BDISCLOSED%5DPrince+George+County) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-07-06 | [`Blenheim`](https://google.com/search?q=Blenheim) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-07-04 | [`Silvestri & Associates Insurance`](https://google.com/search?q=Silvestri+%26+Associates+Insurance) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-07-04 | [`Locati Architects`](https://google.com/search?q=Locati+Architects) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
