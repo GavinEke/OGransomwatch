@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-21 | [`SECOND HOUSE`](https://google.com/search?q=SECOND+HOUSE) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2026-09-21 | [`Maryann Kriger`](https://google.com/search?q=Maryann+Kriger) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-19 | [`Kreishandwerkerschaft Borken`](https://google.com/search?q=Kreishandwerkerschaft+Borken) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-09-18 | [`Vista Plastic Solutions`](https://google.com/search?q=Vista+Plastic+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-18 | [`Inglewood Golf`](https://google.com/search?q=Inglewood+Golf) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2026-07-07 | [`samberger24.de`](https://google.com/search?q=samberger24.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-06 | [`vicentetrapani.com`](https://google.com/search?q=vicentetrapani.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-07-06 | [`azarestan.com`](https://google.com/search?q=azarestan.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-07-06 | [`westernint.com`](https://google.com/search?q=westernint.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-07-06 | [`aydeniz.com`](https://google.com/search?q=aydeniz.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
