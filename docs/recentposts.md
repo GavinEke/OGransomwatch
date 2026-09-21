@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-21 | [`U.S. Electrical Services and Wiedenbach Brown`](https://google.com/search?q=U.S.+Electrical+Services+and+Wiedenbach+Brown) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2026-09-21 | [`SECOND HOUSE`](https://google.com/search?q=SECOND+HOUSE) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-21 | [`Maryann Kriger`](https://google.com/search?q=Maryann+Kriger) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-19 | [`Kreishandwerkerschaft Borken`](https://google.com/search?q=Kreishandwerkerschaft+Borken) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-07-07 | [`tecnocurva.com.br`](https://google.com/search?q=tecnocurva.com.br) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-07 | [`samberger24.de`](https://google.com/search?q=samberger24.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-07-06 | [`vicentetrapani.com`](https://google.com/search?q=vicentetrapani.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-07-06 | [`azarestan.com`](https://google.com/search?q=azarestan.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
