@@ -1,352 +1,287 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>NitroBlog</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" crossorigin="anonymous">
-<style>body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}</style>
-</head>
-<body style="background-color: #FFFFF9;">
-<!-- HEADER -->
-<header class="w3-container w3-center" style="background: unset;"> 
-  <a href="/" style="position: fixed;left: 0;"><img src="/bg.png" style="width:100vw;height:100vh;object-fit:cover;filter: brightness(0.45);" alt="Nitrogen  Ransomware Group"></a>
-  <div class="container" style="z-index: 9;position: relative;margin: 15px auto;padding-top: 120px;">
-    <div class="col-sm-12 col-md-12" style="padding: 20px 20px 5px 20px;">
-      <a href="/" title="Go to Home Page" style="cursor:pointer;font-size: 42px;"><img alt="Nitrogen  Ransomware Group"  src="/logo.png" style="max-width: 600px;display: block;margin: 0 auto;"></a>
-      <!--<h1><b style="font-size: 96px;text-transform: uppercase;font-weight: bold;color: #26dddb;">Nitrogen</b></h1> -->
-      <h1 style="margin-top: -48px;margin-left: -302px;display: none;"><b style="font-size: 26px;color: #d2655b;text-transform: uppercase;">Ransomware Group</b></h1>
-      <p style="font-size: 20px;font-weight: 800;padding-top: 10px;">For more information <a href="/contact">Contact Us</a></p>
-    </div>
-  </div>
-  <h3 style="color:black;position:fixed;top:-15px;left:-15px;padding:25px;background:var(--bs-secondary-bg-subtle);z-index: 9999;">IMPORTANT: All links we provide in the READ_ME_TXT file are unique for each company. A general link to our TOX support is available on our blog. If you contact anyone through other links, you are responsible for the consequences.</h3>
-</header>
-<style>
-.page-item.active .page-link {
-  z-index: 3;
-  color: #000;
-  background-color: #869cac;
-  border-color: #192336;
-}
-.page-link {
-  position: relative;
-  display: block;
-  padding: .5rem .75rem;
-  margin-left: -1px;
-  line-height: 1.25;
-  color: #c69400;
-  background-color: #fff;
-  border: 1px solid #192336;
-  cursor:pointer;
-}
-.page-item.disabled .page-link {
-  color: #ffc107;
-  pointer-events: none;
-  cursor: auto;
-  background-color: gray;
-  border-color: #192336;
-}
-.page-item a {
-  color: #000;
-  text-decoration: dashed underline gray;
-  background-color: transparent;
-  display: inline-block;
-  padding: 10px;
-  min-width:100px;
-  text-transform: uppercase;
-}
-.page-link {
-  border-radius:0 !important;
-  font-weight: bold;
-}
-a {
-  color: black;
-}
-.footer a:hover {
-  color: #ffc107;
-  text-decoration: dashed underline #ffc107;
-  background-color: transparent;
-}
-.card-body {
-  min-height: 440px;
-}
-.card-body .card-text {
-  overflow: auto;  
-  height: 170px;
-  max-height: 170px;
-  min-height: 170px;
-}
-.hoverHomeImg {
-	background-color: #0f0c01;
-	max-height: 150px;
-	filter: grayscale(90%);
-}
-.hoverHomeImg:hover {
-	filter: grayscale(0%);
-	cursor: pointer;
-}
-</style>
-	<div class="container">
-		<div class="col-sm-12 col-md-12">
-			<nav aria-label="navigation" style="text-align: center;margin: 0 auto;margin-top:0px;display: inline-block;width: 100%;position: fixed;left: 0;right: 0;bottom: 0;z-index: 99;background: #e2e3e5;box-shadow: 0 0 5px #000;margin: 0;">
+	<head>
+		<title>NitroBlog - Home</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" crossorigin="anonymous">
+		<style>
+			body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+			.page-item.active .page-link { z-index: 3;color: #000;background-color: #869cac;border-color: #192336; }
+			.page-link { position: relative;display: block;padding: .5rem .75rem;margin-left: -1px;line-height: 1.25;color: #c69400;background-color: #fff;border: 1px solid #192336;cursor:pointer; }
+			.page-item.disabled .page-link { color: #ffc107;pointer-events: none;cursor: auto;background-color: gray;border-color: #192336;}
+			.page-item a { color: #000;text-decoration: dashed underline gray;background-color: transparent;display: inline-block;padding: 10px;min-width:100px;text-transform: uppercase; }
+			.page-link { border-radius:0 !important;font-weight: bold; }
+			a { color: black; }
+			.footer a:hover { color: #ffc107; text-decoration: dashed underline #ffc107; background-color: transparent; }
+			.card-body { min-height: 440px; }
+			.card-body .card-text { overflow: auto;height: 170px;max-height: 170px;min-height: 170px; }
+			.hoverHomeImg { background-color: #0f0c01; max-height: 150px; filter: grayscale(90%); }
+			.hoverHomeImg:hover { filter: grayscale(0%); cursor: pointer; }
+		</style>
+	</head>
+	<body style="background-color: #FFFFF9;">
+		<header class="w3-container w3-center" style="background: unset;"> 
+		  <a href="/" style="position: fixed;left: 0;"><img src="/bg.png" style="width:100vw;height:100vh;object-fit:cover;filter: brightness(0.45);" alt="Nitrogen  Ransomware Group"></a>
+		  <div class="container" style="z-index: 9;position: relative;margin: 15px auto;padding-top: 120px;">
+			<div class="col-sm-12 col-md-12" style="padding: 20px 20px 5px 20px;">
+			   <a href="/" title="Go to Home Page" style="cursor:pointer;font-size: 42px;text-decoration: none;color:#fff;"><img alt="Nitrogen  Ransomware Group"  src="/logo.png" style="max-width: 600px;display: block;margin: 0 auto;"></a>
+			  <h1 style="margin-top: -48px;margin-left: -302px;display: none;"><b style="font-size: 26px;color: #d2655b;text-transform: uppercase;">Ransomware Group</b></h1>
+			  <p style="font-size: 20px;font-weight: 800;padding-top: 10px;">For more information <a href="/contact">Contact Us</a></p>
+			</div>
+		  </div>
+		  <h3 style="color:black;position:fixed;top:-15px;left:-15px;padding:25px;background:var(--bs-secondary-bg-subtle);z-index: 9999;box-shadow: 0 0 5px #000;">IMPORTANT: All links we provide in the READ_ME_TXT file are unique for each company. A general link to our TOX support is available on our blog. If you contact anyone through other links, you are responsible for the consequences.</h3>
+		</header>
+		<div class="container">
+			<div class="col-sm-12 col-md-12">
+				<nav aria-label="navigation" style="text-align: center;margin: 0 auto;margin-top:0px;display: inline-block;width: 100%;position: fixed;left: 0;right: 0;bottom: 0;z-index: 99;background: #e2e3e5;box-shadow: 0 0 5px #000;margin: 0;">
+				
+					<ul class="pagination text-center  pagination-sm" style="display: inline-flex;list-style-type: none;margin: 0;">
+						
+						<li class="disabled page-item"><a class="page-link">First</a></li>
+						
+						
+						
+						
+						
+							<li class="active page-item"><a class="page-link">1</a></li>
+						
+						
+						
+						
+							<li class="page-item"><a href="/?page=2" class="page-link">2</a></li>
+						
+						
+						
+						
+							<li class="page-item"><a href="/?page=3" class="page-link">3</a></li>
+						
+						
+						
+						
+							<li class="page-item"><a href="/?page=4" class="page-link">4</a></li>
+						
+						
+						
+						
+							<li class="page-item"><a href="/?page=5" class="page-link">5</a></li>
+						
+						
+						
+						
+						<li class="page-item"><a class="page-link" href="/?page=5">Last</a></li>
+						
+					</ul>
+					
+				</nav>
+			</div>
+		</div>
+		<div class="container" style="margin-top: -10px;margin-bottom: 50px;">
+			<div class="row">
+		   
+			<div class="col-sm-12 col-md-6" style="padding: 15px;">
+				<div class="card text-center">
+					<div class="">
+						<div class="alert alert-secondary" role="alert">
+							<h2 style="min-height: 2.5em;">FOXCONN <br/><b>[ SALE ]</b></h2>
+						</div>
+					</div>
+					<div class="card-body">
+						<a href="/posts/6a0b4215b11688ac2f8de669"><img src="../img/foxconn.png" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
+							<h5 class="card-title"></h5>
+						<p><a href="https://www.foxconn.com" target="_blank">https://www.foxconn.com</a></p>
+							<p class="card-text"> The world&#39;s largest contract electronics manufacturer, whose operations are officially divided into four key segments: consumer electronics, cloud and networking products, computing equipment, as well as components and other products. </p>
+							<a href="/posts/6a0b4215b11688ac2f8de669" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
+					</div>
+					<div class="card-footer text-muted">
+						Mon May 18 2026
+					</div>
+				</div>
+			</div>
 			
-				<ul class="pagination text-center  pagination-sm" style="display: inline-flex;list-style-type: none;margin: 0;">
-				    
-					<li class="disabled page-item"><a class="page-link">First</a></li>
-				    
-				    
-				    
-				    
-					
-					    <li class="active page-item"><a class="page-link">1</a></li>
-					
-					
-				    
-					
-					    <li class="page-item"><a href="/?page=2" class="page-link">2</a></li>
-					
-					
-				    
-					
-					    <li class="page-item"><a href="/?page=3" class="page-link">3</a></li>
-					
-					
-				    
-					
-					    <li class="page-item"><a href="/?page=4" class="page-link">4</a></li>
-					
-					
-				    
-					
-					    <li class="page-item"><a href="/?page=5" class="page-link">5</a></li>
-					
-					
-				    
-				    
-					<li class="page-item"><a class="page-link" href="/?page=5">Last</a></li>
-				    
-				</ul>
-			    
-			</nav>
-		</div>
-	</div>
-
-<div class="container" style="margin-top: -10px;margin-bottom: 50px;">
-	<div class="row">
-   
-	<div class="col-sm-12 col-md-6" style="padding: 15px;">
-		<div class="card text-center">
-			<div class="">
-		 		<div class="alert alert-secondary" role="alert">
-		  			<h2 style="min-height: 2.5em;"> Pyramid  <br/><b>[ DUMP ]</b></h2>
+			<div class="col-sm-12 col-md-6" style="padding: 15px;">
+				<div class="card text-center">
+					<div class="">
+						<div class="alert alert-secondary" role="alert">
+							<h2 style="min-height: 2.5em;">Walbro <br/><b>[ ANNOUNCEMENT ]</b></h2>
+						</div>
+					</div>
+					<div class="card-body">
+						<a href="/posts/6ab533648d851b11148de666"><img src="../img/WALBROLOGO.png" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
+							<h5 class="card-title"></h5>
+						<p><a href="https://www.walbro.com/" target="_blank">https://www.walbro.com/</a></p>
+							<p class="card-text">Walbro is a global market leader in engine management and fuel systems for the Outdoor Power Equipment, Recreational, Marine, and Personal Transportation markets, and a leading supplier of high pressure aluminum die casting to various industries. Walbro manufactures carburetors, electronic fuel injection systems, ignition systems, fuel tanks, fuel pumps, valves and fuel storage and distribution systems, and offers value-added machining, electronics and assembly capabilities.</p>
+							<a href="/posts/6ab533648d851b11148de666" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
+					</div>
+					<div class="card-footer text-muted">
+						Thu Sep 24 2026
+					</div>
 				</div>
-		  	</div>
-		  	<div class="card-body">
-				<a href="/posts/6a3962dc2272dbcc688de666"><img src="../img/pyramid.png" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
-		    		<h5 class="card-title"></h5>
-				<p><a href="https://www.pyramidmg.com/" target="_blank">https://www.pyramidmg.com/</a></p>
-		    		<p class="card-text"> Ownership and management of shopping center. Development and redevelopment of real estate properties.  Leasing of space to retail chains, restaurants, and entertainment venues </p>
-		    		<a href="/posts/6a3962dc2272dbcc688de666" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
-
-	  		</div>
-			<div class="card-footer text-muted">
-			    Mon Jun 22 2026
+			</div>
+			
+			<div class="col-sm-12 col-md-6" style="padding: 15px;">
+				<div class="card text-center">
+					<div class="">
+						<div class="alert alert-secondary" role="alert">
+							<h2 style="min-height: 2.5em;">Research Electronics International <br/><b>[ ALL STOLEN DATA ]</b></h2>
+						</div>
+					</div>
+					<div class="card-body">
+						<a href="/posts/67c59cf90353f02a34fe6912"><img src="../img/rei.png" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
+							<h5 class="card-title"></h5>
+						<p><a href="https://reiusa.net/" target="_blank">https://reiusa.net/</a></p>
+							<p class="card-text">REI specializes in the design and manufacture of electronic test equipment for security applications. The company was founded in 1983 in Cookeville, Tennessee, U.S.A. by Bruce Barsumian, who later partnered with Tom Jones (GM) in 1995. In June 2019 REI became an Electronic Technologies subsidiary of HEICO Corporation (Hollywood, FL, USA). REI customers include government agencies, law enforcement organizations, corporate security personnel, and TSCM professionals worldwide that have a need and responsibility to protect sensitive information. </p>
+							<a href="/posts/67c59cf90353f02a34fe6912" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
+					</div>
+					<div class="card-footer text-muted">
+						Mon Mar 03 2025
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-sm-12 col-md-6" style="padding: 15px;">
+				<div class="card text-center">
+					<div class="">
+						<div class="alert alert-secondary" role="alert">
+							<h2 style="min-height: 2.5em;">PCCA <br/><b>[ ALL STOLEN DATA ]</b></h2>
+						</div>
+					</div>
+					<div class="card-body">
+						<a href="/posts/69f3951ab11688ac2f8de666"><img src="../img/PCCA.png" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
+							<h5 class="card-title"></h5>
+						<p><a href="https://www.pccarx.com/" target="_blank">https://www.pccarx.com/</a></p>
+							<p class="card-text"> PCCA supports the creation of personalized medicine and innovative products, as well as pharmaceutical compounding. </p>
+							<a href="/posts/69f3951ab11688ac2f8de666" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
+					</div>
+					<div class="card-footer text-muted">
+						Thu Apr 30 2026
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-sm-12 col-md-6" style="padding: 15px;">
+				<div class="card text-center">
+					<div class="">
+						<div class="alert alert-secondary" role="alert">
+							<h2 style="min-height: 2.5em;">SRP Federal Credit Union <br/><b>[ ALL STOLEN DATA ]</b></h2>
+						</div>
+					</div>
+					<div class="card-body">
+						<a href="/posts/67c59130bdf94c5497fe6912"><img src="../img/srp.png" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
+							<h5 class="card-title"></h5>
+						<p><a href="https://srpfcu.org/" target="_blank">https://srpfcu.org/</a></p>
+							<p class="card-text">SRP Federal Credit Union is a member-owned financial institution that offers a variety of financial products and services, including savings accounts, loans, credit cards, and mortgages..</p>
+							<a href="/posts/67c59130bdf94c5497fe6912" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
+					</div>
+					<div class="card-footer text-muted">
+						Mon Mar 03 2025
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-sm-12 col-md-6" style="padding: 15px;">
+				<div class="card text-center">
+					<div class="">
+						<div class="alert alert-secondary" role="alert">
+							<h2 style="min-height: 2.5em;">Red Barrels <br/><b>[ ALL STOLEN DATA ]</b></h2>
+						</div>
+					</div>
+					<div class="card-body">
+						<a href="/posts/671bb71eace0d87756fe6912"><img src="../img/red.jpg" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
+							<h5 class="card-title"></h5>
+						<p><a href="https://redbarrelsgames.com" target="_blank">https://redbarrelsgames.com</a></p>
+							<p class="card-text">Red Barrels Inc. is a Canadian video game developer based in Montreal. The company was founded by Philippe Morin, David Chateauneuf and Hugo Dallaire in 2011. The three were previously developers for Ubisoft Montreal and EA Montreal, but founded the company after the origination of an original intellectual property by Dallaire in 2010. After leaving their respective workplaces, the team&#39;s online presence began in July 2012 and a trailer for the game that became Outlast.</p>
+							<a href="/posts/671bb71eace0d87756fe6912" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
+					</div>
+					<div class="card-footer text-muted">
+						Fri Oct 25 2024
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-sm-12 col-md-6" style="padding: 15px;">
+				<div class="card text-center">
+					<div class="">
+						<div class="alert alert-secondary" role="alert">
+							<h2 style="min-height: 2.5em;">AKTO <br/><b>[ ALL STOLEN DATA ]</b></h2>
+						</div>
+					</div>
+					<div class="card-body">
+						<a href="/posts/680a327f19d445d86ffe6912"><img src="../img/akto.png" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
+							<h5 class="card-title"></h5>
+						<p><a href="https://www.akto.fr/" target="_blank">https://www.akto.fr/</a></p>
+							<p class="card-text">A French company specializing in digital learning and training solutions. It focuses on providing tools and services to improve corporate training, ensuring that companies can effectively upskill their employees. </p>
+							<a href="/posts/680a327f19d445d86ffe6912" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
+					</div>
+					<div class="card-footer text-muted">
+						Thu Apr 24 2025
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-sm-12 col-md-6" style="padding: 15px;">
+				<div class="card text-center">
+					<div class="">
+						<div class="alert alert-secondary" role="alert">
+							<h2 style="min-height: 2.5em;">Global Media Group <br/><b>[ ALL STOLEN DATA ]</b></h2>
+						</div>
+					</div>
+					<div class="card-body">
+						<a href="/posts/680a336d4e9679cbf4fe6911"><img src="../img/gmg.png" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
+							<h5 class="card-title"></h5>
+						<p><a href="https://www.globalmediagroup.pt/" target="_blank">https://www.globalmediagroup.pt/</a></p>
+							<p class="card-text">Global Media Group (Global Media) is a Portuguese media holding company, owning a portfolio of print and online media outlets, including newspapers and radio stations. </p>
+							<a href="/posts/680a336d4e9679cbf4fe6911" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
+					</div>
+					<div class="card-footer text-muted">
+						Thu Apr 24 2025
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-sm-12 col-md-6" style="padding: 15px;">
+				<div class="card text-center">
+					<div class="">
+						<div class="alert alert-secondary" role="alert">
+							<h2 style="min-height: 2.5em;">Labib Funk Associates <br/><b>[ ALL STOLEN DATA ]</b></h2>
+						</div>
+					</div>
+					<div class="card-body">
+						<a href="/posts/67055aaf9f31be2fc796403a"><img src="../img/johnl.png" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
+							<h5 class="card-title"></h5>
+						<p><a href="https://www.labibfunk.com" target="_blank">https://www.labibfunk.com</a></p>
+							<p class="card-text">Labib Funk + Associates is a design and architecture firm specializing in a variety of projects, including commercial, institutional, multifamily, mixed-use, and hospitality developments. They offer services in seismic retrofitting and affordable housing and have completed notable projects like the Intuit Dome, Lakers Training Facility, and NFL Media HQ. The firm&#39;s portfolio showcases a wide range of architectural work, emphasizing innovation and functionality.</p>
+							<a href="/posts/67055aaf9f31be2fc796403a" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
+					</div>
+					<div class="card-footer text-muted">
+						Tue Oct 08 2024
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-sm-12 col-md-6" style="padding: 15px;">
+				<div class="card text-center">
+					<div class="">
+						<div class="alert alert-secondary" role="alert">
+							<h2 style="min-height: 2.5em;">ENENSYS Technologies <br/><b>[ ALL STOLEN DATA ]</b></h2>
+						</div>
+					</div>
+					<div class="card-body">
+						<a href="/posts/69c693125830ad52a98de667"><img src="../img/Enensys.png" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
+							<h5 class="card-title"></h5>
+						<p><a href="https://www.enensys.com/" target="_blank">https://www.enensys.com/</a></p>
+							<p class="card-text"> One of the leaders in video stream optimization, security, and content monetization. Offers advanced solutions for efficient video delivery across all digital ecosystems. </p>
+							<a href="/posts/69c693125830ad52a98de667" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
+					</div>
+					<div class="card-footer text-muted">
+						Fri Mar 27 2026
+					</div>
+				</div>
+			</div>
+			
 			</div>
 		</div>
-	</div>
-    
-	<div class="col-sm-12 col-md-6" style="padding: 15px;">
-		<div class="card text-center">
-			<div class="">
-		 		<div class="alert alert-secondary" role="alert">
-		  			<h2 style="min-height: 2.5em;"> FOXCONN  <br/><b>[ Announcement ]</b></h2>
-				</div>
-		  	</div>
-		  	<div class="card-body">
-				<a href="/posts/6a0b4215b11688ac2f8de669"><img src="../img/foxconn.png" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
-		    		<h5 class="card-title"></h5>
-				<p><a href="https://www.foxconn.com" target="_blank">https://www.foxconn.com</a></p>
-		    		<p class="card-text"> The world&#39;s largest contract electronics manufacturer, whose operations are officially divided into four key segments: consumer electronics, cloud and networking products, computing equipment, as well as components and other products. </p>
-		    		<a href="/posts/6a0b4215b11688ac2f8de669" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
-
-	  		</div>
-			<div class="card-footer text-muted">
-			    Mon May 18 2026
-			</div>
-		</div>
-	</div>
-    
-	<div class="col-sm-12 col-md-6" style="padding: 15px;">
-		<div class="card text-center">
-			<div class="">
-		 		<div class="alert alert-secondary" role="alert">
-		  			<h2 style="min-height: 2.5em;"> PCCA  <br/><b>[ DUMP ]</b></h2>
-				</div>
-		  	</div>
-		  	<div class="card-body">
-				<a href="/posts/69f3951ab11688ac2f8de666"><img src="../img/PCCA.png" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
-		    		<h5 class="card-title"></h5>
-				<p><a href="https://www.pccarx.com/" target="_blank">https://www.pccarx.com/</a></p>
-		    		<p class="card-text"> PCCA supports the creation of personalized medicine and innovative products, as well as pharmaceutical compounding. </p>
-		    		<a href="/posts/69f3951ab11688ac2f8de666" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
-
-	  		</div>
-			<div class="card-footer text-muted">
-			    Thu Apr 30 2026
-			</div>
-		</div>
-	</div>
-    
-	<div class="col-sm-12 col-md-6" style="padding: 15px;">
-		<div class="card text-center">
-			<div class="">
-		 		<div class="alert alert-secondary" role="alert">
-		  			<h2 style="min-height: 2.5em;"> ENENSYS Technologies  <br/><b>[ DUMP ]</b></h2>
-				</div>
-		  	</div>
-		  	<div class="card-body">
-				<a href="/posts/69c693125830ad52a98de667"><img src="../img/Enensys.png" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
-		    		<h5 class="card-title"></h5>
-				<p><a href="https://www.enensys.com/" target="_blank">https://www.enensys.com/</a></p>
-		    		<p class="card-text"> One of the leaders in video stream optimization, security, and content monetization. Offers advanced solutions for efficient video delivery across all digital ecosystems. </p>
-		    		<a href="/posts/69c693125830ad52a98de667" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
-
-	  		</div>
-			<div class="card-footer text-muted">
-			    Fri Mar 27 2026
-			</div>
-		</div>
-	</div>
-    
-	<div class="col-sm-12 col-md-6" style="padding: 15px;">
-		<div class="card text-center">
-			<div class="">
-		 		<div class="alert alert-secondary" role="alert">
-		  			<h2 style="min-height: 2.5em;"> Connor Co  <br/><b>[ DUMP ]</b></h2>
-				</div>
-		  	</div>
-		  	<div class="card-body">
-				<a href="/posts/6978b76deb4ac6a38f8de667"><img src="../img/Connor.png" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
-		    		<h5 class="card-title"></h5>
-				<p><a href="https://www.connorco.com/" target="_blank">https://www.connorco.com/</a></p>
-		    		<p class="card-text"> TThe company operates in the wholesale trade of engineering materials and equipment.. </p>
-		    		<a href="/posts/6978b76deb4ac6a38f8de667" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
-
-	  		</div>
-			<div class="card-footer text-muted">
-			    Tue Jan 27 2026
-			</div>
-		</div>
-	</div>
-    
-	<div class="col-sm-12 col-md-6" style="padding: 15px;">
-		<div class="card text-center">
-			<div class="">
-		 		<div class="alert alert-secondary" role="alert">
-		  			<h2 style="min-height: 2.5em;"> Durashiloh  <br/><b>[ DUMP ]</b></h2>
-				</div>
-		  	</div>
-		  	<div class="card-body">
-				<a href="/posts/696e463fc0a01acfe88de666"><img src="../img/Shiloh.png" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
-		    		<h5 class="card-title"></h5>
-				<p><a href="https://durashiloh.com/" target="_blank">https://durashiloh.com/</a></p>
-		    		<p class="card-text"> The company specializes in the development, engineering, and manufacturing of various components and systems for the automotive industry and other sectors. </p>
-		    		<a href="/posts/696e463fc0a01acfe88de666" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
-
-	  		</div>
-			<div class="card-footer text-muted">
-			    Mon Jan 19 2026
-			</div>
-		</div>
-	</div>
-    
-	<div class="col-sm-12 col-md-6" style="padding: 15px;">
-		<div class="card text-center">
-			<div class="">
-		 		<div class="alert alert-secondary" role="alert">
-		  			<h2 style="min-height: 2.5em;"> Whitfield Welding Inc  <br/><b>[ DUMP ]</b></h2>
-				</div>
-		  	</div>
-		  	<div class="card-body">
-				<a href="/posts/696e24c6d0070f8c678de668"><img src="../img/White.png" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
-		    		<h5 class="card-title"></h5>
-				<p><a href="http://www.whitfieldwelding.com" target="_blank">http://www.whitfieldwelding.com</a></p>
-		    		<p class="card-text"> Specializing in instrumental welding (TIG, Micro TIG, MIG), microlaser welding, laser cladding, laser hardening, laser engraving, stress relieving, and mechanical processing. </p>
-		    		<a href="/posts/696e24c6d0070f8c678de668" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
-
-	  		</div>
-			<div class="card-footer text-muted">
-			    Mon Jan 19 2026
-			</div>
-		</div>
-	</div>
-    
-	<div class="col-sm-12 col-md-6" style="padding: 15px;">
-		<div class="card text-center">
-			<div class="">
-		 		<div class="alert alert-secondary" role="alert">
-		  			<h2 style="min-height: 2.5em;"> Walters Group Inc  <br/><b>[ DUMP ]</b></h2>
-				</div>
-		  	</div>
-		  	<div class="card-body">
-				<a href="/posts/696e23fbd0070f8c678de667"><img src="../img/Walters.png" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
-		    		<h5 class="card-title"></h5>
-				<p><a href="https://www.waltersgroupinc.com/" target="_blank">https://www.waltersgroupinc.com/</a></p>
-		    		<p class="card-text"> Specializing in the production of structural steel and construction. </p>
-		    		<a href="/posts/696e23fbd0070f8c678de667" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
-
-	  		</div>
-			<div class="card-footer text-muted">
-			    Mon Jan 19 2026
-			</div>
-		</div>
-	</div>
-    
-	<div class="col-sm-12 col-md-6" style="padding: 15px;">
-		<div class="card text-center">
-			<div class="">
-		 		<div class="alert alert-secondary" role="alert">
-		  			<h2 style="min-height: 2.5em;"> Golden Artist Colors  <br/><b>[ DUMP ]</b></h2>
-				</div>
-		  	</div>
-		  	<div class="card-body">
-				<a href="/posts/694003020a50b03fb9fe6911"><img src="../img/Golden.png" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
-		    		<h5 class="card-title"></h5>
-				<p><a href="https://goldenartistcolors.com/" target="_blank">https://goldenartistcolors.com/</a></p>
-		    		<p class="card-text"> A major manufacturer of art materials for professional artists and designers: acrylic paints, oils, watercolors, pastels and other media/materials. </p>
-		    		<a href="/posts/694003020a50b03fb9fe6911" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
-
-	  		</div>
-			<div class="card-footer text-muted">
-			    Mon Dec 15 2025
-			</div>
-		</div>
-	</div>
-    
-	<div class="col-sm-12 col-md-6" style="padding: 15px;">
-		<div class="card text-center">
-			<div class="">
-		 		<div class="alert alert-secondary" role="alert">
-		  			<h2 style="min-height: 2.5em;"> DeWalch Technologies, Inc  <br/><b>[ DUMP ]</b></h2>
-				</div>
-		  	</div>
-		  	<div class="card-body">
-				<a href="/posts/69133f6cf96fa5ed51fe6911"><img src="../img/Dewalch.png" onError="this.src='/img/error.jpg'" class="rounded mx-auto d-block img-thumbnail hoverHomeImg"></a>
-		    		<h5 class="card-title"></h5>
-				<p><a href="https://www.dewalch.com/" target="_blank">https://www.dewalch.com/</a></p>
-		    		<p class="card-text"> DeWalch Technologies, Inc. is a vertically integrated engineering and manufacturing company with operations in four key verticals: security, energy, manufacturing, and digital. </p>
-		    		<a href="/posts/69133f6cf96fa5ed51fe6911" class="btn btn-secondary" style="position: absolute;bottom: 50px;left: calc(50% - 65px);">Go somewhere</a>
-
-	  		</div>
-			<div class="card-footer text-muted">
-			    Tue Nov 11 2025
-			</div>
-		</div>
-	</div>
-    
-	</div>
-</div>
-</body>
+	</body>
 </html>
